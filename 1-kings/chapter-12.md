@@ -12,7 +12,7 @@ The tribes complained not to Rehoboam of his father's idolatry, and revolt from 
 
 ## Verses 16–24
 
-The people speak unbecomingly of David. How soon are good men, and their good services to the public, forgotten ! These considerations should reconcile us to our losses and troubles, that God is the Author of them, and our brethren the instruments: let us not meditate revenge. Rehoboam and his people hearkened to the word of the Lord. When we know God's mind, we must submit, how much soever it crosses our own mind. If we secure the favour of God, not all the universe can hurt us.
+The people speak unbecomingly of David. How soon are good men, and their good services to the public, forgotten! These considerations should reconcile us to our losses and troubles, that God is the Author of them, and our brethren the instruments: let us not meditate revenge. Rehoboam and his people hearkened to the word of the Lord. When we know God's mind, we must submit, how much soever it crosses our own mind. If we secure the favour of God, not all the universe can hurt us.
 
 ## Verses 25–33
 
