@@ -1,3 +1,7 @@
+---
+weight: 31
+---
+
 # Psalm 31
 
 ## Psalm Outline

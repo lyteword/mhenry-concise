@@ -1,3 +1,7 @@
+---
+weight: 3
+---
+
 # Psalm 3
 
 ## Psalm Outline

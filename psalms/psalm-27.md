@@ -1,3 +1,7 @@
+---
+weight: 27
+---
+
 # Psalm 27
 
 ## Psalm Outline

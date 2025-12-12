@@ -1,3 +1,7 @@
+---
+weight: 13
+---
+
 # Psalm 13
 
 ## Psalm Outline

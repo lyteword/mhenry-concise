@@ -1,3 +1,7 @@
+---
+weight: 1
+---
+
 # Psalm 1
 
 ## Psalm Outline

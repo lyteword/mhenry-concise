@@ -1,3 +1,7 @@
+---
+weight: 89
+---
+
 # Psalm 89
 
 ## Psalm Outline

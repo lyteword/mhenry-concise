@@ -1,3 +1,7 @@
+---
+weight: 25
+---
+
 # Psalm 25
 
 ## Psalm Outline

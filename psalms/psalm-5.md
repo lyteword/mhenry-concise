@@ -1,3 +1,7 @@
+---
+weight: 5
+---
+
 # Psalm 5
 
 ## Psalm Outline

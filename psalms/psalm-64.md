@@ -1,3 +1,7 @@
+---
+weight: 64
+---
+
 # Psalm 64
 
 ## Psalm Outline

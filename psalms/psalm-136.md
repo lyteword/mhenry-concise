@@ -1,3 +1,7 @@
+---
+weight: 136
+---
+
 # Psalm 136
 
 ## Psalm Outline

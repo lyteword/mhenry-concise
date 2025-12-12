@@ -1,3 +1,7 @@
+---
+weight: 148
+---
+
 # Psalm 148
 
 ## Psalm Outline

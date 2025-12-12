@@ -1,3 +1,7 @@
+---
+weight: 127
+---
+
 # Psalm 127
 
 ## Psalm Outline

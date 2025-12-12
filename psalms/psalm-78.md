@@ -1,3 +1,7 @@
+---
+weight: 78
+---
+
 # Psalm 78
 
 ## Psalm Outline

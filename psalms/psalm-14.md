@@ -1,3 +1,7 @@
+---
+weight: 14
+---
+
 # Psalm 14
 
 ## Psalm Outline

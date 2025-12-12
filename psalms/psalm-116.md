@@ -1,3 +1,7 @@
+---
+weight: 116
+---
+
 # Psalm 116
 
 ## Psalm Outline

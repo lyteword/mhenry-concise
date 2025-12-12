@@ -1,3 +1,7 @@
+---
+weight: 76
+---
+
 # Psalm 76
 
 ## Psalm Outline

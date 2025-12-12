@@ -1,3 +1,7 @@
+---
+weight: 23
+---
+
 # Psalm 23
 
 ## Psalm Outline

@@ -1,3 +1,7 @@
+---
+weight: 150
+---
+
 # Psalm 150
 
 ## Psalm Outline

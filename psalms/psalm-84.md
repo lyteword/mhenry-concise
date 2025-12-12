@@ -1,3 +1,7 @@
+---
+weight: 84
+---
+
 # Psalm 84
 
 ## Psalm Outline

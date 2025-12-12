@@ -1,3 +1,7 @@
+---
+weight: 145
+---
+
 # Psalm 145
 
 ## Psalm Outline

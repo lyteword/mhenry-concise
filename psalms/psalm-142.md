@@ -1,3 +1,7 @@
+---
+weight: 142
+---
+
 # Psalm 142
 
 ## Psalm Outline

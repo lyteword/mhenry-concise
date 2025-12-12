@@ -1,3 +1,7 @@
+---
+weight: 119
+---
+
 # Psalm 119
 
 ## Psalm Outline

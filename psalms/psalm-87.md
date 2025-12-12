@@ -1,3 +1,7 @@
+---
+weight: 87
+---
+
 # Psalm 87
 
 ## Psalm Outline

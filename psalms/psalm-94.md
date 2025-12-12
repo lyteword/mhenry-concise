@@ -1,3 +1,7 @@
+---
+weight: 94
+---
+
 # Psalm 94
 
 ## Psalm Outline

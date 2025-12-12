@@ -1,3 +1,7 @@
+---
+weight: 35
+---
+
 # Psalm 35
 
 ## Psalm Outline

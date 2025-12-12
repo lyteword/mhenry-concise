@@ -1,3 +1,7 @@
+---
+weight: 88
+---
+
 # Psalm 88
 
 ## Psalm Outline

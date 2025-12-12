@@ -1,3 +1,7 @@
+---
+weight: 12
+---
+
 # Psalm 12
 
 ## Psalm Outline

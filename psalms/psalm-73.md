@@ -1,3 +1,7 @@
+---
+weight: 73
+---
+
 # Psalm 73
 
 ## Psalm Outline

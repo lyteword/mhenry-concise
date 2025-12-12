@@ -1,3 +1,7 @@
+---
+weight: 30
+---
+
 # Psalm 30
 
 ## Psalm Outline

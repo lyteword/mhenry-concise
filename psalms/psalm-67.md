@@ -1,3 +1,7 @@
+---
+weight: 67
+---
+
 # Psalm 67
 
 ## Psalm Outline

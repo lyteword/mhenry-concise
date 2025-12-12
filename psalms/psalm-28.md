@@ -1,3 +1,7 @@
+---
+weight: 28
+---
+
 # Psalm 28
 
 ## Psalm Outline

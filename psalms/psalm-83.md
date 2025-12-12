@@ -1,3 +1,7 @@
+---
+weight: 83
+---
+
 # Psalm 83
 
 ## Psalm Outline

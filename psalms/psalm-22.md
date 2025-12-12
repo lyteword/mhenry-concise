@@ -1,3 +1,7 @@
+---
+weight: 22
+---
+
 # Psalm 22
 
 ## Psalm Outline

@@ -1,3 +1,7 @@
+---
+weight: 16
+---
+
 # Psalm 16
 
 ## Psalm Outline

@@ -1,3 +1,7 @@
+---
+weight: 98
+---
+
 # Psalm 98
 
 ## Psalm Outline

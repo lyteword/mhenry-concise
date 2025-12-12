@@ -1,3 +1,7 @@
+---
+weight: 41
+---
+
 # Psalm 41
 
 ## Psalm Outline

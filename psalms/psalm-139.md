@@ -1,3 +1,7 @@
+---
+weight: 139
+---
+
 # Psalm 139
 
 ## Psalm Outline

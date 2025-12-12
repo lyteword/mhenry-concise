@@ -1,3 +1,7 @@
+---
+weight: 129
+---
+
 # Psalm 129
 
 ## Psalm Outline

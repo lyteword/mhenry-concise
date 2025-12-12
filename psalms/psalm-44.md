@@ -1,3 +1,7 @@
+---
+weight: 44
+---
+
 # Psalm 44
 
 ## Psalm Outline

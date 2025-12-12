@@ -1,3 +1,7 @@
+---
+weight: 56
+---
+
 # Psalm 56
 
 ## Psalm Outline

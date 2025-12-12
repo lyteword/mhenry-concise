@@ -1,3 +1,7 @@
+---
+weight: 114
+---
+
 # Psalm 114
 
 ## Psalm Outline
