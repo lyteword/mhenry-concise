@@ -27,11 +27,11 @@ The ascension of Christ must here be meant, and thereto it is applied, Eph 4:8. 
 
 ## Verses 22–28
 
-The victories with which God blessed David over the enemies of Israel, are types of Christ's victory, for himself and for all believers. Those who take him for theirs, may see him acting as their God, as their King, for their good, and in answer to their prayers; especially in and by his word and ordinances. The kingdom of the Messiah shall be submitted to by all the rulers and learned in the world. The people seem to address the king, verse (28). But the words are applicable to the Redeemer, to his church, and every true believer. We pray, that thou, O God the Son, wilt complete thine undertaking for us, by finishing thy good work in us.
+The victories with which God blessed David over the enemies of Israel, are types of Christ's victory, for himself and for all believers. Those who take him for theirs, may see him acting as their God, as their King, for their good, and in answer to their prayers; especially in and by his word and ordinances. The kingdom of the Messiah shall be submitted to by all the rulers and learned in the world. The people seem to address the king, verse 28. But the words are applicable to the Redeemer, to his church, and every true believer. We pray, that thou, O God the Son, wilt complete thine undertaking for us, by finishing thy good work in us.
 
 ## Verses 29–31
 
-A powerful invitation is given to those that are without, to join the church. Some shall submit from fear; overcome by their consciences, and the checks of Providence, they are brought to make peace with the church. Others will submit willingly, verse (29, 31). There is that beauty and benefit in the service of God, and in the gospel of Christ which went forth from Jerusalem, which is enough to invite sinners out of all nations.
+A powerful invitation is given to those that are without, to join the church. Some shall submit from fear; overcome by their consciences, and the checks of Providence, they are brought to make peace with the church. Others will submit willingly, verses 29, 31. There is that beauty and benefit in the service of God, and in the gospel of Christ which went forth from Jerusalem, which is enough to invite sinners out of all nations.
 
 ## Verses 32–35
 
