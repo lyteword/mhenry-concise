@@ -26,7 +26,7 @@ Moses begins with a solemn appeal to heaven and earth, concerning the truth and 
 
 ## Verses 7–14
 
-Moses gives particular instances of God's kindness and concern for them. The eagle's care for her young is a beautiful emblem of Christ's love, who came between Divine justice and our guilty souls, and bare our sins in his own body on the tree. And by the preached gospel, and the influences of the Holy Spirit, He stirs up and prevails upon sinners to leave Satan's bondage. In ver. #(13, 14), are emblems of the conquest believers have over their spiritual enemies, sin, Satan, and the world, in and through Christ. Also of their safety and triumph in him; of their happy frames of soul, when they are above the world, and the things of it. This will be the blessed case of spiritual Israel in every sense in the latter day.
+Moses gives particular instances of God's kindness and concern for them. The eagle's care for her young is a beautiful emblem of Christ's love, who came between Divine justice and our guilty souls, and bare our sins in his own body on the tree. And by the preached gospel, and the influences of the Holy Spirit, He stirs up and prevails upon sinners to leave Satan's bondage. In verse (13, 14), are emblems of the conquest believers have over their spiritual enemies, sin, Satan, and the world, in and through Christ. Also of their safety and triumph in him; of their happy frames of soul, when they are above the world, and the things of it. This will be the blessed case of spiritual Israel in every sense in the latter day.
 
 ## Verses 15–18
 

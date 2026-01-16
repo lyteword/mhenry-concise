@@ -22,7 +22,7 @@ Samson had been more than once brought into mischief and danger by the love of w
 
 ## Verses 18–21
 
-See the fatal effects of false security. Satan ruins men by flattering them into a good opinion of their own safety, and so bringing them to mind nothing, and fear nothing; and then he robs them of their strength and honour, and leads them captive at his will. When we sleep our spiritual enemies do not. Samson's eyes were the inlets of his sin, (ver. #(1),) and now his punishment began there. Now the Philistines blinded him, he had time to remember how his own lust had before blinded him. The best way to preserve the eyes, is, to turn them away from beholding vanity. Take warning by his fall, carefully to watch against all fleshly lusts; for all our glory is gone, and our defence departed from us, when our separation to God, as spiritual Nazarites, is profaned.
+See the fatal effects of false security. Satan ruins men by flattering them into a good opinion of their own safety, and so bringing them to mind nothing, and fear nothing; and then he robs them of their strength and honour, and leads them captive at his will. When we sleep our spiritual enemies do not. Samson's eyes were the inlets of his sin, (ver. (1),) and now his punishment began there. Now the Philistines blinded him, he had time to remember how his own lust had before blinded him. The best way to preserve the eyes, is, to turn them away from beholding vanity. Take warning by his fall, carefully to watch against all fleshly lusts; for all our glory is gone, and our defence departed from us, when our separation to God, as spiritual Nazarites, is profaned.
 
 ## Verses 22–24
 
