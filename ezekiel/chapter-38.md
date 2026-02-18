@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 38 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "38"
+description: "In this chapter: The army and malice of Gog. (1-13). God's judgments. (14-23)."
 weight: 38
 ---
 
-# Chapter 38
+# Ezekiel 38 
 
 ## Chapter Outline
 

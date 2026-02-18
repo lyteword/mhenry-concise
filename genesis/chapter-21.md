@@ -1,8 +1,11 @@
 ---
+title: "Genesis 21 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "21"
+description: "In this chapter: Birth of Isaac, Sarah's joy. (1–8). Ishmael mocks Isaac. (9–13). Hagar and Ishmael are cast forth, They are relieved and comforted by an angel. (14–21). Abimelech's covenant with Abraham. (22–34)."
 weight: 21
 ---
 
-# Chapter 21
+# Genesis 21 
 
 ## Chapter Outline
 

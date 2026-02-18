@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 16 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "16"
+description: "In this chapter: Asa seeks the aid of the Syrians, His death. (1-14)."
 weight: 16
 ---
 
-# Chapter 16
+# 2 Chronicles 16 
 
 ## Chapter Outline
 

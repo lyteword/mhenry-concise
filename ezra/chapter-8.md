@@ -1,8 +1,11 @@
 ---
+title: "Ezra 8 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "8"
+description: "In this chapter: The companions of Ezra. (1–20). Ezra implores God's blessing. (21–23). Treasures committed to the priests. (24–30). Ezra arrives at Jerusalem. (31–36)."
 weight: 8
 ---
 
-# Chapter 8
+# Ezra 8 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "Luke 22 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "22"
+description: "In this chapter: The treachery of Judas. (1–6). The passover. (7–18). The Lord's supper instituted. (19, 20). Christ admonishes the disciples. (21–38). Christ's agony in the garden. (39–46). Christ betrayed. (47–53). The fall of Peter. (54–62). Christ confesses himself to be the Son of God. (63–71)."
 weight: 22
 ---
 
-# Chapter 22
+# Luke 22 
 
 ## Chapter Outline
 

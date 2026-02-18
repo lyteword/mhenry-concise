@@ -1,8 +1,11 @@
 ---
+title: "Mark 15 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "15"
+description: "In this chapter: Christ before Pilate. (1–14). Christ led to be crucified. (15–21). The crucifixion. (22–32). The death of Christ. (33–41). His body buried. (42–47)."
 weight: 15
 ---
 
-# Chapter 15
+# Mark 15 
 
 ## Chapter Outline
 

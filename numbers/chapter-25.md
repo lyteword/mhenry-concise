@@ -1,8 +1,11 @@
 ---
+title: "Numbers 25 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "25"
+description: "In this chapter: The Israelites enticed by the daughters of Moab and Midian. (1–5). Phinehas puts Zimri and Cozbi to death. (6–15). The Midianites to be punished. (16–18)."
 weight: 25
 ---
 
-# Chapter 25
+# Numbers 25 
 
 ## Chapter Outline
 

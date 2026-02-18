@@ -1,8 +1,11 @@
 ---
+title: "Galatians 4 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "4"
+description: "In this chapter: The folly of returning to legal observances for justification. (1–7). The happy change made in the Gentile believers. (8–11). The apostle reasons against following false teachers. (12–18). He expresses his earnest concern for them. (19, 20). And then explains the difference between what is to be expected from the law, and from the gospel. (21–31)."
 weight: 4
 ---
 
-# Chapter 4
+# Galatians 4 
 
 ## Chapter Outline
 

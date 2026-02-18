@@ -1,8 +1,11 @@
 ---
+title: "Acts 18 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "18"
+description: "In this chapter: Paul at Corinth, with Aquila and Priscilla. (1–6). He continues to preach at Corinth. (7–11). Paul before Gallio. (12–17). He visits Jerusalem. (18–23). Apollos teaches at Ephesus and in Achaia. (24–28)."
 weight: 18
 ---
 
-# Chapter 18
+# Acts 18 
 
 ## Chapter Outline
 

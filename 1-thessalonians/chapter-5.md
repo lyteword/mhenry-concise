@@ -1,8 +1,11 @@
 ---
+title: "1 Thessalonians 5 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "5"
+description: "In this chapter: The apostle exhorts to be always ready for the coming of Christ to judgment, which will be with suddenness and surprise. (1–11). He directs to several particular duties. (12–22). And concludes with prayer, greetings, and a blessing. (23–28)."
 weight: 5
 ---
 
-# Chapter 5
+# 1 Thessalonians 5 
 
 ## Chapter Outline
 

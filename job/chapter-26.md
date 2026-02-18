@@ -1,8 +1,11 @@
 ---
+title: "Job 26 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "26"
+description: "In this chapter: Job reproves Bildad. (1–4). Job acknowledges the power of God. (5–14)."
 weight: 26
 ---
 
-# Chapter 26
+# Job 26 
 
 ## Chapter Outline
 

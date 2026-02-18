@@ -1,8 +1,11 @@
 ---
+title: "Amos 4 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "4"
+description: "In this chapter: Israel is reproved. (1–5). Their impenitence shown. (6–13)."
 weight: 4
 ---
 
-# Chapter 4
+# Amos 4 
 
 ## Chapter Outline
 

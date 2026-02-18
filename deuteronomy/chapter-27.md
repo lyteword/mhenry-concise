@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 27 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "27"
+description: "In this chapter: The law to be written on stones in the promised land. (1–10). The curses to be pronounced on mount Ebal. (11–26)."
 weight: 27
 ---
 
-# Chapter 27
+# Deuteronomy 27 
 
 ## Chapter Outline
 

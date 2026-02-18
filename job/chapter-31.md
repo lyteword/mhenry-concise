@@ -1,8 +1,11 @@
 ---
+title: "Job 31 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "31"
+description: "In this chapter: Job declares his uprightness. (1–8). His integrity. (9–15). Job merciful. (16–23). Job not guilty of covetousness or idolatry. (24–32). Job not guilty of hypocrisy and violence. (33–40)."
 weight: 31
 ---
 
-# Chapter 31
+# Job 31 
 
 ## Chapter Outline
 

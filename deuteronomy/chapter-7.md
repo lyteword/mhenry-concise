@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 7 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "7"
+description: "In this chapter: Intercourse with the Canaanites forbidden. (1–11). Promises if they were obedient. (12–26)."
 weight: 7
 ---
 
-# Chapter 7
+# Deuteronomy 7 
 
 ## Chapter Outline
 

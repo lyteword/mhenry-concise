@@ -1,8 +1,11 @@
 ---
+title: "Genesis 39 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "39"
+description: "In this chapter: Joseph preferred by Potiphar. (1–6). Joseph resists temptation. (7–12). Joseph is falsely accused by his mistress. (13–18). He is cast into prison, God is with him there. (19–23)."
 weight: 39
 ---
 
-# Chapter 39
+# Genesis 39 
 
 ## Chapter Outline
 

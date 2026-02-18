@@ -1,8 +1,11 @@
 ---
+title: "1 Thessalonians 3 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "3"
+description: "In this chapter: The apostle sent Timothy to establish and comfort the Thessalonians. (1–5). He rejoiced at the good tidings of their faith and love. (6–10). And for their increase in grace. (11–13)."
 weight: 3
 ---
 
-# Chapter 3
+# 1 Thessalonians 3 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 20 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "20"
+description: "In this chapter: Law against sacrificing children to Moloch, Of children that curse their parents. (1–9). Laws repeated, Holiness enjoined. (10–27)."
 weight: 20
 ---
 
-# Chapter 20
+# Leviticus 20 
 
 ## Chapter Outline
 

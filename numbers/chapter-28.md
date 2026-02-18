@@ -1,8 +1,11 @@
 ---
+title: "Numbers 28 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "28"
+description: "In this chapter: Offerings, The daily sacrifice. (1–8). The offering on the sabbath and new moons. (9–15). Offerings at the passover, and on the day of first-fruits. (16–31)."
 weight: 28
 ---
 
-# Chapter 28
+# Numbers 28 
 
 ## Chapter Outline
 

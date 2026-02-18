@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 20 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "20"
+description: "In this chapter: The doom of Pashur, who ill-treated the prophet. (1-6). Jeremiah complains of hard usage. (7-13). He regrets his ever having been born. (14-18)."
 weight: 20
 ---
 
-# Chapter 20
+# Jeremiah 20 
 
 ## Chapter Outline
 

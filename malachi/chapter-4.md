@@ -1,8 +1,11 @@
 ---
+title: "Malachi 4 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "4"
+description: "In this chapter: The judgements on the wicked, and the happiness of the righteous. (1–3). Regard to be had to the law; John the Baptist promised as the forerunner of Messiah. (4–6)."
 weight: 4
 ---
 
-# Chapter 4
+# Malachi 4 
 
 ## Chapter Outline
 

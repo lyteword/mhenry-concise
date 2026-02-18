@@ -1,8 +1,11 @@
 ---
+title: "Colossians 2 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "2"
+description: "In this chapter: The apostle expresses his love to, and joy in believers. (1–7). He cautions against the errors of heathen philosophy; also against Jewish traditions, and rites which had been fulfilled in Christ. (8–17). Against worshipping angels; and against legal ordinances. (18–23)."
 weight: 2
 ---
 
-# Chapter 2
+# Colossians 2 
 
 ## Chapter Outline
 

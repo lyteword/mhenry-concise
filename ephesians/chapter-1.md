@@ -1,8 +1,11 @@
 ---
+title: "Ephesians 1 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "1"
+description: "In this chapter: A salutation, and an account of saving blessings, as prepared in God's eternal election, as purchased by Christ's blood. (1–8). And as conveyed in effectual calling: this is applied to the believing Jews, and to the believing Gentiles. (9–14). The apostle thanks God for their faith and love, and prays for the continuance of their knowledge and hope, with respect to the heavenly inheritance, and to God's powerful working in them. (15–23)."
 weight: 1
 ---
 
-# Chapter 1
+# Ephesians 1 
 
 ## Chapter Outline
 

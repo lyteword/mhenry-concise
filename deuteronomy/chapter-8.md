@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 8 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "8"
+description: "In this chapter: Exhortations and cautions, enforced by the Lord's former dealings with Israel, and his promises. (1–9). Exhortations and cautions further enforced. (10–20)."
 weight: 8
 ---
 
-# Chapter 8
+# Deuteronomy 8 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "1 John 2 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "2"
+description: "In this chapter: The apostle directs to the atonement of Christ for help against sinful infirmities. (1, 2). The effects of saving knowledge in producing obedience, and love to the brethren. (3–11). Christians addressed as little children, young men, and fathers. (12–14). All are cautioned against the love of this world, and against errors. (15–23). They are encouraged to stand fast in faith and holiness. (24–29)."
 weight: 2
 ---
 
-# Chapter 2
+# 1 John 2 
 
 ## Chapter Outline
 

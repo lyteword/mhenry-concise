@@ -1,8 +1,11 @@
 ---
+title: "Nehemiah 6 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "6"
+description: "In this chapter: Sanballat's plot to hinder Nehemiah. (1–9). False prophets try to frighten Nehemiah. (10–14). The wall finished, Treachery of some among the Jews. (15–19)."
 weight: 6
 ---
 
-# Chapter 6
+# Nehemiah 6 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 18 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "18"
+description: "In this chapter: Jonathan's friendship for David. (1–5). Saul seeks to kill David. (6–11). Saul's fear of David. (12–30)."
 weight: 18
 ---
 
-# Chapter 18
+# 1 Samuel 18 
 
 ## Chapter Outline
 

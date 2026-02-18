@@ -1,8 +1,11 @@
 ---
+title: "Ruth 4 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "4"
+description: "In this chapter: The kinsman refuses to redeem Ruth's inheritance. (1–8). Boaz marries Ruth. (9–12). Birth of Obed. (13–22)."
 weight: 4
 ---
 
-# Chapter 4
+# Ruth 4 
 
 ## Chapter Outline
 

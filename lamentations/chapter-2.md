@@ -1,8 +1,11 @@
 ---
+title: "Lamentations 2 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "2"
+description: "In this chapter: Lamentation for the misery of Jerusalem. (1-22)."
 weight: 2
 ---
 
-# Chapter 2
+# Lamentations 2 
 
 ## Chapter Outline
 

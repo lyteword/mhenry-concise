@@ -1,8 +1,11 @@
 ---
+title: "Hosea 2 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "2"
+description: "In this chapter: The idolatry of the people. (1-5). God's judgments against them. (6-13). His promises of reconciliation. (14-23)."
 weight: 2
 ---
 
-# Chapter 2
+# Hosea 2 
 
 ## Chapter Outline
 

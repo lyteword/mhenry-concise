@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 19 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "19"
+description: "In this chapter: A parable lamenting the ruin of Jehoahaz and Jehoiakim. (1-9). Another describing the desolation of the people. (10-14)."
 weight: 19
 ---
 
-# Chapter 19
+# Ezekiel 19 
 
 ## Chapter Outline
 

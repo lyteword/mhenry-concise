@@ -1,8 +1,11 @@
 ---
+title: "John 18 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "18"
+description: "In this chapter: Christ taken in the garden. (1–12). Christ before Annas and Caiaphas. (13–27). Christ before Pilate. (28–40)."
 weight: 18
 ---
 
-# Chapter 18
+# John 18 
 
 ## Chapter Outline
 

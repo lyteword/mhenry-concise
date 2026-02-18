@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 20 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "20"
+description: "In this chapter: The invasion and conquest of Egypt and Ethiopia. (1-6)."
 weight: 20
 ---
 
-# Chapter 20
+# Isaiah 20 
 
 ## Chapter Outline
 

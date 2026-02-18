@@ -1,8 +1,11 @@
 ---
+title: "Revelation 13 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "13"
+description: "In this chapter: A wild beast rises out of the sea, to whom the dragon gives his power. (1–10). Another beast, which has two horns like a lamb, but speaks as a dragon. (11–15). It obliges all to worship its image, and receive its mark, as persons devoted to it. (16–18)."
 weight: 13
 ---
 
-# Chapter 13
+# Revelation 13 
 
 ## Chapter Outline
 

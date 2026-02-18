@@ -1,8 +1,11 @@
 ---
+title: "Acts 11 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "11"
+description: "In this chapter: Peter's defence. (1–18). The success of the gospel at Antioch. (19–24). The disciples named Christians, Relief sent to Judea. (25–30)."
 weight: 11
 ---
 
-# Chapter 11
+# Acts 11 
 
 ## Chapter Outline
 

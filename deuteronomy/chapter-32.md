@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 32 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "32"
+description: "In this chapter: The song of Moses. (1, 2). The character of God, The character of Israel. (3–6). The great things God had done for Israel. (7–14). The wickedness of Israel. (19–25). The judgments which would come upon them for their sins. (15–18). Deserved vengeance withheld. (26–38). God's deliverance for his people. (39–43). The exhortation with which the song was delivered. (44–47). Moses to go up mount Nebo to die. (48–52)."
 weight: 32
 ---
 
-# Chapter 32
+# Deuteronomy 32 
 
 ## Chapter Outline
 

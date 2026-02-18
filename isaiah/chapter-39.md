@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 39 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "39"
+description: "In this chapter: Hezekiah shows his treasures to the ambassadors from Babylon, His death. (1-8)."
 weight: 39
 ---
 
-# Chapter 39
+# Isaiah 39 
 
 ## Chapter Outline
 

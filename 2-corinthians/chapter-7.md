@@ -1,8 +1,11 @@
 ---
+title: "2 Corinthians 7 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "7"
+description: "In this chapter: An exhortation to holiness, and the whole church entreated to bear affection to the apostle. (1–4). He rejoiced in their sorrowing to repentance. (5–11). And in the comfort they and Titus had together. (12–16)."
 weight: 7
 ---
 
-# Chapter 7
+# 2 Corinthians 7 
 
 ## Chapter Outline
 

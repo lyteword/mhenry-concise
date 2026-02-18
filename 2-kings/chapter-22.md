@@ -1,8 +1,11 @@
 ---
+title: "2 Kings 22 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "22"
+description: "In this chapter: Josiah's good reign, His care for repairing the temple, The book of the law found. (1–10). Josiah consults Huldah the prophetess. (11–20)."
 weight: 22
 ---
 
-# Chapter 22
+# 2 Kings 22 
 
 ## Chapter Outline
 

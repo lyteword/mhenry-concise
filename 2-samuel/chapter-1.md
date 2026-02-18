@@ -1,8 +1,11 @@
 ---
+title: "2 Samuel 1 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "1"
+description: "In this chapter: Tidings brought to David of the death of Saul. (1–10). The Amalekite is put to death. (11–16). David's lamentation for Saul and Jonathan. (17–27)."
 weight: 1
 ---
 
-# Chapter 1
+# 2 Samuel 1 
 
 ## Chapter Outline
 

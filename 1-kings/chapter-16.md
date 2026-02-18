@@ -1,8 +1,11 @@
 ---
+title: "1 Kings 16 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "16"
+description: "In this chapter: The reigns of Baasha and Elah in Israel. (1–14). Reigns of Zimri and Omri in Israel. (15–28). Ahab's wickedness, Hiel rebuilds Jericho. (29–34)."
 weight: 16
 ---
 
-# Chapter 16
+# 1 Kings 16 
 
 ## Chapter Outline
 

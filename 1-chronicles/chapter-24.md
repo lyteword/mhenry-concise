@@ -1,8 +1,11 @@
 ---
+title: "1 Chronicles 24 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "24"
+description: "In this chapter: The divisions of the priests and Levites. (1-31)."
 weight: 24
 ---
 
-# Chapter 24
+# 1 Chronicles 24 
 
 ## Chapter Outline
 

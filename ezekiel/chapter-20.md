@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 20 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "20"
+description: "In this chapter: The elders of Israel are reminded of the idolatry in Egypt. (1-9). In the wilderness. (10-26). In Canaan. (27-32). God promises to pardon and restore them. (33-44). Prophecy against Jerusalem. (45-49)."
 weight: 20
 ---
 
-# Chapter 20
+# Ezekiel 20 
 
 ## Chapter Outline
 

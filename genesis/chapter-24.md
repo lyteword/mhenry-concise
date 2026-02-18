@@ -1,8 +1,11 @@
 ---
+title: "Genesis 24 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "24"
+description: "In this chapter: Abraham's care for Isaac's marriage. (1–9). The journey of Abraham's servant to Mesopotamia, His meeting with Rebekah. (10–28). Rebekah and her relatives consent to her marriage. (29–53). The happy meeting and marriage of Isaac and rebekah. (54–67)."
 weight: 24
 ---
 
-# Chapter 24
+# Genesis 24 
 
 ## Chapter Outline
 

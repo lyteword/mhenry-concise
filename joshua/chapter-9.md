@@ -1,8 +1,11 @@
 ---
+title: "Joshua 9 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "9"
+description: "In this chapter: The kings combine against Israel. (1, 2). The Gibeonites apply for peace. (3–13). They obtain peace, but are soon detected. (14–21). The Gibeonites are to be bondmen. (22–27)."
 weight: 9
 ---
 
-# Chapter 9
+# Joshua 9 
 
 ## Chapter Outline
 

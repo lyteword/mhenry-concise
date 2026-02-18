@@ -1,8 +1,11 @@
 ---
+title: "1 Thessalonians 1 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "1"
+description: "In this chapter: The faith, love, and patience of the Thessalonians, are evident tokens of their election which was manifested in the power with which the gospel came to them. (1–5). Its powerful and exemplary effects upon their hearts and lives. (6–10)."
 weight: 1
 ---
 
-# Chapter 1
+# 1 Thessalonians 1 
 
 ## Chapter Outline
 

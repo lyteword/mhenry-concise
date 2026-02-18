@@ -1,8 +1,11 @@
 ---
+title: "John 5 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "5"
+description: "In this chapter: The cure at the pool of Bethesda. (1–9). The Jews' displeasure. (10–16). Christ reproves the Jews. (17–23). Christ's discourse. (24–47)."
 weight: 5
 ---
 
-# Chapter 5
+# John 5 
 
 ## Chapter Outline
 

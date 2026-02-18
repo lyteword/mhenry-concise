@@ -1,8 +1,11 @@
 ---
+title: "Nahum 3 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "3"
+description: "In this chapter: The sins and judgments of Nineveh. (1–7). Its utter destruction. (8–19)."
 weight: 3
 ---
 
-# Chapter 3
+# Nahum 3 
 
 ## Chapter Outline
 

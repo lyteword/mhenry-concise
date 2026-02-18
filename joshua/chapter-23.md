@@ -1,8 +1,11 @@
 ---
+title: "Joshua 23 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "23"
+description: "In this chapter: Joshua's exhortation before his death. (1–10). Joshua warns the people of idolatry. (11–16)."
 weight: 23
 ---
 
-# Chapter 23
+# Joshua 23 
 
 ## Chapter Outline
 

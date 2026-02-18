@@ -1,8 +1,11 @@
 ---
+title: "Exodus 34 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "34"
+description: "In this chapter: The tables of the law renewed. (1–4). The name of the Lord proclaimed, The entreaty of Moses. (5–9). God's covenant. (10–17). The festivals. (18–27). The vail of Moses. (28–35)."
 weight: 34
 ---
 
-# Chapter 34
+# Exodus 34 
 
 ## Chapter Outline
 

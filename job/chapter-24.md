@@ -1,8 +1,11 @@
 ---
+title: "Job 24 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "24"
+description: "In this chapter: Wickedness often unpunished. (1–12). The wicked shun the light. (13–17). Judgements for the wicked. (18–25)."
 weight: 24
 ---
 
-# Chapter 24
+# Job 24 
 
 ## Chapter Outline
 

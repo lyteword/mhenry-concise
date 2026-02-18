@@ -1,8 +1,11 @@
 ---
+title: "Exodus 24 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "24"
+description: "In this chapter: Moses is called up into the mountain, The people promise obedience. (1–8). The glory of the Lord appears. (9–11). Moses goes up into the mountain. (12–18)."
 weight: 24
 ---
 
-# Chapter 24
+# Exodus 24 
 
 ## Chapter Outline
 

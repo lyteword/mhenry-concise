@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 13 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "13"
+description: "In this chapter: Heavy judgments against lying prophets. (1-9). The insufficiency of their work. (10-16). Woes against false prophetesses. (17-23)."
 weight: 13
 ---
 
-# Chapter 13
+# Ezekiel 13 
 
 ## Chapter Outline
 

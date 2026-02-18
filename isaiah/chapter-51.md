@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 51 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "51"
+description: "In this chapter: Exhortations to trust the Messiah. (1-3). The power of God, and the weakness of man. (4-8). Christ defends his people. (9-16). Their afflictions and deliverances. (17-23)."
 weight: 51
 ---
 
-# Chapter 51
+# Isaiah 51 
 
 ## Chapter Outline
 

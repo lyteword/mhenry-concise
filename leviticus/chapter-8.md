@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 8 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "8"
+description: "In this chapter: The consecration of Aaron and his sons. (1–13). The offerings of consecration. (14–36)."
 weight: 8
 ---
 
-# Chapter 8
+# Leviticus 8 
 
 ## Chapter Outline
 

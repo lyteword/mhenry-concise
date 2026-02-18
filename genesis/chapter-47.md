@@ -1,8 +1,11 @@
 ---
+title: "Genesis 47 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "47"
+description: "In this chapter: Joseph presents his brethren to Pharaoh. (1–6). Jacob blesses Pharaoh. (7–12). Joseph's dealings with the Egyptians during the famine. (13–26). Jacob's age. His desire to be buried in Canaan. (27–31)."
 weight: 47
 ---
 
-# Chapter 47
+# Genesis 47 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "Luke 14 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "14"
+description: "In this chapter: Christ heals a man on the sabbath. (1–6). He teaches humility. (7–14). Parable of the great supper. (15–24). The necessity of consideration and self-denial. (25–35)."
 weight: 14
 ---
 
-# Chapter 14
+# Luke 14 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "James 4 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "4"
+description: "In this chapter: Here are cautions against corrupt affections, and love of this world, which is enmity to God. (1–10). Exhortations to undertake no affairs of life, without constant regard to the will and providence of God. (11–17)."
 weight: 4
 ---
 
-# Chapter 4
+# James 4 
 
 ## Chapter Outline
 

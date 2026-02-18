@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 35 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "35"
+description: "In this chapter: The obedience of the Rechabites. (1-11). The Jews' disobedience to the Lord. (12-19)."
 weight: 35
 ---
 
-# Chapter 35
+# Jeremiah 35 
 
 ## Chapter Outline
 

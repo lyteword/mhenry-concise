@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 6 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "6"
+description: "In this chapter: The invasion of Judea. (1-8). The justice of God's proceedings. (9-17). All methods used to amend them had been without success. (18-30)."
 weight: 6
 ---
 
-# Chapter 6
+# Jeremiah 6 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 1 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "1"
+description: "In this chapter: Elkanah and his family. (1–8). Hannah's prayer. (9–18). Samuel, Hannah presents him to the Lord. (19–28)."
 weight: 1
 ---
 
-# Chapter 1
+# 1 Samuel 1 
 
 ## Chapter Outline
 

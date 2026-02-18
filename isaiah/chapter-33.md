@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 33 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "33"
+description: "In this chapter: God's judgments against the enemies of his church. (1-14). The happiness of his people. (15-24)."
 weight: 33
 ---
 
-# Chapter 33
+# Isaiah 33 
 
 ## Chapter Outline
 

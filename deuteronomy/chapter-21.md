@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 21 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "21"
+description: "In this chapter: The expiation of uncertain murder. (1–9). Respecting a captive taken to wife. (10–14). The first-born not to be disinherited for private affection. (15–17). A stubborn son to be stoned. (18–21). Malefactors not to be left hanging all night. (22, 23)."
 weight: 21
 ---
 
-# Chapter 21
+# Deuteronomy 21 
 
 ## Chapter Outline
 

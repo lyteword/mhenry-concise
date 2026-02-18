@@ -1,8 +1,11 @@
 ---
+title: "Numbers 30 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "30"
+description: "In this chapter: Vows to be kept. (1, 2). The cases wherein vows might be released. (3–16)."
 weight: 30
 ---
 
-# Chapter 30
+# Numbers 30 
 
 ## Chapter Outline
 

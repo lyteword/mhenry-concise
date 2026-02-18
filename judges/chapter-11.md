@@ -1,8 +1,11 @@
 ---
+title: "Judges 11 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "11"
+description: "In this chapter: Jephtah and the Gileadites. (1–11). He attempts to make peace. (12–28). Jephthah's vow. He vanquishes the Ammonites. (29–40)."
 weight: 11
 ---
 
-# Chapter 11
+# Judges 11 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "Proverbs 10 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "10"
+description: "In this chapter: Through the whole of the Proverbs, we are to look for somewhat beyond the first sense the passage may imply, and this we shall find to be Christ. He is the Wisdom so often spoken of in this book.."
 weight: 10
 ---
 
-# Chapter 10
+# Proverbs 10 
 
 ## Chapter Outline
 

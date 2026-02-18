@@ -1,8 +1,11 @@
 ---
+title: "Job 10 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "10"
+description: "In this chapter: Job complains of his hardships. (1–7). He pleads with God as his Maker. (8–13). He complains of God's severity. (14–22)."
 weight: 10
 ---
 
-# Chapter 10
+# Job 10 
 
 ## Chapter Outline
 

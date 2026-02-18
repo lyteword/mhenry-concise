@@ -1,8 +1,11 @@
 ---
+title: "1 Chronicles 26 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "26"
+description: "In this chapter: The offices of the Levites. (1-32)."
 weight: 26
 ---
 
-# Chapter 26
+# 1 Chronicles 26 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "1 Kings 13 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "13"
+description: "In this chapter: Jeroboam's sin reproved. (1–10). The prophet deceived. (11–22). The disobedient prophet is slain, Jeroboam's obstinacy. (23–34)."
 weight: 13
 ---
 
-# Chapter 13
+# 1 Kings 13 
 
 ## Chapter Outline
 

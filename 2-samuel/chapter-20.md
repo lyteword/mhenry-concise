@@ -1,8 +1,11 @@
 ---
+title: "2 Samuel 20 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "20"
+description: "In this chapter: Sheba's rebellion. (1–3). Amasa slain by Joab. (4–13). Sheba takes refuge in Abel. (14–22). David's officers. (23–26)."
 weight: 20
 ---
 
-# Chapter 20
+# 2 Samuel 20 
 
 ## Chapter Outline
 

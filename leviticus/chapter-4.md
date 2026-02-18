@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 4 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "4"
+description: "In this chapter: The sin-offering of ignorance for the priest. (1–12). For the whole congregation. (13–21). For a ruler. (22–26). For any of the people. (27–35)."
 weight: 4
 ---
 
-# Chapter 4
+# Leviticus 4 
 
 ## Chapter Outline
 

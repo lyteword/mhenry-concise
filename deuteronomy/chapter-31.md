@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 31 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "31"
+description: "In this chapter: Moses encourages the people, and Joshua. (1–8). The law to be read every seventh year. (9–13). The Israelites' apostacy foretold, A song given to be witness against them. (14–22). The law delivered to the Levites. (22–30)."
 weight: 31
 ---
 
-# Chapter 31
+# Deuteronomy 31 
 
 ## Chapter Outline
 

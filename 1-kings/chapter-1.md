@@ -1,8 +1,11 @@
 ---
+title: "1 Kings 1 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "1"
+description: "In this chapter: David's declining age. (1–4). Adonijah aspires to the throne. (5–10). David makes Solomon king. (11–31). Solomon is anointed king, and Adonijah's usurpation stopped. (32–53)."
 weight: 1
 ---
 
-# Chapter 1
+# 1 Kings 1 
 
 ## Chapter Outline
 

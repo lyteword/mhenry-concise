@@ -1,8 +1,11 @@
 ---
+title: "Ecclesiastes 10 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "10"
+description: "In this chapter: To preserve a character for wisdom. (1-3). Respecting subjects and rulers. (4-10). Of foolish talk. (11-15). Duties of rulers and subjects. (16-20)."
 weight: 10
 ---
 
-# Chapter 10
+# Ecclesiastes 10 
 
 ## Chapter Outline
 

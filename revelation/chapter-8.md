@@ -1,8 +1,11 @@
 ---
+title: "Revelation 8 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "8"
+description: "In this chapter: The seventh seal is opened and seven angels appear with seven trumpets, ready to proclaim the purposes of God. (1, 2). Another angel casts fire on the earth, which produces terrible storms of vengeance. (3–5). The seven angels prepare to sound their trumpets. (6). Four sound them. (7–12). Another angel denounces greater woes to come. (13)."
 weight: 8
 ---
 
-# Chapter 8
+# Revelation 8 
 
 ## Chapter Outline
 

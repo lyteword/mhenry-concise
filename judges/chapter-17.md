@@ -1,8 +1,11 @@
 ---
+title: "Judges 17 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "17"
+description: "In this chapter: The beginning of idolatry in Israel, Micah and his mother. (1–6). Micah hires a Levite to be his priest. (7–13)."
 weight: 17
 ---
 
-# Chapter 17
+# Judges 17 
 
 ## Chapter Outline
 

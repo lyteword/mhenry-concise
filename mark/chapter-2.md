@@ -1,8 +1,11 @@
 ---
+title: "Mark 2 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "2"
+description: "In this chapter: Christ heals one sick of the palsy. (1–12). Levi's call, and the entertainment given to Jesus. (13–17). Why Christ's disciples did not fast. (18–22). He justifies his disciples for plucking corn on the sabbath. (23–28)."
 weight: 2
 ---
 
-# Chapter 2
+# Mark 2 
 
 ## Chapter Outline
 

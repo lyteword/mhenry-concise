@@ -1,8 +1,11 @@
 ---
+title: "2 Samuel 8 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "8"
+description: "In this chapter: David subdues the Philistines, the Moabites, and the Syrians. (1–8). The spoil dedicated. (9–14). David's government and officers. (15–18)."
 weight: 8
 ---
 
-# Chapter 8
+# 2 Samuel 8 
 
 ## Chapter Outline
 

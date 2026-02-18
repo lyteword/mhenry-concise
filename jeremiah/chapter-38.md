@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 38 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "38"
+description: "In this chapter: Jeremiah is cast into a dungeon, from whence he is delivered by an Ethiopian. (1-13). He advises the king to surrender to the Chaldeans. (14-28)."
 weight: 38
 ---
 
-# Chapter 38
+# Jeremiah 38 
 
 ## Chapter Outline
 

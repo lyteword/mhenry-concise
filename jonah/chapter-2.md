@@ -1,8 +1,11 @@
 ---
+title: "Jonah 2 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "2"
+description: "In this chapter: The prayer of Jonah. (1–9). He is delivered from the fish. (10)."
 weight: 2
 ---
 
-# Chapter 2
+# Jonah 2 
 
 ## Chapter Outline
 

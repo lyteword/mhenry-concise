@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 31 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "31"
+description: "In this chapter: The sin and folly of seeking help from Egypt. (1-5). God's care for Jerusalem. (6-9)."
 weight: 31
 ---
 
-# Chapter 31
+# Isaiah 31 
 
 ## Chapter Outline
 

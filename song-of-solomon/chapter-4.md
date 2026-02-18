@@ -1,8 +1,11 @@
 ---
+title: "Song Of Solomon 4 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "4"
+description: "In this chapter: Christ sets forth the graces of the church. (1-7) . Christ's love to the church. (8-15) . The church desires further influences of Divine grace. (16)."
 weight: 4
 ---
 
-# Chapter 4
+# Song Of Solomon 4 
 
 ## Chapter Outline
 

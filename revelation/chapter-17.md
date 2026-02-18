@@ -1,8 +1,11 @@
 ---
+title: "Revelation 17 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "17"
+description: "In this chapter: One of the angels who had the vials, explains the meaning of the former vision of the antichristian beast that was to reign 1260 years, and then to be destroyed. (1–6). And interprets the mystery of the woman, and the beast that had seven heads and ten horns. (7–18)."
 weight: 17
 ---
 
-# Chapter 17
+# Revelation 17 
 
 ## Chapter Outline
 

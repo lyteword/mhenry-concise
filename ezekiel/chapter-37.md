@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 37 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "37"
+description: "In this chapter: God restores dried bones to life. (1-14). The whole house of Israel is represented as enjoying the blessings of Christ's kingdom. (15-28)."
 weight: 37
 ---
 
-# Chapter 37
+# Ezekiel 37 
 
 ## Chapter Outline
 

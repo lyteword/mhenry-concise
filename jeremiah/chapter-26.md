@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 26 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "26"
+description: "In this chapter: The destruction of the temple and city foretold. (1-6). Jeremiah's life is threatened. (7-15). He is defended by the elders. (16-24)."
 weight: 26
 ---
 
-# Chapter 26
+# Jeremiah 26 
 
 ## Chapter Outline
 

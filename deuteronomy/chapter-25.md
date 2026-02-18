@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 25 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "25"
+description: "In this chapter: Extent of punishment. (1–3). The ox that treadeth the corn. (4). Marriage of a brother's wife. (5–12). Of unjust weights. (13–16). War against Amalek. (17–19)."
 weight: 25
 ---
 
-# Chapter 25
+# Deuteronomy 25 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 18 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "18"
+description: "In this chapter: God has no respect of persons. (1-20). The Divine providence is vindicated. (21-29). A gracious invitation to repentance. (30-32)."
 weight: 18
 ---
 
-# Chapter 18
+# Ezekiel 18 
 
 ## Chapter Outline
 

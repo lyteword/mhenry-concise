@@ -1,8 +1,11 @@
 ---
+title: "Genesis 14 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "14"
+description: "In this chapter: The battle of the kings, Lot is taken prisoner. (1–12). Abram rescues Lot. (13–16). Melchizedek blesses Abram. (17–20). Abram restores the spoil. (21–24)."
 weight: 14
 ---
 
-# Chapter 14
+# Genesis 14 
 
 ## Chapter Outline
 

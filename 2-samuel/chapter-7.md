@@ -1,8 +1,11 @@
 ---
+title: "2 Samuel 7 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "7"
+description: "In this chapter: David's care for the ark. (1–3). God's covenant with David. (4–17). His prayer and thanksgiving. (18–29)."
 weight: 7
 ---
 
-# Chapter 7
+# 2 Samuel 7 
 
 ## Chapter Outline
 

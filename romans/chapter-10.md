@@ -1,8 +1,11 @@
 ---
+title: "Romans 10 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "10"
+description: "In this chapter: The apostle's earnest desire for the salvation of the Jews. (1–4). The difference between the righteousness of the law, and the righteousness of faith. (5–11). The Gentiles stand on a level with the Jews, in justification and salvation. (12–17). The Jews might know this from Old Testament prophecies. (18–21)."
 weight: 10
 ---
 
-# Chapter 10
+# Romans 10 
 
 ## Chapter Outline
 

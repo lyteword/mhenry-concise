@@ -1,8 +1,11 @@
 ---
+title: "2 Kings 21 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "21"
+description: "In this chapter: Wicked reign of Manasseh. (1–9). The prophetic denunciations against Judah. (10–18). Wicked reign and death of Amon. (19–26)."
 weight: 21
 ---
 
-# Chapter 21
+# 2 Kings 21 
 
 ## Chapter Outline
 

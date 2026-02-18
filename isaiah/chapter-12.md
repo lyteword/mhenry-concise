@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 12 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "12"
+description: "In this chapter: This is a hymn of praise suited to the times of the Messiah. (1-6)."
 weight: 12
 ---
 
-# Chapter 12
+# Isaiah 12 
 
 ## Chapter Outline
 

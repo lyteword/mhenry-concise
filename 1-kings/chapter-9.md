@@ -1,8 +1,11 @@
 ---
+title: "1 Kings 9 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "9"
+description: "In this chapter: God's answer to Solomon. (1–9). The presents of Solomon and Hiram. (10–14). Solomon's buildings, His trade. (15–28)."
 weight: 9
 ---
 
-# Chapter 9
+# 1 Kings 9 
 
 ## Chapter Outline
 

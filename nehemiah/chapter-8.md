@@ -1,8 +1,11 @@
 ---
+title: "Nehemiah 8 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "8"
+description: "In this chapter: The reading and expounding the law. (1–8). The people called upon to be joyful. (9–12). The feast of tabernacles, The joy of the people. (13–18)."
 weight: 8
 ---
 
-# Chapter 8
+# Nehemiah 8 
 
 ## Chapter Outline
 

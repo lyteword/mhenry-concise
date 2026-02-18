@@ -1,8 +1,11 @@
 ---
+title: "Job 27 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "27"
+description: "In this chapter: Job protests his sincerity. (1–6). The hypocrite is without hope. (7–10). The miserable end of the wicked. (11–23)."
 weight: 27
 ---
 
-# Chapter 27
+# Job 27 
 
 ## Chapter Outline
 

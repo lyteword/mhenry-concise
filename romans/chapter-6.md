@@ -1,8 +1,11 @@
 ---
+title: "Romans 6 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "6"
+description: "In this chapter: Believers must die to sin, and live to God. (1, 2). This is urged by their Christian baptism and union with Christ. (3–10). They are made alive to God. (11–15). And are freed from the dominion of sin. (16–20). The end of sin is death, and of holiness everlasting life. (21–23)."
 weight: 6
 ---
 
-# Chapter 6
+# Romans 6 
 
 ## Chapter Outline
 

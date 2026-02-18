@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 7 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "7"
+description: "In this chapter: Concerning the trespass-offering. (1–10). Concerning the peace-offering. (11–27). The wave and heave offerings. (28–34). The conclusion of these institutions. (35–38)."
 weight: 7
 ---
 
-# Chapter 7
+# Leviticus 7 
 
 ## Chapter Outline
 

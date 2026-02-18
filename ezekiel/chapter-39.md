@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 39 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "39"
+description: "In this chapter: The destruction of Gog. (1-10). Its extent. (11-22). Israel again favoured. (23-29)."
 weight: 39
 ---
 
-# Chapter 39
+# Ezekiel 39 
 
 ## Chapter Outline
 

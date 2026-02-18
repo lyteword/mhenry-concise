@@ -1,8 +1,11 @@
 ---
+title: "Exodus 25 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "25"
+description: "In this chapter: What the Israelites were to offer for making the tabernacle. (1–9). The ark. (10–22). The table, with its furniture. (23–30). The candlestick. (31–40)."
 weight: 25
 ---
 
-# Chapter 25
+# Exodus 25 
 
 ## Chapter Outline
 

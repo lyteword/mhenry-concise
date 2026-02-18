@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 2 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "2"
+description: "In this chapter: The conversion of the Gentiles, Description of the sinfulness of Israel. (1-9). The awful punishment of unbelievers. (10-22)."
 weight: 2
 ---
 
-# Chapter 2
+# Isaiah 2 
 
 ## Chapter Outline
 

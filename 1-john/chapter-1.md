@@ -1,8 +1,11 @@
 ---
+title: "1 John 1 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "1"
+description: "In this chapter: The apostle prefaces his epistle to believers in general, with evident testimonies to Christ, for promoting their happiness and joy. (1–4). The necessity of a life of holiness, in order to communion with God, is shown. (5–10)."
 weight: 1
 ---
 
-# Chapter 1
+# 1 John 1 
 
 ## Chapter Outline
 

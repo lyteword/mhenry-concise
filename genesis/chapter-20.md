@@ -1,8 +1,11 @@
 ---
+title: "Genesis 20 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "20"
+description: "In this chapter: Abraham's sojourn at Gerar, Sarah is taken by Abimelech. (1–8). Abimelech's rebuke to Abraham. (9–13). Abimelech restores Sarah. (14–18)."
 weight: 20
 ---
 
-# Chapter 20
+# Genesis 20 
 
 ## Chapter Outline
 

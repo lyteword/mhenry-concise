@@ -1,8 +1,11 @@
 ---
+title: "Proverbs 6 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "6"
+description: "In this chapter: Cautions against rash suretiship. (1–5). A rebuke to slothfulness. (6–11). Seven things hateful to God. (12–19). Exhortations to walk according to God's commandments. (20–35)."
 weight: 6
 ---
 
-# Chapter 6
+# Proverbs 6 
 
 ## Chapter Outline
 

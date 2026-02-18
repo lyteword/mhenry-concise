@@ -1,8 +1,11 @@
 ---
+title: "Job 38 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "38"
+description: "In this chapter: God calls upon Job to answer. (1–3). God questions Job. (4–11). Concerning the light and darkness. (12–24). Concerning other mighty works. (25–41)."
 weight: 38
 ---
 
-# Chapter 38
+# Job 38 
 
 ## Chapter Outline
 

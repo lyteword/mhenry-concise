@@ -1,8 +1,11 @@
 ---
+title: "1 Chronicles 2 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "2"
+description: "In this chapter: Genealogies. (1-55)."
 weight: 2
 ---
 
-# Chapter 2
+# 1 Chronicles 2 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 61 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "61"
+description: "In this chapter: The Messiah, his character and office. (1-3). His promises of the future blessedness of the church. (4-9). The church praises God for these mercies. (10,11)."
 weight: 61
 ---
 
-# Chapter 61
+# Isaiah 61 
 
 ## Chapter Outline
 

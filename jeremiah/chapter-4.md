@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 4 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "4"
+description: "In this chapter: Exhortations and promises. (1-2). Judah exhorted to repentance. (3-4). Judgements denounced. (5-18). The approaching ruin of Judah. (19-31)."
 weight: 4
 ---
 
-# Chapter 4
+# Jeremiah 4 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "Hosea 5 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "5"
+description: "In this chapter: The Divine judgments against Israel. (1-7). Approaching desolations threatened. (8-15)."
 weight: 5
 ---
 
-# Chapter 5
+# Hosea 5 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 8 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "8"
+description: "In this chapter: The evil government of Samuel's sons. (1–3). The Israelites ask for a king. (4–9). The manner of a king. (10–22)."
 weight: 8
 ---
 
-# Chapter 8
+# 1 Samuel 8 
 
 ## Chapter Outline
 

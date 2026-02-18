@@ -1,8 +1,11 @@
 ---
+title: "1 Corinthians 4 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "4"
+description: "In this chapter: The true character of gospel ministers. (1–6). Cautions against despising the apostle. (7–13). He claims their regard as their spiritual father in Christ, and shows his concern for them. (14–21)."
 weight: 4
 ---
 
-# Chapter 4
+# 1 Corinthians 4 
 
 ## Chapter Outline
 

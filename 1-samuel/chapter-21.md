@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 21 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "21"
+description: "In this chapter: David with Ahimelech. (1–9). David at Gath feigns himself mad. (10–15)."
 weight: 21
 ---
 
-# Chapter 21
+# 1 Samuel 21 
 
 ## Chapter Outline
 

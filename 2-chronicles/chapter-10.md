@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 10 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "10"
+description: "In this chapter: The ten tribes revolt from Rehoboam. (1-19)."
 weight: 10
 ---
 
-# Chapter 10
+# 2 Chronicles 10 
 
 ## Chapter Outline
 

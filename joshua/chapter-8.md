@@ -1,8 +1,11 @@
 ---
+title: "Joshua 8 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "8"
+description: "In this chapter: God encourages Joshua. (1, 2). The taking of Ai. (3–22). The destruction of Ai and its king. (23–29). The law read on Ebal and Gerizim. (30–35)."
 weight: 8
 ---
 
-# Chapter 8
+# Joshua 8 
 
 ## Chapter Outline
 

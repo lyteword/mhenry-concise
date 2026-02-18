@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 12 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "12"
+description: "In this chapter: The approaching captivity. (1-16). An emblem of the consternation of the Jews. (17-20). Answers to the objections of scoffers. (21-28)."
 weight: 12
 ---
 
-# Chapter 12
+# Ezekiel 12 
 
 ## Chapter Outline
 

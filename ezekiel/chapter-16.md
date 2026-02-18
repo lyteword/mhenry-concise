@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 16 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "16"
+description: "In this chapter: A parable showing the first low estate of the Jewish nation, its prosperity, idolatries, and punishment. (1-63)."
 weight: 16
 ---
 
-# Chapter 16
+# Ezekiel 16 
 
 ## Chapter Outline
 

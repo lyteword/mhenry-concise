@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 9 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "9"
+description: "In this chapter: The Son that should be born, and his kingdom. (1-7). The judgments to come upon Israel, and on the enemies of the kingdom of Christ. (8-21)."
 weight: 9
 ---
 
-# Chapter 9
+# Isaiah 9 
 
 ## Chapter Outline
 

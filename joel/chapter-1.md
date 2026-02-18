@@ -1,8 +1,11 @@
 ---
+title: "Joel 1 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "1"
+description: "In this chapter: A plague of locusts. (1-7) . All sorts of people are called to lament it. (8-13) . They are to look to God. (14-20)."
 weight: 1
 ---
 
-# Chapter 1
+# Joel 1 
 
 ## Chapter Outline
 

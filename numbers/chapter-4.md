@@ -1,8 +1,11 @@
 ---
+title: "Numbers 4 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "4"
+description: "In this chapter: The Levites' service. (1–3). The duties of the Kohathites. (4–20). The duties of the Gershonites and Merarites. (21–33). The numbers of the serviceable Levites. (34–49)."
 weight: 4
 ---
 
-# Chapter 4
+# Numbers 4 
 
 ## Chapter Outline
 

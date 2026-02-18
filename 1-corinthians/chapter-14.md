@@ -1,8 +1,11 @@
 ---
+title: "1 Corinthians 14 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "14"
+description: "In this chapter: Prophecy preferred to the gift of tongues. (1–5). The unprofitableness of speaking in unknown languages. (6–14). Exhortations to worship that can be understood. (15–25). Disorders from vain display of gifts; (26–33). and from women speaking in the church. (34–40)."
 weight: 14
 ---
 
-# Chapter 14
+# 1 Corinthians 14 
 
 ## Chapter Outline
 

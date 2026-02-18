@@ -1,8 +1,11 @@
 ---
+title: "Acts 6 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "6"
+description: "In this chapter: The appointment of deacons. (1–7). Stephen falsely accused of blasphemy. (8–15)."
 weight: 6
 ---
 
-# Chapter 6
+# Acts 6 
 
 ## Chapter Outline
 

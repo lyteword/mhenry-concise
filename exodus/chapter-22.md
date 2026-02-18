@@ -1,8 +1,11 @@
 ---
+title: "Exodus 22 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "22"
+description: "In this chapter: Judicial laws. (1-31)."
 weight: 22
 ---
 
-# Chapter 22
+# Exodus 22 
 
 ## Chapter Outline
 

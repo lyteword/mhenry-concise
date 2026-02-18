@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 51 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "51"
+description: "In this chapter: Babylon's doom; God's controversy with her; encouragements from thence to the Israel of God. (1-58). The confirming of this. (59-64)."
 weight: 51
 ---
 
-# Chapter 51
+# Jeremiah 51 
 
 ## Chapter Outline
 

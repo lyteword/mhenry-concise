@@ -1,8 +1,11 @@
 ---
+title: "Zechariah 12 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "12"
+description: "In this chapter: Punishment of the enemies of Judah. (1–8). Repentance and sorrow of the Jews. (9–14)."
 weight: 12
 ---
 
-# Chapter 12
+# Zechariah 12 
 
 ## Chapter Outline
 

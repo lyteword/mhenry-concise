@@ -1,8 +1,11 @@
 ---
+title: "Amos 7 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "7"
+description: "In this chapter: Visions of judgments to come upon Israel. (1–9). Amaziah threatens Amos. (10–17)."
 weight: 7
 ---
 
-# Chapter 7
+# Amos 7 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 57 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "57"
+description: "In this chapter: The blessed death of the righteous. (1,2) . The abominable idolatries of the Jewish nation. (3-12). Promises to the humble and contrite. (13-21)."
 weight: 57
 ---
 
-# Chapter 57
+# Isaiah 57 
 
 ## Chapter Outline
 

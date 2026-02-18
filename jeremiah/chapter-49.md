@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 49 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "49"
+description: "In this chapter: Prophecies relative to the Ammonites. (1-6). The Edomites. (7-22). The Syrians. (23-27). The Kedarenes. (28-33). The Elamites. (34-39)."
 weight: 49
 ---
 
-# Chapter 49
+# Jeremiah 49 
 
 ## Chapter Outline
 

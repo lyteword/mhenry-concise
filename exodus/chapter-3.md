@@ -1,8 +1,11 @@
 ---
+title: "Exodus 3 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "3"
+description: "In this chapter: God appears to Moses in a burning bush. (1–6). God sends Moses to deliver Israel. (7–10). The name Jehovah. (11–15). The deliverance of the Israelites promised. (16–22)."
 weight: 3
 ---
 
-# Chapter 3
+# Exodus 3 
 
 ## Chapter Outline
 

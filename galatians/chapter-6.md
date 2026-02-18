@@ -1,8 +1,11 @@
 ---
+title: "Galatians 6 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "6"
+description: "In this chapter: Exhortations to meekness, gentleness, and humility. (1–5). To kindness towards all men, especially believers. (6–11). The Galatians guarded against the judaizing teachers. (12–15). A solemn blessing. (16–18)."
 weight: 6
 ---
 
-# Chapter 6
+# Galatians 6 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "Malachi 3 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "3"
+description: "In this chapter: The coming of Christ. (1–6). The Jews reproved for their corruptions. (7–12). God's care of his people; The distinction between the righteous and the wicked. (13–18)."
 weight: 3
 ---
 
-# Chapter 3
+# Malachi 3 
 
 ## Chapter Outline
 

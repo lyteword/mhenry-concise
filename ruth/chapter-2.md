@@ -1,8 +1,11 @@
 ---
+title: "Ruth 2 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "2"
+description: "In this chapter: Ruth gleans in the field of Boaz. (1–3). The kindness of Boaz to Ruth. (4–16). Ruth returns to her mother-in-law. (17–23)."
 weight: 2
 ---
 
-# Chapter 2
+# Ruth 2 
 
 ## Chapter Outline
 

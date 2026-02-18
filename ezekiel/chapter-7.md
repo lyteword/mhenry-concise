@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 7 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "7"
+description: "In this chapter: The desolation of the land. (1-15). The distress of the few who should escape. (16-22). The captivity. (23-27)."
 weight: 7
 ---
 
-# Chapter 7
+# Ezekiel 7 
 
 ## Chapter Outline
 

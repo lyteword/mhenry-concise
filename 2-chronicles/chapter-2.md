@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 2 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "2"
+description: "In this chapter: Solomon's message to Huram respecting the temple, His treaty with Huram. (1-18)."
 weight: 2
 ---
 
-# Chapter 2
+# 2 Chronicles 2 
 
 ## Chapter Outline
 

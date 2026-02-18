@@ -1,8 +1,11 @@
 ---
+title: "Revelation 21 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "21"
+description: "In this chapter: A new heaven, and new earth: the new Jerusalem where God dwells, and banishes all sorrow from his people. (1–8). Its heavenly origin, glory, and secure defence. (9–21). Its perfect happiness, as enlightened with the presence of God and the Lamb, and in the free access of multitudes, made holy. (22–27)."
 weight: 21
 ---
 
-# Chapter 21
+# Revelation 21 
 
 ## Chapter Outline
 

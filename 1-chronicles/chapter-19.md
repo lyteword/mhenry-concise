@@ -1,8 +1,11 @@
 ---
+title: "1 Chronicles 19 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "19"
+description: "In this chapter: David's wars. (1-19)."
 weight: 19
 ---
 
-# Chapter 19
+# 1 Chronicles 19 
 
 ## Chapter Outline
 

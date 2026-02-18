@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 16 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "16"
+description: "In this chapter: Samuel sent to Bethlehem to Jesse. (1–5). David is anointed. (6–13). Saul troubled with an evil spirit, is quieted by David. (14–23)."
 weight: 16
 ---
 
-# Chapter 16
+# 1 Samuel 16 
 
 ## Chapter Outline
 

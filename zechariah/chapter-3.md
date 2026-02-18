@@ -1,8 +1,11 @@
 ---
+title: "Zechariah 3 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "3"
+description: "In this chapter: The restoration of the church. (1–5). A promise concerning the Messiah. (6–10)."
 weight: 3
 ---
 
-# Chapter 3
+# Zechariah 3 
 
 ## Chapter Outline
 

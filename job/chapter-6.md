@@ -1,8 +1,11 @@
 ---
+title: "Job 6 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "6"
+description: "In this chapter: Job justifies his complaints. (1–7). He wishes for death. (8–13). Job reproves his friends as unkind. (14–30)."
 weight: 6
 ---
 
-# Chapter 6
+# Job 6 
 
 ## Chapter Outline
 

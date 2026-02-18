@@ -1,8 +1,11 @@
 ---
+title: "Romans 4 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "4"
+description: "In this chapter: The doctrine of justification by faith is shown by the case of Abraham. (1–12). He received the promise through the righteousness of faith. (13–22). And we are justified in the same way of believing. (23–25)."
 weight: 4
 ---
 
-# Chapter 4
+# Romans 4 
 
 ## Chapter Outline
 

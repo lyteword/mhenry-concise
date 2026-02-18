@@ -1,8 +1,11 @@
 ---
+title: "Job 21 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "21"
+description: "In this chapter: Job entreats attention. (1–6). The prosperity of the wicked. (7–16). The dealings of God's providence. (17–26). The judgement of the wicked is in the world to come. (27–34)."
 weight: 21
 ---
 
-# Chapter 21
+# Job 21 
 
 ## Chapter Outline
 

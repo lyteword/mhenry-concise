@@ -1,8 +1,11 @@
 ---
+title: "Genesis 46 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "46"
+description: "In this chapter: God's promises to Jacob. (1–4). Jacob and his family go to Egypt. (5–27). Joseph meets his father and his brethren. (28–34)."
 weight: 46
 ---
 
-# Chapter 46
+# Genesis 46 
 
 ## Chapter Outline
 

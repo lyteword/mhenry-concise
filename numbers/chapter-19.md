@@ -1,8 +1,11 @@
 ---
+title: "Numbers 19 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "19"
+description: "In this chapter: The ashes of a heifer. (1–10). Used to purify the unclean. (11–22)."
 weight: 19
 ---
 
-# Chapter 19
+# Numbers 19 
 
 ## Chapter Outline
 

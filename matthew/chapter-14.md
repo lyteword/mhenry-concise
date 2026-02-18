@@ -1,8 +1,11 @@
 ---
+title: "Matthew 14 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "14"
+description: "In this chapter: Death of John the Baptist. (1–12). Five thousand people miraculously fed. (13–21). Jesus walks upon the sea. (22–33). Jesus healing the sick. (34–36)."
 weight: 14
 ---
 
-# Chapter 14
+# Matthew 14 
 
 ## Chapter Outline
 

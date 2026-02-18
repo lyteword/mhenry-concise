@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 2 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "2"
+description: "In this chapter: Hannah's song of thanksgiving. (1–10). The wickedness of Eli's sons, Samuel's ministry. (11–26). The prophecy against Eli's family. (27–36)."
 weight: 2
 ---
 
-# Chapter 2
+# 1 Samuel 2 
 
 ## Chapter Outline
 

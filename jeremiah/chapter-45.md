@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 45 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "45"
+description: "In this chapter: An encouragement sent to Baruch. (1-5)."
 weight: 45
 ---
 
-# Chapter 45
+# Jeremiah 45 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "2 Samuel 3 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "3"
+description: "In this chapter: David's power increases His family. (1–6). Abner revolts to David. (7–21). Joab kills Abner David mourns for him. (22–39)."
 weight: 3
 ---
 
-# Chapter 3
+# 2 Samuel 3 
 
 ## Chapter Outline
 

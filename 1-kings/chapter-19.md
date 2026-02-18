@@ -1,8 +1,11 @@
 ---
+title: "1 Kings 19 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "19"
+description: "In this chapter: Elijah flees to the wilderness. (1–8). God manifests himself to Elijah. (9–13). God's answer to Elijah. (14–18). The call of Elisha. (19–21)."
 weight: 19
 ---
 
-# Chapter 19
+# 1 Kings 19 
 
 ## Chapter Outline
 

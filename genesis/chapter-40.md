@@ -1,8 +1,11 @@
 ---
+title: "Genesis 40 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "40"
+description: "In this chapter: The chief butler and baker of Pharaoh in prison, Their dreams interpreted by Joseph. (1–19). The ingratitude of the chief butler. (20–23)."
 weight: 40
 ---
 
-# Chapter 40
+# Genesis 40 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "Judges 2 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "2"
+description: "In this chapter: The angel of the Lord rebukes the people. (1–5). The wickedness of the new generation after Joshua. (6–23)."
 weight: 2
 ---
 
-# Chapter 2
+# Judges 2 
 
 ## Chapter Outline
 

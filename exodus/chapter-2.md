@@ -1,8 +1,11 @@
 ---
+title: "Exodus 2 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "2"
+description: "In this chapter: Moses is born, and exposed on the river. (1–4). He is found, and brought up by Pharaoh's daughter. (5–10). Moses slays an Egyptian, and flees to Midian. (11–15). Moses marries the daughter of Jethro. (16–22). God hears the Israelites. (23–25)."
 weight: 2
 ---
 
-# Chapter 2
+# Exodus 2 
 
 ## Chapter Outline
 

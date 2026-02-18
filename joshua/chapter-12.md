@@ -1,8 +1,11 @@
 ---
+title: "Joshua 12 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "12"
+description: "In this chapter: The two kings conquered by Moses. (1–6). The kings whom Joshua smote. (7–24)."
 weight: 12
 ---
 
-# Chapter 12
+# Joshua 12 
 
 ## Chapter Outline
 

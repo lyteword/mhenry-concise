@@ -1,8 +1,11 @@
 ---
+title: "Habakkuk 3 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "3"
+description: "In this chapter: The prophet beseeches God for his people. (1, 2). He calls to mind former deliverances. (3–15). His firm trust in the Divine mercy. (16–19)."
 weight: 3
 ---
 
-# Chapter 3
+# Habakkuk 3 
 
 ## Chapter Outline
 

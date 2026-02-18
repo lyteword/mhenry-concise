@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 50 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "50"
+description: "In this chapter: The ruin of Babylon. (1-3, 8-16, 21-32, 35-46) . The redemption of God's people. (4-7, 17-20, 33, 34)."
 weight: 50
 ---
 
-# Chapter 50
+# Jeremiah 50 
 
 ## Chapter Outline
 

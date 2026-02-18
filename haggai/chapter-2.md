@@ -1,8 +1,11 @@
 ---
+title: "Haggai 2 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "2"
+description: "In this chapter: Greater glory promised to the second temple than to the first. (1–9). Their sins hindered the work. (10–19). The kingdom of Christ foretold. (20–23)."
 weight: 2
 ---
 
-# Chapter 2
+# Haggai 2 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "Job 34 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "34"
+description: "In this chapter: Elihu accuses Job of charging God with injustice. (1–9). God cannot be unjust. (10–15). God's power and providence. (16–30). Elihu reproves Job. (31–37)."
 weight: 34
 ---
 
-# Chapter 34
+# Job 34 
 
 ## Chapter Outline
 

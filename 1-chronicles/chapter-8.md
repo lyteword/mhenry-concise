@@ -1,8 +1,11 @@
 ---
+title: "1 Chronicles 8 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "8"
+description: "In this chapter: Genealogies. (1-40)."
 weight: 8
 ---
 
-# Chapter 8
+# 1 Chronicles 8 
 
 ## Chapter Outline
 

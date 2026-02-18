@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 16 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "16"
+description: "In this chapter: The yearly feasts. (1–17). Of judges, Groves and images forbidden. (18–22)."
 weight: 16
 ---
 
-# Chapter 16
+# Deuteronomy 16 
 
 ## Chapter Outline
 

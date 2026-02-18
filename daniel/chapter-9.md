@@ -1,8 +1,11 @@
 ---
+title: "Daniel 9 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "9"
+description: "In this chapter: Daniel considers the time of the captivity. (1-3). His confession of sin, and prayer. (4-19). The revelation concerning the coming of the Messiah. (20-27)."
 weight: 9
 ---
 
-# Chapter 9
+# Daniel 9 
 
 ## Chapter Outline
 

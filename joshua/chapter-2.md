@@ -1,8 +1,11 @@
 ---
+title: "Joshua 2 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "2"
+description: "In this chapter: Rahab receives and hides two Israelites. (1–7). Rahab and the spies. (8–21). The return of the spies. (22–24)."
 weight: 2
 ---
 
-# Chapter 2
+# Joshua 2 
 
 ## Chapter Outline
 

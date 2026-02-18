@@ -1,8 +1,11 @@
 ---
+title: "Numbers 22 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "22"
+description: "In this chapter: Balak's fear of Israel, He sends for Balaam. (1–14). Balaam goes to Balak. (15–21). The opposition to Balaam by the way. (22–35). Balaam and Balak meet. (36–41)."
 weight: 22
 ---
 
-# Chapter 22
+# Numbers 22 
 
 ## Chapter Outline
 

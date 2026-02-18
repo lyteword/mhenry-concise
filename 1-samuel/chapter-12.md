@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 12 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "12"
+description: "In this chapter: Samuel testifies his integrity. (1–5). Samuel reproves the people. (6–15). Thunder sent in harvest time. (16–25)."
 weight: 12
 ---
 
-# Chapter 12
+# 1 Samuel 12 
 
 ## Chapter Outline
 

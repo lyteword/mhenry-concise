@@ -1,8 +1,11 @@
 ---
+title: "Genesis 26 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "26"
+description: "In this chapter: Isaac, because of famine, goes to Gerar. (1–5). He denies his wife and is reproved by Abimelech. (6–11). Isaac grows rich, The Philistines' envy. (12–17). Isaac digs wells God blesses him. (18–25). Abimelech makes a covenant with Isaac. (26–33). Esau's wives. (34, 35)."
 weight: 26
 ---
 
-# Chapter 26
+# Genesis 26 
 
 ## Chapter Outline
 

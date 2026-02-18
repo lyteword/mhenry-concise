@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 14 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "14"
+description: "In this chapter: The destruction of Babylon, and the death of its proud monarch. (1-23). Assurance of the destruction of Assyria. (24-27). The destruction of the Philistines. (28-32)."
 weight: 14
 ---
 
-# Chapter 14
+# Isaiah 14 
 
 ## Chapter Outline
 

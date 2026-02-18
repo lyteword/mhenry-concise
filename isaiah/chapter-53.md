@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 53 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "53"
+description: "In this chapter: The person. (1-3). sufferings. (4-9). humiliation, and exaltation of Christ, are minutely described; with the blessings to mankind from his death. (10-12)."
 weight: 53
 ---
 
-# Chapter 53
+# Isaiah 53 
 
 ## Chapter Outline
 

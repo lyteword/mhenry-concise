@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 20 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "20"
+description: "In this chapter: David consults Jonathan. (1–10). Jonathan's covenant with David. (11–23). Saul, missing David, seeks to kill Jonathan. (24–34). Jonathan takes leave of David. (35–42)."
 weight: 20
 ---
 
-# Chapter 20
+# 1 Samuel 20 
 
 ## Chapter Outline
 

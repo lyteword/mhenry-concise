@@ -1,8 +1,11 @@
 ---
+title: "Esther 3 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "3"
+description: "In this chapter: Haman seeks to destroy the Jews. (1–6). He obtains a decree against the Jews. (7–15)."
 weight: 3
 ---
 
-# Chapter 3
+# Esther 3 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 22 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "22"
+description: "In this chapter: Laws concerning the priests and sacrifices. (1-33)."
 weight: 22
 ---
 
-# Chapter 22
+# Leviticus 22 
 
 ## Chapter Outline
 

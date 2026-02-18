@@ -1,8 +1,11 @@
 ---
+title: "1 Corinthians 5 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "5"
+description: "In this chapter: The apostle blames the Corinthians for connivance at an incestuous person; (1–8). and directs their behaviour towards those guilty of scandalous crimes. (9–13)."
 weight: 5
 ---
 
-# Chapter 5
+# 1 Corinthians 5 
 
 ## Chapter Outline
 

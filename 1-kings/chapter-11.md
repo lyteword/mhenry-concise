@@ -1,8 +1,11 @@
 ---
+title: "1 Kings 11 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "11"
+description: "In this chapter: Solomon's wives and concubines, His idolatry. (1–8). God's anger. (9–13). Solomon's adversaries. (14–25). Jeroboam's promotion. (26–40). The death of Solomon. (41–43)."
 weight: 11
 ---
 
-# Chapter 11
+# 1 Kings 11 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "Exodus 4 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "4"
+description: "In this chapter: God gives Moses power to work miracles. (1–9). Moses is loth to be sent, Aaron is to assist him. (10–17). Moses leaves Midian, God's message to Pharaoh. (18–23). God's displeasure against Moses, Aaron meets him, The people believe them. (24–31)."
 weight: 4
 ---
 
-# Chapter 4
+# Exodus 4 
 
 ## Chapter Outline
 

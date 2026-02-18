@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 45 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "45"
+description: "In this chapter: The Vision of the Temple. (1-25)."
 weight: 45
 ---
 
-# Chapter 45
+# Ezekiel 45 
 
 ## Chapter Outline
 

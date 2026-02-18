@@ -1,8 +1,11 @@
 ---
+title: "Matthew 23 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "23"
+description: "In this chapter: Jesus reproves the scribes and Pharisees. (1–12). Crimes of the Pharisees. (13–33). The guilt of Jerusalem. (34–39)."
 weight: 23
 ---
 
-# Chapter 23
+# Matthew 23 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "Exodus 6 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "6"
+description: "In this chapter: God renews his promise. (1–9). Moses and Aaron again sent to Pharaoh. (10–13). The parentage of Moses and Aaron. (14–30)."
 weight: 6
 ---
 
-# Chapter 6
+# Exodus 6 
 
 ## Chapter Outline
 

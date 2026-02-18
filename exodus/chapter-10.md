@@ -1,8 +1,11 @@
 ---
+title: "Exodus 10 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "10"
+description: "In this chapter: The plague of locusts threatened, Pharaoh, moved by his servants, inclines to let the Israelites go. (1–11). The plague of locusts. (12–20). The plague of thick darkness. (21–29)."
 weight: 10
 ---
 
-# Chapter 10
+# Exodus 10 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 25 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "25"
+description: "In this chapter: The sabbath of rest for the land in the seventh year. (1–7). The jubilee of the fiftieth year, Oppression forbidden. (8–22). Redemption of the land and houses. (23–34). Compassion towards the poor. (35–38). Laws respecting bondmen, Oppression forbidden. (39–55)."
 weight: 25
 ---
 
-# Chapter 25
+# Leviticus 25 
 
 ## Chapter Outline
 

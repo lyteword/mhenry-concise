@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 38 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "38"
+description: "In this chapter: Hezekiah's sickness and recovery. (1-8). His thanksgiving. (9-22)."
 weight: 38
 ---
 
-# Chapter 38
+# Isaiah 38 
 
 ## Chapter Outline
 

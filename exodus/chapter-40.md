@@ -1,8 +1,11 @@
 ---
+title: "Exodus 40 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "40"
+description: "In this chapter: The tabernacle is to be set up, Aaron and his sons to be sanctified. (1–15). Moses performs all as directed. (16–33). The glory of the Lord fills the tabernacle. (34–38)."
 weight: 40
 ---
 
-# Chapter 40
+# Exodus 40 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 9 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "9"
+description: "In this chapter: The queen of Sheba. (1–12). Solomon's riches, and his death. (13–31)."
 weight: 9
 ---
 
-# Chapter 9
+# 2 Chronicles 9 
 
 ## Chapter Outline
 

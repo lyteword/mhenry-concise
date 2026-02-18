@@ -1,8 +1,11 @@
 ---
+title: "2 Samuel 24 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "24"
+description: "In this chapter: David numbers the people. (1–9). He chooses the pestilence. (10–15). The staying the pestilence. (16, 17). David's sacrifice, The plague removed. (18–25)."
 weight: 24
 ---
 
-# Chapter 24
+# 2 Samuel 24 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "Ezra 5 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "5"
+description: "In this chapter: The leaders forward the building of the temple. (1, 2). letter against the Jews. (3–17)."
 weight: 5
 ---
 
-# Chapter 5
+# Ezra 5 
 
 ## Chapter Outline
 

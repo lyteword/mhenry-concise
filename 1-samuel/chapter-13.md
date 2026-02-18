@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 13 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "13"
+description: "In this chapter: The invasion of the Philistines. (1–7). Saul sacrifices, He is reproved by Samuel. (8–14). The policy of the Philistines. (15–23)."
 weight: 13
 ---
 
-# Chapter 13
+# 1 Samuel 13 
 
 ## Chapter Outline
 

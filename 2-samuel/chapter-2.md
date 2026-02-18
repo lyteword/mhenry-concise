@@ -1,8 +1,11 @@
 ---
+title: "2 Samuel 2 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "2"
+description: "In this chapter: David made king in Hebron. (1–7). Abner makes Ishbosheth king Battle between Abner's men and those of Joab. (8–17). Asahel slain by Abner. (25–32). Both parties retreat. (18–24)."
 weight: 2
 ---
 
-# Chapter 2
+# 2 Samuel 2 
 
 ## Chapter Outline
 

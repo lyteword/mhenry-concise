@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 52 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "52"
+description: "In this chapter: The fate of Zedekiah. (1-11). The destruction of Jerusalem. (12-23). The captivities. (24-30). The advancement of Jehoiachin. (31-34)."
 weight: 52
 ---
 
-# Chapter 52
+# Jeremiah 52 
 
 ## Chapter Outline
 

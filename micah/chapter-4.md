@@ -1,8 +1,11 @@
 ---
+title: "Micah 4 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "4"
+description: "In this chapter: The peace of the kingdom of Christ. (1–8). The judgments to come upon Jerusalem, but the final triumph of Israel. (9–13)."
 weight: 4
 ---
 
-# Chapter 4
+# Micah 4 
 
 ## Chapter Outline
 

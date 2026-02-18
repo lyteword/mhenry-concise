@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 2 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "2"
+description: "In this chapter: The prophet is directed what he is to do. (1-5). And encouraged to be resolute, faithful, and devoted. (6-10)."
 weight: 2
 ---
 
-# Chapter 2
+# Ezekiel 2 
 
 ## Chapter Outline
 

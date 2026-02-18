@@ -1,8 +1,11 @@
 ---
+title: "Matthew 26 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "26"
+description: "In this chapter: The rulers conspire against Christ. (1–5). Christ anointed at Bethany. (6–13). Judas bargains to betray Christ. (14–16). The Passover. (17–25). Christ institutes his holy supper. (26–30). He warns his disciples. (31–35). His agony in the garden. (36–46). He is betrayed. (47–56). Christ before Caiaphas. (57–68). Peter denies him. (69–75)."
 weight: 26
 ---
 
-# Chapter 26
+# Matthew 26 
 
 ## Chapter Outline
 

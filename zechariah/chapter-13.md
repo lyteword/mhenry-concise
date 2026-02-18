@@ -1,8 +1,11 @@
 ---
+title: "Zechariah 13 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "13"
+description: "In this chapter: The Fountain for the remission of sins, The conviction of the false prophets. (1–6). The death of Christ, and the saving of a remnant of the people. (7–9)."
 weight: 13
 ---
 
-# Chapter 13
+# Zechariah 13 
 
 ## Chapter Outline
 

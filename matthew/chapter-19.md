@@ -1,8 +1,11 @@
 ---
+title: "Matthew 19 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "19"
+description: "In this chapter: Jesus enters Judea. (1, 2). The Pharisees' question about divorces. (3–12). Young children brought to Jesus. (13–15). The rich young man's inquiry. (16–22). The recompence of Christ's followers. (23–30)."
 weight: 19
 ---
 
-# Chapter 19
+# Matthew 19 
 
 ## Chapter Outline
 

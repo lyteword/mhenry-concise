@@ -1,8 +1,11 @@
 ---
+title: "Hosea 14 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "14"
+description: "In this chapter: An exhortation to repentance. (1-3). Blessings promised, showing the rich comforts of the gospel. (4-8). The just and the wicked. (9)."
 weight: 14
 ---
 
-# Chapter 14
+# Hosea 14 
 
 ## Chapter Outline
 

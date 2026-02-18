@@ -1,8 +1,11 @@
 ---
+title: "Hebrews 2 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "2"
+description: "In this chapter: The duty of stedfastly adhering to Christ and his gospel. (1–4). His sufferings are no objection against his pre-eminence. (5–9). The reason of his sufferings, and the fitness of them. (10–13). Christ's taking the nature of man, and not his taking the nature of angels, was necessary to his priestly office. (14–18)."
 weight: 2
 ---
 
-# Chapter 2
+# Hebrews 2 
 
 ## Chapter Outline
 

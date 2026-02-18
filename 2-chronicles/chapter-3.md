@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 3 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "3"
+description: "In this chapter: The building of the temple. (1-17)."
 weight: 3
 ---
 
-# Chapter 3
+# 2 Chronicles 3 
 
 ## Chapter Outline
 

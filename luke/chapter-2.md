@@ -1,8 +1,11 @@
 ---
+title: "Luke 2 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "2"
+description: "In this chapter: The birth of Christ. (1–7). It is made known to the shepherds. (8–20). Christ presented in the temple. (21–24). Simeon prophesies concerning Jesus. (25–35). Anna prophesies concerning him. (36–40). Christ with the learned men in the temple. (41–52)."
 weight: 2
 ---
 
-# Chapter 2
+# Luke 2 
 
 ## Chapter Outline
 

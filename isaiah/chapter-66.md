@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 66 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "66"
+description: "In this chapter: God looks at the heart, and vengeance is threatened for guilt. (1-4). The increase of the church, when Jew and Gentile shall be gathered to the Redeemer. (5-14). Every enemy of the church shall be destroyed, and the final ruin of ungodly men shall be seen. (15-24)."
 weight: 66
 ---
 
-# Chapter 66
+# Isaiah 66 
 
 ## Chapter Outline
 

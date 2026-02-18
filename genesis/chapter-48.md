@@ -1,8 +1,11 @@
 ---
+title: "Genesis 48 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "48"
+description: "In this chapter: Joseph visits his dying father. (1–7). Jacob blesses Joseph's sons. (8–22)."
 weight: 48
 ---
 
-# Chapter 48
+# Genesis 48 
 
 ## Chapter Outline
 

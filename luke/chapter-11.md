@@ -1,8 +1,11 @@
 ---
+title: "Luke 11 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "11"
+description: "In this chapter: The disciples taught to pray. (1–4). Christ encourages being earnest in prayer. (5–13). Christ casts out a devil, The blasphemy of the Pharisees. (14–26). True happiness. (27, 28). Christ reproves the Jews. (29–36). He reproves the Pharisees. (37–54)."
 weight: 11
 ---
 
-# Chapter 11
+# Luke 11 
 
 ## Chapter Outline
 

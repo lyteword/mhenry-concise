@@ -1,8 +1,11 @@
 ---
+title: "1 Corinthians 8 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "8"
+description: "In this chapter: The danger of having a high conceit of knowledge. (1–6). The mischief of offending weak brethren. (7–13)."
 weight: 8
 ---
 
-# Chapter 8
+# 1 Corinthians 8 
 
 ## Chapter Outline
 

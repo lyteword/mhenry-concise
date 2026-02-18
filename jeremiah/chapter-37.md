@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 37 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "37"
+description: "In this chapter: The Chaldean army will return. (1-10). Jeremiah is imprisoned. (11-21)."
 weight: 37
 ---
 
-# Chapter 37
+# Jeremiah 37 
 
 ## Chapter Outline
 

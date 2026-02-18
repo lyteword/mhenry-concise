@@ -1,8 +1,11 @@
 ---
+title: "Job 7 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "7"
+description: "In this chapter: Job's troubles. (1–6). Job expostulates with God. (7–16). He begs release. (17–21)."
 weight: 7
 ---
 
-# Chapter 7
+# Job 7 
 
 ## Chapter Outline
 

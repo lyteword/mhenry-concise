@@ -1,8 +1,11 @@
 ---
+title: "Numbers 13 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "13"
+description: "In this chapter: Twelve men sent to search the land of Canaan, Their instructions. (1–20). Their proceedings. (21–25). Their account of the land. (26–33)."
 weight: 13
 ---
 
-# Chapter 13
+# Numbers 13 
 
 ## Chapter Outline
 

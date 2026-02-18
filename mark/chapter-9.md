@@ -1,8 +1,11 @@
 ---
+title: "Mark 9 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "9"
+description: "In this chapter: The transfiguration. (1–13). An evil spirit cast out. (14–29). The apostles reproved. (30–40). Pain to be preferred to sin. (41–50)."
 weight: 9
 ---
 
-# Chapter 9
+# Mark 9 
 
 ## Chapter Outline
 

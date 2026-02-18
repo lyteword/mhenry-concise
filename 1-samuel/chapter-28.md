@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 28 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "28"
+description: "In this chapter: Achish puts confidence in David, Saul's fear. (1–6). Saul consults a witch at Endor. (7–19). Saul's terror. (20–25)."
 weight: 28
 ---
 
-# Chapter 28
+# 1 Samuel 28 
 
 ## Chapter Outline
 

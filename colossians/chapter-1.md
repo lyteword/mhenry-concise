@@ -1,8 +1,11 @@
 ---
+title: "Colossians 1 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "1"
+description: "In this chapter: The apostle Paul salutes the Colossians, and blesses God for their faith, love, and hope. (1–8). Prays for their fruitfulness in spiritual knowledge. (9–14). Gives a glorious view of Christ. (15–23). And sets out his own character, as the apostle of the Gentiles. (24–29)."
 weight: 1
 ---
 
-# Chapter 1
+# Colossians 1 
 
 ## Chapter Outline
 

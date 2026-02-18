@@ -1,8 +1,11 @@
 ---
+title: "Revelation 4 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "4"
+description: "In this chapter: A vision of God, as on his glorious throne, around which were twenty-four elders and four living creatures. (1–8). Whose songs, and those of the holy angels, the apostle heard. (9–11)."
 weight: 4
 ---
 
-# Chapter 4
+# Revelation 4 
 
 ## Chapter Outline
 

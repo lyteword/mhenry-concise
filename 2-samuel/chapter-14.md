@@ -1,8 +1,11 @@
 ---
+title: "2 Samuel 14 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "14"
+description: "In this chapter: Joab procures Absalom's recall. (1–20). Absalom recalled. (21–24). His personal beauty. (25–27). He is admitted to his father's presence. (28–33)."
 weight: 14
 ---
 
-# Chapter 14
+# 2 Samuel 14 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "Esther 9 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "9"
+description: "In this chapter: The success of the Jews. (1–19). The feast of Purim in remembrance of this. (20–32)."
 weight: 9
 ---
 
-# Chapter 9
+# Esther 9 
 
 ## Chapter Outline
 

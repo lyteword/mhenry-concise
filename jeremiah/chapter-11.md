@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 11 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "11"
+description: "In this chapter: The disobedient Jews reproved. (1-10). Their utter ruin. (11-17). The people would be destroyed who sought the prophet's life. (18-23)."
 weight: 11
 ---
 
-# Chapter 11
+# Jeremiah 11 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "Nehemiah 10 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "10"
+description: "In this chapter: The covenant, Those who signed it. (1–31). Their engagement to sacred rites. (32–39)."
 weight: 10
 ---
 
-# Chapter 10
+# Nehemiah 10 
 
 ## Chapter Outline
 

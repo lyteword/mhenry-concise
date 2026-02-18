@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 35 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "35"
+description: "In this chapter: A prophecy against Edom. (1-15)."
 weight: 35
 ---
 
-# Chapter 35
+# Ezekiel 35 
 
 ## Chapter Outline
 

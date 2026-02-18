@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 16 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "16"
+description: "In this chapter: Moab is exhorted to yield obedience. (1-5). The pride and the judgments of Moab. (6-14)."
 weight: 16
 ---
 
-# Chapter 16
+# Isaiah 16 
 
 ## Chapter Outline
 

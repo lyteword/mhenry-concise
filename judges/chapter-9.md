@@ -1,8 +1,11 @@
 ---
+title: "Judges 9 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "9"
+description: "In this chapter: Abimelech murders his brethren, and is made king. (1–6). Jotham rebukes the Shechemites. (7–21). The Shechemites conspire against Abimelech. (22–29). Abimelech destroys Shechem. (30–49). Abimelech slain. (50–57)."
 weight: 9
 ---
 
-# Chapter 9
+# Judges 9 
 
 ## Chapter Outline
 

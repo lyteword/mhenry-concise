@@ -1,8 +1,11 @@
 ---
+title: "Genesis 1 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "1"
+description: "In this chapter: God creates heaven and earth. (1, 2). The creation of light. (3–5). God separates the earth from the waters, and makes it fruitful. (6–13). God forms the sun, moon, and stars. (14–19). Animals created. (20–25). Man created in the image of God. (26–28). Food appointed. (29, 30). The work of creation ended and approved. (31)."
 weight: 1
 ---
 
-# Chapter 1
+# Genesis 1 
 
 ## Chapter Outline
 

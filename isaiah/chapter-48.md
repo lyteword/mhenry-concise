@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 48 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "48"
+description: "In this chapter: The Jews reproved for their idolatry. (1-8). Yet deliverance is promised them. (9-15). Solemn warnings of judgment upon those who persisted in evil. (16-22)."
 weight: 48
 ---
 
-# Chapter 48
+# Isaiah 48 
 
 ## Chapter Outline
 

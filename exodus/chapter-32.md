@@ -1,8 +1,11 @@
 ---
+title: "Exodus 32 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "32"
+description: "In this chapter: The people cause Aaron to make a golden calf. (1–6). God's displeasure, The intercession of Moses. (7–14). Moses breaks the tables of the law, He destroys the golden calf. (15–20). Aaron's excuse, The idolaters slain. (21–29). Moses prays for the people. (30–35)."
 weight: 32
 ---
 
-# Chapter 32
+# Exodus 32 
 
 ## Chapter Outline
 

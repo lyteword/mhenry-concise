@@ -1,8 +1,11 @@
 ---
+title: "Numbers 6 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "6"
+description: "In this chapter: The law concerning the Nazarites. (1–21). The form of blessing the people. (22–27)."
 weight: 6
 ---
 
-# Chapter 6
+# Numbers 6 
 
 ## Chapter Outline
 

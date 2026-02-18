@@ -1,8 +1,11 @@
 ---
+title: "Numbers 24 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "24"
+description: "In this chapter: Balaam, leaving divinations, prophesies the happiness of Israel. (1–9). Balak dismisses Balaam in anger. (10–14). Balaam's prophecies. (15–25)."
 weight: 24
 ---
 
-# Chapter 24
+# Numbers 24 
 
 ## Chapter Outline
 

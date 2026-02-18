@@ -1,8 +1,11 @@
 ---
+title: "Matthew 18 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "18"
+description: "In this chapter: The importance of humility. (1–6). Caution against offences. (7–14). The removal of offences. (15–20). Conduct towards brethren, The parable of the unmerciful servant. (21–35)."
 weight: 18
 ---
 
-# Chapter 18
+# Matthew 18 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "2 Kings 8 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "8"
+description: "In this chapter: A famine in Israel, The Shunammite obtains her land. (1–6). Elisha consulted by Hazael, Death of Benhadad. (7–15). Jehoram's wicked reign in Judah. (16–24). Ahaziah's wicked reign in Judah. (25–29)."
 weight: 8
 ---
 
-# Chapter 8
+# 2 Kings 8 
 
 ## Chapter Outline
 

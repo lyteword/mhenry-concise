@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 58 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "58"
+description: "In this chapter: Hypocrisy reproved. (1,2) . A counterfeit and a true fast, with promises to real godliness, and, (3-12)."
 weight: 58
 ---
 
-# Chapter 58
+# Isaiah 58 
 
 ## Chapter Outline
 

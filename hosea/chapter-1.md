@@ -1,8 +1,11 @@
 ---
+title: "Hosea 1 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "1"
+description: "In this chapter: Under a figure, is represented the shameful idolatry of the ten tribes. (1-7). The calling of the Gentiles, and the uniting Israel and Judah under the Messiah. (8-11)."
 weight: 1
 ---
 
-# Chapter 1
+# Hosea 1 
 
 ## Chapter Outline
 

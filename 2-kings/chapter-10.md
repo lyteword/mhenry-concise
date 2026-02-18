@@ -1,8 +1,11 @@
 ---
+title: "2 Kings 10 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "10"
+description: "In this chapter: Ahab's sons and Ahaziah's brethren put to death. (1–14). Jehu destroys the worshippers of Baal. (15–28). Jehu follows Jeroboam's sins. (29–36)."
 weight: 10
 ---
 
-# Chapter 10
+# 2 Kings 10 
 
 ## Chapter Outline
 

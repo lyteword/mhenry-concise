@@ -1,8 +1,11 @@
 ---
+title: "Jonah 1 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "1"
+description: "In this chapter: Jonah, sent to Nineveh, flees to Tarshish. (1–3). He is stayed by a tempest. (4–7). His discourse with the mariners. (8–12). He is cast into the sea, and miraculously preserved. (13–17)."
 weight: 1
 ---
 
-# Chapter 1
+# Jonah 1 
 
 ## Chapter Outline
 

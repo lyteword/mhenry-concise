@@ -1,8 +1,11 @@
 ---
+title: "Hebrews 7 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "7"
+description: "In this chapter: A comparison between the priesthood of Melchizedec and that of Christ. (1–3). The excellence of Christ's priesthood above the Levitical priesthood is shown. (4–10). This is applied to Christ. (11–25). The faith and hope of the church encouraged from this. (26–28)."
 weight: 7
 ---
 
-# Chapter 7
+# Hebrews 7 
 
 ## Chapter Outline
 

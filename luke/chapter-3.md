@@ -1,8 +1,11 @@
 ---
+title: "Luke 3 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "3"
+description: "In this chapter: John the Baptist's ministry. (1–14). John the Baptist testifies concerning Christ. (15–20). The baptism of Christ. (21, 22). The genealogy of Christ. (23–38)."
 weight: 3
 ---
 
-# Chapter 3
+# Luke 3 
 
 ## Chapter Outline
 

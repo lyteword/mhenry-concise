@@ -1,8 +1,11 @@
 ---
+title: "Numbers 17 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "17"
+description: "In this chapter: Twelve rods laid up before the Lord. (1–7). Aaron's rod buds, and is kept for a memorial. (8–13)."
 weight: 17
 ---
 
-# Chapter 17
+# Numbers 17 
 
 ## Chapter Outline
 

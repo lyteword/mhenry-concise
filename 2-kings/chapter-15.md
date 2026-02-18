@@ -1,8 +1,11 @@
 ---
+title: "2 Kings 15 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "15"
+description: "In this chapter: Reign of Azariah, or Uzziah, king of Judah. (1–7). The latter kings of Israel. (8–31). Jotham, king of Judah. (32–38)."
 weight: 15
 ---
 
-# Chapter 15
+# 2 Kings 15 
 
 ## Chapter Outline
 

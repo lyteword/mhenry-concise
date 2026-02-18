@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 43 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "43"
+description: "In this chapter: The leaders carry the people to Egypt. (1-7). Jeremiah foretells the conquest of Egypt. (8-13)."
 weight: 43
 ---
 
-# Chapter 43
+# Jeremiah 43 
 
 ## Chapter Outline
 

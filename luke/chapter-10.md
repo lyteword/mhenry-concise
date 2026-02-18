@@ -1,8 +1,11 @@
 ---
+title: "Luke 10 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "10"
+description: "In this chapter: Seventy disciples sent forth. (1–16). The blessedness of Christ's disciples. (17–24). The good Samaritan. (25–37). Jesus at the house of Martha and Mary. (38–42)."
 weight: 10
 ---
 
-# Chapter 10
+# Luke 10 
 
 ## Chapter Outline
 

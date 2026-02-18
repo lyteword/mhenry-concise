@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 32 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "32"
+description: "In this chapter: Jeremiah buys a field. (1-15). The prophet's prayer. (16-25). God declares that he will give up his people, but promises to restore them. (26-44)."
 weight: 32
 ---
 
-# Chapter 32
+# Jeremiah 32 
 
 ## Chapter Outline
 

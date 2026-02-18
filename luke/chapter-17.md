@@ -1,8 +1,11 @@
 ---
+title: "Luke 17 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "17"
+description: "In this chapter: To avoid offences, To pray for increase of faith, Humility taught. (11–19). Ten lepers cleansed. (1–10). Christ's kingdom. (20–37)."
 weight: 17
 ---
 
-# Chapter 17
+# Luke 17 
 
 ## Chapter Outline
 

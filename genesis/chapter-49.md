@@ -1,8 +1,11 @@
 ---
+title: "Genesis 49 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "49"
+description: "In this chapter: Jacob calls his sons to bless them. (1, 2). Reuben, Simeon, Levi. (3–7). Judah. (8–12). Zebulun, Issachar, Dan. (13–18). Gad, Asher, Naphtali. (19–21). Joseph and Benjamin. (22–27). Jacob's charge respecting his burial, His death. (28–33)."
 weight: 49
 ---
 
-# Chapter 49
+# Genesis 49 
 
 ## Chapter Outline
 

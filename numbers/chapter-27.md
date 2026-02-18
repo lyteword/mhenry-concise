@@ -1,8 +1,11 @@
 ---
+title: "Numbers 27 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "27"
+description: "In this chapter: The daughters of Zelophehad apply for an inheritance, The law of inheritances. (1–11). Moses warned of his death. (12–14). Joshua appointed to succeed Moses. (15–23)."
 weight: 27
 ---
 
-# Chapter 27
+# Numbers 27 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "2 Samuel 22 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "22"
+description: "In this chapter: David's psalm of thanksgiving. (1-51)."
 weight: 22
 ---
 
-# Chapter 22
+# 2 Samuel 22 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "Luke 8 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "8"
+description: "In this chapter: The ministry of Christ. (1–3). The parable of the sower. (4–21). Christ stilleth the tempest and casteth out devils. (22–40). The daughter of Jairus restored to life. (41–56)."
 weight: 8
 ---
 
-# Chapter 8
+# Luke 8 
 
 ## Chapter Outline
 

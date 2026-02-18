@@ -1,8 +1,11 @@
 ---
+title: "Mark 16 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "16"
+description: "In this chapter: Christ's resurrection made known the women. (1–8). Christ appears to Mary Magdalene and other disciples. (9–13). His commission to the apostles. (14–18). Christ's ascension. (19, 20)."
 weight: 16
 ---
 
-# Chapter 16
+# Mark 16 
 
 ## Chapter Outline
 

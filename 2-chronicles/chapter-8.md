@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 8 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "8"
+description: "In this chapter: Solomon's buildings and trade. (1-18)."
 weight: 8
 ---
 
-# Chapter 8
+# 2 Chronicles 8 
 
 ## Chapter Outline
 

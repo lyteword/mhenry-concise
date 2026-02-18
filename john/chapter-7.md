@@ -1,8 +1,11 @@
 ---
+title: "John 7 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "7"
+description: "In this chapter: Christ goes to the feast of tabernacles. (1–13). His discourse at the feast. (14–39). The people dispute concerning Christ. (40–53)."
 weight: 7
 ---
 
-# Chapter 7
+# John 7 
 
 ## Chapter Outline
 

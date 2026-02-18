@@ -1,8 +1,11 @@
 ---
+title: "1 Thessalonians 2 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "2"
+description: "In this chapter: The apostle reminds the Thessalonians of his preaching and behaviour. (1–12). And of their receiving the gospel as the word of God. (13–16). His joy on their account. (17–20)."
 weight: 2
 ---
 
-# Chapter 2
+# 1 Thessalonians 2 
 
 ## Chapter Outline
 

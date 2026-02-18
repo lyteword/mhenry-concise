@@ -1,8 +1,11 @@
 ---
+title: "Ezra 2 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "2"
+description: "In this chapter: The numbers that returned. (1–35). The numbers of the priests and Levites. (36–63). The offerings for the temple. (64–70)."
 weight: 2
 ---
 
-# Chapter 2
+# Ezra 2 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 18 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "18"
+description: "In this chapter: Jehoshaphat's alliance with Ahab. (1-34)."
 weight: 18
 ---
 
-# Chapter 18
+# 2 Chronicles 18 
 
 ## Chapter Outline
 

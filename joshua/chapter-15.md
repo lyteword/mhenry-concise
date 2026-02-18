@@ -1,8 +1,11 @@
 ---
+title: "Joshua 15 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "15"
+description: "In this chapter: The borders of the lot of Judah. (1–12). Caleb's portion, His daughter's blessing. (13–19). The cities of Judah. (20–63)."
 weight: 15
 ---
 
-# Chapter 15
+# Joshua 15 
 
 ## Chapter Outline
 

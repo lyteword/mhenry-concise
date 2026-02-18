@@ -1,8 +1,11 @@
 ---
+title: "2 Kings 5 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "5"
+description: "In this chapter: Naaman's leprosy. (1–8). The cure of it. (9–14). Elisha refuses Naaman's gifts. (15–19). Gehazi's covetousness and falsehood. (20–27)."
 weight: 5
 ---
 
-# Chapter 5
+# 2 Kings 5 
 
 ## Chapter Outline
 

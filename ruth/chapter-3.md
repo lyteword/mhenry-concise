@@ -1,8 +1,11 @@
 ---
+title: "Ruth 3 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "3"
+description: "In this chapter: The directions given to Ruth by Naomi. (1–5). Boaz acknowledges the duty of a kinsman. (6–13). Ruth's return to her mother-in-law. (14–18)."
 weight: 3
 ---
 
-# Chapter 3
+# Ruth 3 
 
 ## Chapter Outline
 

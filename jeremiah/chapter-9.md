@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 9 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "9"
+description: "In this chapter: The people are corrected, Jerusalem is destroyed. (1-11). The captives suffer in a foreign land. (12-22). God's loving-kindness, He threatens the enemies of his people. (23-26)."
 weight: 9
 ---
 
-# Chapter 9
+# Jeremiah 9 
 
 ## Chapter Outline
 

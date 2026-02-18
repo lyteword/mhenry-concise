@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 17 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "17"
+description: "In this chapter: Syria and Israel threatened. (1-11). The woe of Israel's enemies. (12-14)."
 weight: 17
 ---
 
-# Chapter 17
+# Isaiah 17 
 
 ## Chapter Outline
 

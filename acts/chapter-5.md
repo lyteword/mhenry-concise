@@ -1,8 +1,11 @@
 ---
+title: "Acts 5 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "5"
+description: "In this chapter: The death of Ananias and Sapphira. (1–11). The power which accompanied the preaching of the gospel. (12–16). The apostles imprisoned, but set free by an angel. (17–25). The apostles testify to Christ before the council. (26–33). The advice of Gamaliel, The council let the apostles go. (34–42)."
 weight: 5
 ---
 
-# Chapter 5
+# Acts 5 
 
 ## Chapter Outline
 

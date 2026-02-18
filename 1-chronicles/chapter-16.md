@@ -1,8 +1,11 @@
 ---
+title: "1 Chronicles 16 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "16"
+description: "In this chapter: The solemnity with which the ark was fixed. (1–6). David's psalm of praise. (7–36). Setting in order the worship of God. (37–43)."
 weight: 16
 ---
 
-# Chapter 16
+# 1 Chronicles 16 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "Job 2 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "2"
+description: "In this chapter: Satan obtains leave to try Job. (1–6). Job's sufferings. (7–10). His friends come to comfort him. (11–13)."
 weight: 2
 ---
 
-# Chapter 2
+# Job 2 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 17 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "17"
+description: "In this chapter: All sacrifices to be offered at the tabernacle. (1–9). Eating of blood, or of animals which died a natural death, forbidden. (10–16)."
 weight: 17
 ---
 
-# Chapter 17
+# Leviticus 17 
 
 ## Chapter Outline
 

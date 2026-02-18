@@ -1,8 +1,11 @@
 ---
+title: "2 Corinthians 4 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "4"
+description: "In this chapter: The apostles laboured with much diligence, sincerity, and faithfulness. (1–7). Their sufferings for the gospel were great, yet with rich supports. (8–12). Prospects of eternal glory keep believers from fainting under troubles. (13–18)."
 weight: 4
 ---
 
-# Chapter 4
+# 2 Corinthians 4 
 
 ## Chapter Outline
 

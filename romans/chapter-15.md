@@ -1,8 +1,11 @@
 ---
+title: "Romans 15 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "15"
+description: "In this chapter: Directions how to behave towards the weak. (1–7). All to receive one another as brethren. (8–13). The writing and preaching of the apostle. (14–21). His purposed journeys. (22–29). He requests their prayers. (30–33)."
 weight: 15
 ---
 
-# Chapter 15
+# Romans 15 
 
 ## Chapter Outline
 

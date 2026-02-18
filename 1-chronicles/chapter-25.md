@@ -1,8 +1,11 @@
 ---
+title: "1 Chronicles 25 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "25"
+description: "In this chapter: The singers and musicians. (1-31)."
 weight: 25
 ---
 
-# Chapter 25
+# 1 Chronicles 25 
 
 ## Chapter Outline
 

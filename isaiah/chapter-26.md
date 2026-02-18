@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 26 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "26"
+description: "In this chapter: The Divine mercies encourage to confidence in God. (1-4). His judgments. (5-11). His people exhorted to wait upon Him. (12-19). Deliverance promised. (20,21)."
 weight: 26
 ---
 
-# Chapter 26
+# Isaiah 26 
 
 ## Chapter Outline
 

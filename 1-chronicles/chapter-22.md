@@ -1,8 +1,11 @@
 ---
+title: "1 Chronicles 22 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "22"
+description: "In this chapter: David's preparations for the temple. (1–5). David's instructions to Solomon. (6–16). The prices commanded to assist. (17–19)."
 weight: 22
 ---
 
-# Chapter 22
+# 1 Chronicles 22 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "Judges 16 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "16"
+description: "In this chapter: Samson's escape from Gaza. (1–3). Samson enticed to declare his strength lay. (4–17). The Philistines take Samson, and put out his eyes. (18–21). Samson's strength is renewed. (22–24). He destroys many of the Philistines. (25–31)."
 weight: 16
 ---
 
-# Chapter 16
+# Judges 16 
 
 ## Chapter Outline
 

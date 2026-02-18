@@ -1,8 +1,11 @@
 ---
+title: "Hebrews 6 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "6"
+description: "In this chapter: The Hebrews are urged to go forward in the doctrine of Christ, and the consequences of apostacy, or turning back, are described. (1–8). The apostle expresses satisfaction, as to the most of them. (9, 10). And encourages them to persevere in faith and holiness. (11–20)."
 weight: 6
 ---
 
-# Chapter 6
+# Hebrews 6 
 
 ## Chapter Outline
 

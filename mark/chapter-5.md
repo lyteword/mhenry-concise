@@ -1,8 +1,11 @@
 ---
+title: "Mark 5 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "5"
+description: "In this chapter: The demoniac healed. (1–20). A woman healed. (21–34). The daughter of Jairus raised. (35–43)."
 weight: 5
 ---
 
-# Chapter 5
+# Mark 5 
 
 ## Chapter Outline
 

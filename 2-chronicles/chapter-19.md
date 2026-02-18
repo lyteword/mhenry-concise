@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 19 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "19"
+description: "In this chapter: Jehoshaphat visits his kingdom. (1-11)."
 weight: 19
 ---
 
-# Chapter 19
+# 2 Chronicles 19 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "Acts 24 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "24"
+description: "In this chapter: The speech of Tertullus against Paul. (1–9). Paul's defence before Felix. (10–21). Felix trembles at the reasoning of Paul. (22–27)."
 weight: 24
 ---
 
-# Chapter 24
+# Acts 24 
 
 ## Chapter Outline
 

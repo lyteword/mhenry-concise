@@ -1,8 +1,11 @@
 ---
+title: "Luke 16 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "16"
+description: "In this chapter: The parable of the unjust steward. (1–12). Christ reproves the hypocrisy of the covetous Pharisees. (13–18). The rich man and Lazarus. (19–31)."
 weight: 16
 ---
 
-# Chapter 16
+# Luke 16 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 7 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "7"
+description: "In this chapter: God's answer to Solomon's prayer. (1-22)."
 weight: 7
 ---
 
-# Chapter 7
+# 2 Chronicles 7 
 
 ## Chapter Outline
 

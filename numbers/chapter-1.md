@@ -1,8 +1,11 @@
 ---
+title: "Numbers 1 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "1"
+description: "In this chapter: The numbering of the Israelites. (1–43). The number of the people. (44–46). The Levites not numbered with the rest. (47–54)."
 weight: 1
 ---
 
-# Chapter 1
+# Numbers 1 
 
 ## Chapter Outline
 

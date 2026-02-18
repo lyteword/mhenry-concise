@@ -1,8 +1,11 @@
 ---
+title: "2 Samuel 12 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "12"
+description: "In this chapter: Nathan's parable—David confesses his sin. (1–14). The birth of Solomon. (15–25). David's severity to the Ammonites. (26–31)."
 weight: 12
 ---
 
-# Chapter 12
+# 2 Samuel 12 
 
 ## Chapter Outline
 

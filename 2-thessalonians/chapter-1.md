@@ -1,8 +1,11 @@
 ---
+title: "2 Thessalonians 1 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "1"
+description: "In this chapter: The apostle blesses God for the growing state of the love and patience of the Thessalonians. (1–4). And encourages them to persevere under all their sufferings for Christ, considering his coming at the great day of account. (5–12)."
 weight: 1
 ---
 
-# Chapter 1
+# 2 Thessalonians 1 
 
 ## Chapter Outline
 

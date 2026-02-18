@@ -1,8 +1,11 @@
 ---
+title: "1 Chronicles 5 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "5"
+description: "In this chapter: Genealogies. (1-26)."
 weight: 5
 ---
 
-# Chapter 5
+# 1 Chronicles 5 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 29 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "29"
+description: "In this chapter: David objected to by the Philistines. (1–5). He is dismissed by Achish. (6–11)."
 weight: 29
 ---
 
-# Chapter 29
+# 1 Samuel 29 
 
 ## Chapter Outline
 

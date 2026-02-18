@@ -1,8 +1,11 @@
 ---
+title: "Ecclesiastes 9 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "9"
+description: "In this chapter: Good and bad men fare alike as to this world. (1-3). All men must die, Their portion as to this life. (4-10). Disappointments common. (11,12) . Benefits of wisdom. (13-18)."
 weight: 9
 ---
 
-# Chapter 9
+# Ecclesiastes 9 
 
 ## Chapter Outline
 

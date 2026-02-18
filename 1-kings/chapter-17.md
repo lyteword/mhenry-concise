@@ -1,8 +1,11 @@
 ---
+title: "1 Kings 17 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "17"
+description: "In this chapter: Elijah fed by ravens. (1–7). Elijah sent to Zarephath. (8–16). Elijah raises the widow's son to life. (17–24)."
 weight: 17
 ---
 
-# Chapter 17
+# 1 Kings 17 
 
 ## Chapter Outline
 

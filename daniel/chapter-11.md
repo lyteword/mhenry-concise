@@ -1,8 +1,11 @@
 ---
+title: "Daniel 11 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "11"
+description: "In this chapter: The vision of the Scriptures of truth. (1-45)."
 weight: 11
 ---
 
-# Chapter 11
+# Daniel 11 
 
 ## Chapter Outline
 

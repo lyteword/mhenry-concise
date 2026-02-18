@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 26 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "26"
+description: "In this chapter: Saul goes after David, who again spares Saul's life. (1–12). David exhorts Saul. (13–20). Saul acknowledges his sin. (21–25)."
 weight: 26
 ---
 
-# Chapter 26
+# 1 Samuel 26 
 
 ## Chapter Outline
 

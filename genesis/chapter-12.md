@@ -1,8 +1,11 @@
 ---
+title: "Genesis 12 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "12"
+description: "In this chapter: God calls Abram, and blesses him with a promise of Christ. (1–3). Abram departs from Haran. (4, 5). He journeys through Canaan, and worships God in that land. (6–9). Abram is driven by a famine into Egypt, He feigns his wife to be his sister. (10–20)."
 weight: 12
 ---
 
-# Chapter 12
+# Genesis 12 
 
 ## Chapter Outline
 

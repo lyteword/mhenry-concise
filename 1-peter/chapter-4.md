@@ -1,8 +1,11 @@
 ---
+title: "1 Peter 4 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "4"
+description: "In this chapter: The consideration of Christ's sufferings is urged for purity and holiness. (1–6). And the approaching end of the Jewish state, as a reason for sobriety, watchfulness, and prayer. (7–11). Believers encouraged to rejoice and glory in reproaches and sufferings for Christ, and to commit their souls to the care of a faithful God. (12–19)."
 weight: 4
 ---
 
-# Chapter 4
+# 1 Peter 4 
 
 ## Chapter Outline
 

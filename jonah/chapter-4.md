@@ -1,8 +1,11 @@
 ---
+title: "Jonah 4 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "4"
+description: "In this chapter: Jonah repines at God's mercy to Nineveh, and is reproved. (1–4). He is taught by the withering of a gourd, that he did wrong. (5–11)."
 weight: 4
 ---
 
-# Chapter 4
+# Jonah 4 
 
 ## Chapter Outline
 

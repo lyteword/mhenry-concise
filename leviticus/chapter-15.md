@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 15 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "15"
+description: "In this chapter: Laws concerning ceremonial uncleanness. (1-23)."
 weight: 15
 ---
 
-# Chapter 15
+# Leviticus 15 
 
 ## Chapter Outline
 

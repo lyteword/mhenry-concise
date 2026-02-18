@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 5 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "5"
+description: "In this chapter: Dagon is broken before the ark. (1–5). The Philistine smitten. (6–12)."
 weight: 5
 ---
 
-# Chapter 5
+# 1 Samuel 5 
 
 ## Chapter Outline
 

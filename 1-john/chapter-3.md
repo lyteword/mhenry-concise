@@ -1,8 +1,11 @@
 ---
+title: "1 John 3 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "3"
+description: "In this chapter: The apostle admires the love of God in making believers his children. (1, 2). The purifying influence of the hope of seeing Christ, and the danger of pretending to this, and living in sin. (3–10). Love to the brethren is the character of real Christians. (11–15). That love described by its actings. (16–21). The advantage of faith, love, and obedience. (22–24)."
 weight: 3
 ---
 
-# Chapter 3
+# 1 John 3 
 
 ## Chapter Outline
 

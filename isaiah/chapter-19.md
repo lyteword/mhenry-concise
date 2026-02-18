@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 19 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "19"
+description: "In this chapter: Judgments upon Egypt. (1-17). Its deliverance, and the conversion of the people. (18-25)."
 weight: 19
 ---
 
-# Chapter 19
+# Isaiah 19 
 
 ## Chapter Outline
 

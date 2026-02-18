@@ -1,8 +1,11 @@
 ---
+title: "Genesis 3 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "3"
+description: "In this chapter: The serpent deceives Eve. (1–5). Adam and Eve transgress the Divine command, and fall into sin and misery. (6–8). God calls upon Adam and Eve to answer. (9–13). The serpent cursed, The promised Seed. (14, 15). The punishment of mankind. (16–19). The first clothing of mankind. (20, 21). Adam and Eve are driven out from paradise. (22–24)."
 weight: 3
 ---
 
-# Chapter 3
+# Genesis 3 
 
 ## Chapter Outline
 

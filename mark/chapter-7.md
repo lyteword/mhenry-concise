@@ -1,8 +1,11 @@
 ---
+title: "Mark 7 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "7"
+description: "In this chapter: The traditions of the elders. (1–13). What defiles the man. (14–23). The woman of Canaan's daughter cured. (24–30). Christ restores a man to hearing and speech. (31–37)."
 weight: 7
 ---
 
-# Chapter 7
+# Mark 7 
 
 ## Chapter Outline
 

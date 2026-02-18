@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 32 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "32"
+description: "In this chapter: Times of peace and happiness. (1-8). An interval of trouble, yet comfort and blessings in the end. (9-20)."
 weight: 32
 ---
 
-# Chapter 32
+# Isaiah 32 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "Song Of Solomon 7 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "7"
+description: "In this chapter: The graces of the church. (1-9) . The delight of the church in Christ. (10-13)."
 weight: 7
 ---
 
-# Chapter 7
+# Song Of Solomon 7 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "Job 36 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "36"
+description: "In this chapter: Elihu desires Job's attention. (1–4). The methods in which God deals with men. (5–14). Elihu counsels Job. (15–23). The wonders in the works of creation. (24–33)."
 weight: 36
 ---
 
-# Chapter 36
+# Job 36 
 
 ## Chapter Outline
 

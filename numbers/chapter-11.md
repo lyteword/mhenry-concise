@@ -1,8 +1,11 @@
 ---
+title: "Numbers 11 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "11"
+description: "In this chapter: The burning at Taberah. (1–3). The people lust for flesh, and loathe the manna. (4–9). Moses complains of his charge. (10–15). Elders appointed to divide the charge. Flesh meat promised. (16–23). The Spirit rests on the elders. (24–30). Quails are given. (31–35)."
 weight: 11
 ---
 
-# Chapter 11
+# Numbers 11 
 
 ## Chapter Outline
 

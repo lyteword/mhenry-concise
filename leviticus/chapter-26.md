@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 26 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "26"
+description: "In this chapter: Promises upon keeping the precepts. (1–13). Threatenings against disobedience. (14–39). God promises to remember those that repent. (40–46)."
 weight: 26
 ---
 
-# Chapter 26
+# Leviticus 26 
 
 ## Chapter Outline
 

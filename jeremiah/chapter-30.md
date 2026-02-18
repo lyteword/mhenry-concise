@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 30 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "30"
+description: "In this chapter: Troubles which shall be before the restoration of Israel. (1-11). Encouragement to trust Divine promises. (12-17). The blessings under Christ, and the wrath on the wicked. (18-24)."
 weight: 30
 ---
 
-# Chapter 30
+# Jeremiah 30 
 
 ## Chapter Outline
 

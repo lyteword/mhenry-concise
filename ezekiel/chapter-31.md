@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 31 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "31"
+description: "In this chapter: The glory of Assyria. (1-9). Its fall, and the like for Egypt. (10-18)."
 weight: 31
 ---
 
-# Chapter 31
+# Ezekiel 31 
 
 ## Chapter Outline
 

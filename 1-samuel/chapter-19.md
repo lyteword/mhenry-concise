@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 19 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "19"
+description: "In this chapter: Jonathan reconciles his father to David, Saul again tries to slay him. (1–10). David flees to Samuel. (11–24)."
 weight: 19
 ---
 
-# Chapter 19
+# 1 Samuel 19 
 
 ## Chapter Outline
 

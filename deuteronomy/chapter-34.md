@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 34 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "34"
+description: "In this chapter: Moses views the promised land from mount Nebo. (1–4). The death and burial of Moses, The mourning of the people. (5–8). Joshua succeeds Moses, The praise of Moses. (9–12)."
 weight: 34
 ---
 
-# Chapter 34
+# Deuteronomy 34 
 
 ## Chapter Outline
 

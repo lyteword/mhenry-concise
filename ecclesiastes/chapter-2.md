@@ -1,8 +1,11 @@
 ---
+title: "Ecclesiastes 2 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "2"
+description: "In this chapter: The vanity and vexation of mirth, sensual pleasure, riches, and pomp. (1-11). Human wisdom insufficient. (12-17). This world to be used according to the will of God. (18-26)."
 weight: 2
 ---
 
-# Chapter 2
+# Ecclesiastes 2 
 
 ## Chapter Outline
 

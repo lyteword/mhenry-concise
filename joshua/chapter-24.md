@@ -1,8 +1,11 @@
 ---
+title: "Joshua 24 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "24"
+description: "In this chapter: God's benefits to their fathers. (1–14). Joshua renews the covenant between the people and God. (15–28). Joshua's death, Joseph's bones buried, The state of Israel. (29–33)."
 weight: 24
 ---
 
-# Chapter 24
+# Joshua 24 
 
 ## Chapter Outline
 

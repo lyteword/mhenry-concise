@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 28 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "28"
+description: "In this chapter: The blessings for obedience. (1–14). The curses for disobedience. (15–44). Their ruin, if disobedient. (45–68)."
 weight: 28
 ---
 
-# Chapter 28
+# Deuteronomy 28 
 
 ## Chapter Outline
 

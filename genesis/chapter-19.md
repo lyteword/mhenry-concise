@@ -1,8 +1,11 @@
 ---
+title: "Genesis 19 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "19"
+description: "In this chapter: The destruction of Sodom, and the deliverance of Lot. (1–29). The sin and disgrace of Lot. (30–38)."
 weight: 19
 ---
 
-# Chapter 19
+# Genesis 19 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 46 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "46"
+description: "In this chapter: The Vision of the Temple. (1-24)."
 weight: 46
 ---
 
-# Chapter 46
+# Ezekiel 46 
 
 ## Chapter Outline
 

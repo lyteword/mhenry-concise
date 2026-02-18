@@ -1,8 +1,11 @@
 ---
+title: "Hosea 8 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "8"
+description: "In this chapter: Destruction threatened for the impiety of Israel. (1-4). For their idolatry. (5-10). Further threatenings for the same sins. (11-14)."
 weight: 8
 ---
 
-# Chapter 8
+# Hosea 8 
 
 ## Chapter Outline
 

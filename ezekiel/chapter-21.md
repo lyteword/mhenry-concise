@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 21 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "21"
+description: "In this chapter: The ruin of Judah under the emblem of a sharp sword. (1-17). The approach of the king of Babylon described. (18-27). The destruction of the Ammonites. (28-32)."
 weight: 21
 ---
 
-# Chapter 21
+# Ezekiel 21 
 
 ## Chapter Outline
 

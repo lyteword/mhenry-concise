@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 21 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "21"
+description: "In this chapter: The taking of Babylon. (1-10). Of the Edomites. (11,12) . Of the Arabs. (13-17)."
 weight: 21
 ---
 
-# Chapter 21
+# Isaiah 21 
 
 ## Chapter Outline
 

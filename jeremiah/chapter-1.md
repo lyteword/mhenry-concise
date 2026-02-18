@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 1 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "1"
+description: "In this chapter: Jeremiah's call to the prophetic office. (1-10). A vision of an almond-tree and of a seething-pot, Divine protection is promised. (11-19)."
 weight: 1
 ---
 
-# Chapter 1
+# Jeremiah 1 
 
 ## Chapter Outline
 

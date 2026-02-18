@@ -1,8 +1,11 @@
 ---
+title: "Ecclesiastes 12 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "12"
+description: "In this chapter: A description of the infirmities of age. (1-7). All is vanity: also a warning of the judgment to come. (8-14)."
 weight: 12
 ---
 
-# Chapter 12
+# Ecclesiastes 12 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "Genesis 15 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "15"
+description: "In this chapter: God encourages Abram. (1). The Divine promise, Abraham is justified by faith. (2–6). God promises Canaan to Abraham for an inheritance. (7–11). The promise confirmed in a vision. (12–16). The promise confirmed by a sign. (17–21)."
 weight: 15
 ---
 
-# Chapter 15
+# Genesis 15 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "Revelation 11 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "11"
+description: "In this chapter: The state of the church is represented under the figure of a temple measured. (1, 2). Two witnesses prophesy is sackcloth. (3–6). They are slain, after which they arise and ascend to heaven. (7–13). Under the seventh trumpet, all antichristian powers are to be destroyed and there will be a glorious state of Christ's kingdom upon earth. (14–19)."
 weight: 11
 ---
 
-# Chapter 11
+# Revelation 11 
 
 ## Chapter Outline
 

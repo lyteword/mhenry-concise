@@ -1,8 +1,11 @@
 ---
+title: "2 Kings 7 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "7"
+description: "In this chapter: Elisha prophesies plenty. (1, 2). The flight of the Syrian army. (3–11). Samaria plentifully supplied. (12–20)."
 weight: 7
 ---
 
-# Chapter 7
+# 2 Kings 7 
 
 ## Chapter Outline
 

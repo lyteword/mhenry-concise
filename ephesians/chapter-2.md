@@ -1,8 +1,11 @@
 ---
+title: "Ephesians 2 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "2"
+description: "In this chapter: The riches of God's grace towards men, shown from their deplorable state by nature, and the happy change Divine grace makes in them. (1–10). The Ephesians called to reflect on their state of heathenism. (11–13). And the privileges and blessings of the gospel. (14–22)."
 weight: 2
 ---
 
-# Chapter 2
+# Ephesians 2 
 
 ## Chapter Outline
 

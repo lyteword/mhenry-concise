@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 5 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "5"
+description: "In this chapter: The covenant in Horeb. (1–5). The ten commandments repeated. (6–22). The request of the people that the law might be delivered through Moses. (23–33)."
 weight: 5
 ---
 
-# Chapter 5
+# Deuteronomy 5 
 
 ## Chapter Outline
 

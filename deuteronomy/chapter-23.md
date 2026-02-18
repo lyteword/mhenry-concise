@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 23 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "23"
+description: "In this chapter: Who are shut out from the congregation. (1–8). Cleanliness enjoined. (15–25). Of fugitive servants, Usury, and other precepts. (9–14)."
 weight: 23
 ---
 
-# Chapter 23
+# Deuteronomy 23 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 17 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "17"
+description: "In this chapter: Jehoshaphat promotes religion in Judah, His prosperity. (1-17)."
 weight: 17
 ---
 
-# Chapter 17
+# 2 Chronicles 17 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 18 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "18"
+description: "In this chapter: A provision respecting Levites. (1–8). The abominations of the Canaanites to be avoided. (9–14). Christ the great Prophet. (15–22)."
 weight: 18
 ---
 
-# Chapter 18
+# Deuteronomy 18 
 
 ## Chapter Outline
 

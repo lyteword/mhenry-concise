@@ -1,8 +1,11 @@
 ---
+title: "Daniel 5 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "5"
+description: "In this chapter: Belshazzar's impious feast; the hand-writing on the wall. (1-9). Daniel is sent for to interpret it. (10-17). Daniel warns the king of his destruction. (18-31)."
 weight: 5
 ---
 
-# Chapter 5
+# Daniel 5 
 
 ## Chapter Outline
 

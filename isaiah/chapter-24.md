@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 24 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "24"
+description: "In this chapter: The desolation of the land. (1-12). A few shall be preserved. (13-15). God's kingdom advanced by his judgments. (16-23)."
 weight: 24
 ---
 
-# Chapter 24
+# Isaiah 24 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 29 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "29"
+description: "In this chapter: Moses calls Israel's mercies to remembrance. (1–9). The Divine wrath on those who flatter themselves in their wickedness. (10–21). The ruin of the Jewish nation. (22–28). Secret things belong unto God. (29)."
 weight: 29
 ---
 
-# Chapter 29
+# Deuteronomy 29 
 
 ## Chapter Outline
 

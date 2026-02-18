@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 30 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "30"
+description: "In this chapter: A prophecy against Egypt. (1-19). Another. (20-26)."
 weight: 30
 ---
 
-# Chapter 30
+# Ezekiel 30 
 
 ## Chapter Outline
 

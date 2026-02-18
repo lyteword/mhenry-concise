@@ -1,8 +1,11 @@
 ---
+title: "Joshua 5 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "5"
+description: "In this chapter: The Canaanites are afraid, Circumcision renewed. (1–9). The passover at Gilgal, The manna ceases. (10–12). The Captain of the Lord's host appears to Joshua. (13–15)."
 weight: 5
 ---
 
-# Chapter 5
+# Joshua 5 
 
 ## Chapter Outline
 

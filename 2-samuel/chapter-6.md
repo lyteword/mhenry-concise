@@ -1,8 +1,11 @@
 ---
+title: "2 Samuel 6 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "6"
+description: "In this chapter: The ark removed from Kirjath-jearim. (1–5). Uzzah smitten for touching the ark, Obed-edom blessed. (6–11). David brings the ark to Zion. (12–19). Michal's ill conduct. (20–23)."
 weight: 6
 ---
 
-# Chapter 6
+# 2 Samuel 6 
 
 ## Chapter Outline
 

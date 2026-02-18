@@ -1,8 +1,11 @@
 ---
+title: "Hebrews 5 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "5"
+description: "In this chapter: The office and duty of a high priest abundantly answered in Christ. (1–10). The Christian Hebrews reproved for their little progress in the knowledge of the gospel. (11–14)."
 weight: 5
 ---
 
-# Chapter 5
+# Hebrews 5 
 
 ## Chapter Outline
 

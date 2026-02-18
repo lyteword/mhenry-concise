@@ -1,8 +1,11 @@
 ---
+title: "1 Kings 14 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "14"
+description: "In this chapter: Abijah being sick, his mother consults Ahijah. (1–6). The destruction of Jeroboam's house. (7–20). Rehoboam's wicked reign. (21–31)."
 weight: 14
 ---
 
-# Chapter 14
+# 1 Kings 14 
 
 ## Chapter Outline
 

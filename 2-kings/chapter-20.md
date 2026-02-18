@@ -1,8 +1,11 @@
 ---
+title: "2 Kings 20 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "20"
+description: "In this chapter: Hezekiah's sickness, His recovery in answer to prayer. (1–11). Hezekiah shows his treasures to the ambassadors from Babylon, His death. (12–21)."
 weight: 20
 ---
 
-# Chapter 20
+# 2 Kings 20 
 
 ## Chapter Outline
 

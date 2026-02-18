@@ -1,8 +1,11 @@
 ---
+title: "James 1 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "1"
+description: "In this chapter: How to apply to God under troubles, and how to behave in prosperous and in adverse circumstances. (1–11). To look upon all evil as proceeding from ourselves, and all good from God. (12–18). The duty of watching against a rash temper, and of receiving the word of God with meekness. (19–21). And of living according thereto. (22–25). The difference between vain pretences and real religion. (26, 27)."
 weight: 1
 ---
 
-# Chapter 1
+# James 1 
 
 ## Chapter Outline
 

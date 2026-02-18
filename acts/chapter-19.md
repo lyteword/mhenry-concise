@@ -1,8 +1,11 @@
 ---
+title: "Acts 19 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "19"
+description: "In this chapter: Paul instructs the disciples of John at Ephesus. (1–7). He teaches there. (8–12). The Jewish exorcists disgraced. Some Ephesians burn their evil books. (13–20). The tumult at Ephesus. (21–31). The tumult appeased. (32–41)."
 weight: 19
 ---
 
-# Chapter 19
+# Acts 19 
 
 ## Chapter Outline
 

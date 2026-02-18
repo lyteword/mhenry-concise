@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 24 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "24"
+description: "In this chapter: David spares Saul's life. (1–7). David shows his innocence. (8–15). Saul acknowledges his fault. (16–22)."
 weight: 24
 ---
 
-# Chapter 24
+# 1 Samuel 24 
 
 ## Chapter Outline
 

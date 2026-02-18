@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 6 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "6"
+description: "In this chapter: The Philistines consult how to send back the ark. (1–9). They bring it to Bethshemesh. (10–18). The people smitten for looking into the ark. (19–21)."
 weight: 6
 ---
 
-# Chapter 6
+# 1 Samuel 6 
 
 ## Chapter Outline
 

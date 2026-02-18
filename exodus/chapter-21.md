@@ -1,8 +1,11 @@
 ---
+title: "Exodus 21 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "21"
+description: "In this chapter: Laws respecting servants. (1–11). Judicial laws. (12–21). Judicial laws. (22–36)."
 weight: 21
 ---
 
-# Chapter 21
+# Exodus 21 
 
 ## Chapter Outline
 

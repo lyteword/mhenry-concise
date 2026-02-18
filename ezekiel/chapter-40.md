@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 40 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "40"
+description: "In this chapter: The Vision of the Temple. (1-49)."
 weight: 40
 ---
 
-# Chapter 40
+# Ezekiel 40 
 
 ## Chapter Outline
 

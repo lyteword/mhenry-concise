@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 6 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "6"
+description: "In this chapter: A persuasive to obedience. (1–3). An exhortation to obedience. (4, 5). Obedience taught. (6–16). General precepts, Instructions to be given to their children. (17–25)."
 weight: 6
 ---
 
-# Chapter 6
+# Deuteronomy 6 
 
 ## Chapter Outline
 

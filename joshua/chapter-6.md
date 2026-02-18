@@ -1,8 +1,11 @@
 ---
+title: "Joshua 6 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "6"
+description: "In this chapter: The siege of Jericho. (1–5). The city is compassed. (6–16). Jericho is taken, Rahab and her family are saved. (17–27)."
 weight: 6
 ---
 
-# Chapter 6
+# Joshua 6 
 
 ## Chapter Outline
 

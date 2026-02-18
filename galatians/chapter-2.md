@@ -1,8 +1,11 @@
 ---
+title: "Galatians 2 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "2"
+description: "In this chapter: The apostle declares his being owned as an apostle of the Gentiles. (1–10). He had publicly opposed Peter for judaizing. (11–14). And from thence he enters upon the doctrine of justification by faith in Christ, without the works of the law. (15–21)."
 weight: 2
 ---
 
-# Chapter 2
+# Galatians 2 
 
 ## Chapter Outline
 

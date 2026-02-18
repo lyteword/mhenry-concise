@@ -1,8 +1,11 @@
 ---
+title: "John 20 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "20"
+description: "In this chapter: The sepulchre found to be empty. (1–10). Christ appears to Mary. (11–18). He appears to the disciples. (19–25). The unbelief of Thomas. (26–29). Conclusion. (30, 31)."
 weight: 20
 ---
 
-# Chapter 20
+# John 20 
 
 ## Chapter Outline
 

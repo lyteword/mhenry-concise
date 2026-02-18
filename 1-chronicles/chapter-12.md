@@ -1,8 +1,11 @@
 ---
+title: "1 Chronicles 12 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "12"
+description: "In this chapter: Those who came to David at Ziklag. (1–22). Those who came to Hebron. (23–40)."
 weight: 12
 ---
 
-# Chapter 12
+# 1 Chronicles 12 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "Mark 1 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "1"
+description: "In this chapter: The office of John the Baptist. (1–8). The baptism and temptation of Christ. (9–13). Christ preaches and calls disciples. (14–22). He casts out an unclean spirit. (23–28). He heals many diseased. (29–39). He heals a leper. (40–45)."
 weight: 1
 ---
 
-# Chapter 1
+# Mark 1 
 
 ## Chapter Outline
 

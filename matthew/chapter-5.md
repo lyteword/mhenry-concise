@@ -1,8 +1,11 @@
 ---
+title: "Matthew 5 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "5"
+description: "In this chapter: Christ's sermon on the mount. (1, 2). Who are blessed. (3–12). Exhortations and warnings. (13–16). Christ came to confirm the law. (17–20). The sixth commandment. (21–26). The seventh commandment. (27–32). The third commandment. (33–37). The law of retaliation. (38–42). The law of love explained. (43–48)."
 weight: 5
 ---
 
-# Chapter 5
+# Matthew 5 
 
 ## Chapter Outline
 

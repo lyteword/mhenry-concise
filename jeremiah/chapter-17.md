@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 17 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "17"
+description: "In this chapter: The fatal consequences of the idolatry of the Jews. (1-4). The happiness of the man that trusts in God; the end of the opposite character. (5-11). The malice of the prophet's enemies. (12-18). The observance of the sabbath. (19-27)."
 weight: 17
 ---
 
-# Chapter 17
+# Jeremiah 17 
 
 ## Chapter Outline
 

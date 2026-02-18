@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 44 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "44"
+description: "In this chapter: The Jews in Egypt persist in idolatry. (1-14). They refuse to reform. (15-19). Jeremiah then denounces destruction upon them. (20-30)."
 weight: 44
 ---
 
-# Chapter 44
+# Jeremiah 44 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 25 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "25"
+description: "In this chapter: A song of praise. (1-5). A declaration of the gospel blessings. (6-8). The destruction of the enemies of Christ's church. (9-12)."
 weight: 25
 ---
 
-# Chapter 25
+# Isaiah 25 
 
 ## Chapter Outline
 

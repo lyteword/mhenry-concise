@@ -1,8 +1,11 @@
 ---
+title: "Numbers 5 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "5"
+description: "In this chapter: The unclean to be removed out of the camp, Restitution to be made for trespasses. (1–10). The trial of jealousy. (11–31)."
 weight: 5
 ---
 
-# Chapter 5
+# Numbers 5 
 
 ## Chapter Outline
 

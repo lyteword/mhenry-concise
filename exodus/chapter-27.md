@@ -1,8 +1,11 @@
 ---
+title: "Exodus 27 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "27"
+description: "In this chapter: The altar of burnt offerings. (1–8). The court of the tabernacle. (9–19). The oil for the lamps. (20, 21)."
 weight: 27
 ---
 
-# Chapter 27
+# Exodus 27 
 
 ## Chapter Outline
 

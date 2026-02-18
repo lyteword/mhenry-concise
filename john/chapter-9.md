@@ -1,8 +1,11 @@
 ---
+title: "John 9 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "9"
+description: "In this chapter: Christ give sight to one born blind. (1–7). The account given by the blind man. (8–12). The Pharisees question the man that had been blind. (13–17). They ask concerning him. (18–23). They cast him out. (24–34). Christ's words to the man that had been blind. (35–38). He reproves the Pharisees. (39–41)."
 weight: 9
 ---
 
-# Chapter 9
+# John 9 
 
 ## Chapter Outline
 

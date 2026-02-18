@@ -1,8 +1,11 @@
 ---
+title: "Judges 10 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "10"
+description: "In this chapter: Tola and Jair judge Israel. (1–5). The Philistines and Ammonites oppress Israel. (6–9). Israel's repentance. (10–18)."
 weight: 10
 ---
 
-# Chapter 10
+# Judges 10 
 
 ## Chapter Outline
 

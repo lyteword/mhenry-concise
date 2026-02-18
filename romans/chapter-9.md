@@ -1,8 +1,11 @@
 ---
+title: "Romans 9 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "9"
+description: "In this chapter: The apostle's concern that his countrymen were strangers to the gospel. (1–5). The promises are made good to the spiritual seed of Abraham. (6–13). Answers to objections against God's sovereign conduct, in exercising mercy and justice. (14–24). This sovereignty is in God's dealing both with Jews and Gentiles. (25–29). The falling short of the Jews is owing to their seeking justification, not by faith, but by the works of the law. (30–33)."
 weight: 9
 ---
 
-# Chapter 9
+# Romans 9 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "Exodus 37 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "37"
+description: "In this chapter: The making of the ark, and the furniture of the tabernacle. (1-29)."
 weight: 37
 ---
 
-# Chapter 37
+# Exodus 37 
 
 ## Chapter Outline
 

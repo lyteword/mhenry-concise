@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 1 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "1"
+description: "In this chapter: The offerings. (1, 2). From the herds. (3–9). From the flocks, and of fowls. (10–17)."
 weight: 1
 ---
 
-# Chapter 1
+# Leviticus 1 
 
 ## Chapter Outline
 

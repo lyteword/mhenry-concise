@@ -1,8 +1,11 @@
 ---
+title: "Zechariah 4 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "4"
+description: "In this chapter: A vision of a candlestick, with two olive trees. (1–7). Further encouragement. (8–10). An explanation respecting the olive trees. (11–14)."
 weight: 4
 ---
 
-# Chapter 4
+# Zechariah 4 
 
 ## Chapter Outline
 

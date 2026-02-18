@@ -1,8 +1,11 @@
 ---
+title: "John 2 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "2"
+description: "In this chapter: The miracle at Cana. (1–11). Christ casts the buyers and sellers out of the temple. (12–22). Many believe in Christ. (23–25)."
 weight: 2
 ---
 
-# Chapter 2
+# John 2 
 
 ## Chapter Outline
 

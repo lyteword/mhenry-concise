@@ -1,8 +1,11 @@
 ---
+title: "Job 42 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "42"
+description: "In this chapter: Job humbly submits unto God. (1–6). Job intercedes for his friends. (7–9). His renewed prosperity. (10–17)."
 weight: 42
 ---
 
-# Chapter 42
+# Job 42 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "1 John 5 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "5"
+description: "In this chapter: Brotherly love is the effect of the new birth, which makes obedience to all God's commandments pleasant. (1–5). Reference to witnesses agreeing to prove that Jesus, the Son of God, is the true Messiah. (6–8). The satisfaction the believer has about Christ, and eternal life through him. (9–12). The assurance of God's hearing and answering prayer. (13–17). The happy condition of true believers, and a charge to renounce all idolatry. (18–21)."
 weight: 5
 ---
 
-# Chapter 5
+# 1 John 5 
 
 ## Chapter Outline
 

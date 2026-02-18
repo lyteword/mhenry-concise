@@ -1,8 +1,11 @@
 ---
+title: "Habakkuk 2 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "2"
+description: "In this chapter: Habakkuk must wait in faith. (1–4). Judgments upon the Chaldeans. (5–14). Also upon drunkenness and idolatry. (15–20)."
 weight: 2
 ---
 
-# Chapter 2
+# Habakkuk 2 
 
 ## Chapter Outline
 

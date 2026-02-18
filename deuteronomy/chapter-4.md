@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 4 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "4"
+description: "In this chapter: Earnest exhortations to obedience, and dissuasives from idolatry. (1–23). Warnings against disobedience, and promises of mercy. (24–40). Cities of refuge appointed. (41–49)."
 weight: 4
 ---
 
-# Chapter 4
+# Deuteronomy 4 
 
 ## Chapter Outline
 

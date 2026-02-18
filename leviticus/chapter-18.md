@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 18 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "18"
+description: "In this chapter: Unlawful marriages and fleshly lusts. (1-30)."
 weight: 18
 ---
 
-# Chapter 18
+# Leviticus 18 
 
 ## Chapter Outline
 

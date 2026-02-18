@@ -1,8 +1,11 @@
 ---
+title: "1 Kings 21 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "21"
+description: "In this chapter: Ahab covets Naboth's vineyard. (1–4). Naboth murdered by Jezebel. (5–16). Elijah denounces judgments against Ahab. (17–29)."
 weight: 21
 ---
 
-# Chapter 21
+# 1 Kings 21 
 
 ## Chapter Outline
 

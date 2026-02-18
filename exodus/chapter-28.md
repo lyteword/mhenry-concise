@@ -1,8 +1,11 @@
 ---
+title: "Exodus 28 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "28"
+description: "In this chapter: Aaron and his sons set apart for the priest's office, Their garments. (1–5). The ephod. (6–14). The breastplate, The Urim and Thummim. (15–30). The robe of the ephod, The plate of the mitre. (31–39). The garments for Aaron's sons. (40–43)."
 weight: 28
 ---
 
-# Chapter 28
+# Exodus 28 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 10 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "10"
+description: "In this chapter: The absurdity of idolatry. (1-16). Destruction denounced against Jerusalem. (17-25)."
 weight: 10
 ---
 
-# Chapter 10
+# Jeremiah 10 
 
 ## Chapter Outline
 

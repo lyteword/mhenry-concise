@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 47 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "47"
+description: "In this chapter: The calamities of the Philistines. (1-7)."
 weight: 47
 ---
 
-# Chapter 47
+# Jeremiah 47 
 
 ## Chapter Outline
 

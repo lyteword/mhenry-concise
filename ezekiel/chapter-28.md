@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 28 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "28"
+description: "In this chapter: The sentence against the prince or king of Tyre. (1-19). The fall of Zidon. (20-23). The restoration of Israel. (24-26)."
 weight: 28
 ---
 
-# Chapter 28
+# Ezekiel 28 
 
 ## Chapter Outline
 

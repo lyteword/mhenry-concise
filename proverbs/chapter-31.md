@@ -1,8 +1,11 @@
 ---
+title: "Proverbs 31 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "31"
+description: "In this chapter: An exhortation to king Lemuel to take heed of sin, and to do duties. (1–9). The description of a virtuous woman. (10–31)."
 weight: 31
 ---
 
-# Chapter 31
+# Proverbs 31 
 
 ## Chapter Outline
 

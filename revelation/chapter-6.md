@@ -1,8 +1,11 @@
 ---
+title: "Revelation 6 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "6"
+description: "In this chapter: The opening of the seals, The first, second, third, and fourth. (1–8). The fifth. (9–11). The sixth. (12–17)."
 weight: 6
 ---
 
-# Chapter 6
+# Revelation 6 
 
 ## Chapter Outline
 

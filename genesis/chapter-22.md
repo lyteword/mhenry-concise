@@ -1,8 +1,11 @@
 ---
+title: "Genesis 22 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "22"
+description: "In this chapter: God commands Abraham to offer up Isaac. (1, 2). Abraham's faith and obedience to the Divine command. (3–10). Another sacrifice is provided instead of Isaac. (11–14). The covenant with Abraham renewed. (15–19). The family of Nahor. (20–24)."
 weight: 22
 ---
 
-# Chapter 22
+# Genesis 22 
 
 ## Chapter Outline
 

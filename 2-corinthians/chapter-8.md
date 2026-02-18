@@ -1,8 +1,11 @@
 ---
+title: "2 Corinthians 8 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "8"
+description: "In this chapter: The apostle reminds them of charitable contributions for the poor saints. (1–6). Enforces this by their gifts, and by the love and grace of Christ. (7–9). By the willingness they had shown to this good work. (10–15). He recommends Titus to them. (16–24)."
 weight: 8
 ---
 
-# Chapter 8
+# 2 Corinthians 8 
 
 ## Chapter Outline
 

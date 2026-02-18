@@ -1,8 +1,11 @@
 ---
+title: "Micah 2 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "2"
+description: "In this chapter: The sins and desolations of Israel. (1–5). Their evil practices. (6–11). A promise of restoration. (12, 13)."
 weight: 2
 ---
 
-# Chapter 2
+# Micah 2 
 
 ## Chapter Outline
 

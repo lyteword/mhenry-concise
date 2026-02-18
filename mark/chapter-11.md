@@ -1,8 +1,11 @@
 ---
+title: "Mark 11 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "11"
+description: "In this chapter: Christ's triumphant entry into Jerusalem. (1–11). The barren fig-tree cursed, The temple cleansed. (12–18). Prayer in faith. (19–26). The priests and elders questioned concerning John the Baptist. (27–33)."
 weight: 11
 ---
 
-# Chapter 11
+# Mark 11 
 
 ## Chapter Outline
 

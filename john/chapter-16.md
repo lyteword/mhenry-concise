@@ -1,8 +1,11 @@
 ---
+title: "John 16 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "16"
+description: "In this chapter: Persecution foretold. (1–6). The promise of the Holy Spirit, and his office. (7–15). Christ's departure and return. (16–22). Encouragement to prayer. (23–27). Christ's discoveries of himself. (28–33)."
 weight: 16
 ---
 
-# Chapter 16
+# John 16 
 
 ## Chapter Outline
 

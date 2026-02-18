@@ -1,8 +1,11 @@
 ---
+title: "Judges 19 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "19"
+description: "In this chapter: The wickedness of the men of Gibeah. (1-30)."
 weight: 19
 ---
 
-# Chapter 19
+# Judges 19 
 
 ## Chapter Outline
 

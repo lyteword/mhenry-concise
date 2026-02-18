@@ -1,8 +1,11 @@
 ---
+title: "Job 39 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "39"
+description: "In this chapter: God inquires of Job concerning several animals. (1-30)."
 weight: 39
 ---
 
-# Chapter 39
+# Job 39 
 
 ## Chapter Outline
 

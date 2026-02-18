@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 46 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "46"
+description: "In this chapter: The idols could not save themselves, but God saves his people. (1-4). The folly of worshipping idols. (5-13)."
 weight: 46
 ---
 
-# Chapter 46
+# Isaiah 46 
 
 ## Chapter Outline
 

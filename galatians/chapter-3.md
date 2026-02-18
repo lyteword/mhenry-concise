@@ -1,8 +1,11 @@
 ---
+title: "Galatians 3 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "3"
+description: "In this chapter: The Galatians reproved for departing from the great doctrine of justification alone, through faith in Christ. (1–5). This doctrine established from the example of Abraham. (6–9). From the tenor of the law and the severity of its curse. (10–14). From the covenant of promises, which the law could not disannul. (15–18). The law was a school master to lead them to Christ. (19–25). Under the gospel state true believers are all one in Christ. (26–29)."
 weight: 3
 ---
 
-# Chapter 3
+# Galatians 3 
 
 ## Chapter Outline
 

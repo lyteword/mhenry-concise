@@ -1,8 +1,11 @@
 ---
+title: "1 Chronicles 23 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "23"
+description: "In this chapter: David declares Solomon his successor. (1–23). The office of the Levites. (24–32)."
 weight: 23
 ---
 
-# Chapter 23
+# 1 Chronicles 23 
 
 ## Chapter Outline
 

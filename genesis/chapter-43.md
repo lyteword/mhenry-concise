@@ -1,8 +1,11 @@
 ---
+title: "Genesis 43 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "43"
+description: "In this chapter: Jacob is persuaded to send Benjamin into Egypt. (1–14). Joseph's reception of his brethren, their fears. (15–25). Joseph makes a feast for his brethren. (26–34)."
 weight: 43
 ---
 
-# Chapter 43
+# Genesis 43 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "1 Thessalonians 4 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "4"
+description: "In this chapter: Exhortations to purity and holiness. (1–8). To brotherly love, peaceable behaviour, and diligence. (9–12). Not to sorrow unduly for the death of godly relations and friends, considering the glorious resurrection of their bodies at Christ's second coming. (13–18)."
 weight: 4
 ---
 
-# Chapter 4
+# 1 Thessalonians 4 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 30 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "30"
+description: "In this chapter: Mercies promised to the repentant. (1–10). The commandment manifest. (11–14). Death and life set before them. (15–20)."
 weight: 30
 ---
 
-# Chapter 30
+# Deuteronomy 30 
 
 ## Chapter Outline
 

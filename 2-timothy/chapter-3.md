@@ -1,8 +1,11 @@
 ---
+title: "2 Timothy 3 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "3"
+description: "In this chapter: The apostle foretells the rise of dangerous enemies to the gospel. (1–9). Proposes his own example to Timothy. (10–13). And exhorts him to continue in the doctrine he had learned from the Holy Scriptures. (14–17)."
 weight: 3
 ---
 
-# Chapter 3
+# 2 Timothy 3 
 
 ## Chapter Outline
 

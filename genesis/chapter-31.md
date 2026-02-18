@@ -1,8 +1,11 @@
 ---
+title: "Genesis 31 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "31"
+description: "In this chapter: Jacob departs secretly. (1–21). Laban pursues Jacob. (23–35). Jacob's complaint of Laban's conduct. (36–42). Their covenant at Galeed. (43–55)."
 weight: 31
 ---
 
-# Chapter 31
+# Genesis 31 
 
 ## Chapter Outline
 

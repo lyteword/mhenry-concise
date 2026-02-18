@@ -1,8 +1,11 @@
 ---
+title: "Mark 4 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "4"
+description: "In this chapter: The parable of the sower. (1–20). Other parables. (21–34). Christ stills the tempest. (35–41)."
 weight: 4
 ---
 
-# Chapter 4
+# Mark 4 
 
 ## Chapter Outline
 

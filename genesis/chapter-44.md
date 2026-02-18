@@ -1,8 +1,11 @@
 ---
+title: "Genesis 44 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "44"
+description: "In this chapter: Joseph's policy to stay his brethren, and try their affection for Benjamin. (1–17). Judah's supplication to Joseph. (18–34)."
 weight: 44
 ---
 
-# Chapter 44
+# Genesis 44 
 
 ## Chapter Outline
 

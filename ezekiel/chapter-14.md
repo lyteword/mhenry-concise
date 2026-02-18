@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 14 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "14"
+description: "In this chapter: Threatenings against hypocrites. (1-11). God's purpose to punish the guilty Jews, but a few should be saved. (12-23)."
 weight: 14
 ---
 
-# Chapter 14
+# Ezekiel 14 
 
 ## Chapter Outline
 

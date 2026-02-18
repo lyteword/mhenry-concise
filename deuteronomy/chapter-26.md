@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 26 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "26"
+description: "In this chapter: Confession in offering the first-fruits. (1–11). The prayer after disposal of the third year's tithe. (12–15). The covenant between God and the people. (16–19)."
 weight: 26
 ---
 
-# Chapter 26
+# Deuteronomy 26 
 
 ## Chapter Outline
 

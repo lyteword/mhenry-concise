@@ -1,8 +1,11 @@
 ---
+title: "John 11 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "11"
+description: "In this chapter: The sickness of Lazarus. (1–6). Christ returns to Judea. (7–10). The death of Lazarus. (11–16). Christ arrives at Bethany. (17–32). He raises Lazarus. (33–46). The Pharisees consult against Jesus. (47–53). The Jews seek for him. (54–57)."
 weight: 11
 ---
 
-# Chapter 11
+# John 11 
 
 ## Chapter Outline
 

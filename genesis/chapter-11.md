@@ -1,8 +1,11 @@
 ---
+title: "Genesis 11 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "11"
+description: "In this chapter: One language in the world, The building of Babel. (1–4). The confusion of tongues, The builders of Babel dispersed. (5–9). The descendants of Shem. (10–26). Terah, father of Abram, grandfather of Lot, they remove to Haran. (27–32)."
 weight: 11
 ---
 
-# Chapter 11
+# Genesis 11 
 
 ## Chapter Outline
 

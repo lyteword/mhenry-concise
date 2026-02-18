@@ -1,8 +1,11 @@
 ---
+title: "1 Kings 2 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "2"
+description: "In this chapter: David's dying charge to Solomon. (1–4). David's charge as to Joab and others. (5–11). Solomon reigns, Adonijah aspiring to the throne is put to death. (12–25). Abiathar banished, Joab put to death. (26–34). Shimei is put to death. (35–46)."
 weight: 2
 ---
 
-# Chapter 2
+# 1 Kings 2 
 
 ## Chapter Outline
 

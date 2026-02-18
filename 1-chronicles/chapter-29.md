@@ -1,8 +1,11 @@
 ---
+title: "1 Chronicles 29 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "29"
+description: "In this chapter: David induces the princes and people to offer willingly. (1–9). His thanksgiving and prayer. (10–19). Solomon enthroned. (20–25). David's reign and death. (26–30)."
 weight: 29
 ---
 
-# Chapter 29
+# 1 Chronicles 29 
 
 ## Chapter Outline
 

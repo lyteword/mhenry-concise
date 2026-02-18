@@ -1,8 +1,11 @@
 ---
+title: "Exodus 7 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "7"
+description: "In this chapter: Moses and Aaron encouraged. (1–7). The rods turned into serpents, Pharaoh's heart is hardened. (8–13). The river is turned into blood, The distress of the Egyptians. (14–25)."
 weight: 7
 ---
 
-# Chapter 7
+# Exodus 7 
 
 ## Chapter Outline
 

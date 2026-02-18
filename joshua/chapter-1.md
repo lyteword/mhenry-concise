@@ -1,8 +1,11 @@
 ---
+title: "Joshua 1 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "1"
+description: "In this chapter: The Lord appoints Joshua to succeed Moses. (1–4). God promises to assist Joshua. (5–9). Preparation to pass over Jordan. (10–15). The people promise to obey Joshua. (16–18)."
 weight: 1
 ---
 
-# Chapter 1
+# Joshua 1 
 
 ## Chapter Outline
 

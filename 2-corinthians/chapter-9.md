@@ -1,8 +1,11 @@
 ---
+title: "2 Corinthians 9 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "9"
+description: "In this chapter: The reason for sending Titus to collect their alms. (1–5). The Corinthians to be liberal and cheerful, The apostle thanks God for his unspeakable gift. (6–15)."
 weight: 9
 ---
 
-# Chapter 9
+# 2 Corinthians 9 
 
 ## Chapter Outline
 

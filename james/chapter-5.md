@@ -1,8 +1,11 @@
 ---
+title: "James 5 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "5"
+description: "In this chapter: The judgments of God denounced against rich unbelievers. (1–6). Exhortation to patience and meekness under tribulations. (7–11). Cautions against rash swearing Prayer recommended in afflictive and prosperous circumstances, Christians to confess their faults to each other. (12–18). The happiness of being the means of the conversion of a sinner. (19, 20)."
 weight: 5
 ---
 
-# Chapter 5
+# James 5 
 
 ## Chapter Outline
 

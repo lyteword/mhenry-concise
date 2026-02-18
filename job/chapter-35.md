@@ -1,8 +1,11 @@
 ---
+title: "Job 35 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "35"
+description: "In this chapter: Elihu speaks of man's conduct. (1–8). Why those who cry out under afflictions are not regarded. (9–13). Elihu reproves Job's impatience. (14–16)."
 weight: 35
 ---
 
-# Chapter 35
+# Job 35 
 
 ## Chapter Outline
 

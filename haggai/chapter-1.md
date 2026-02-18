@@ -1,8 +1,11 @@
 ---
+title: "Haggai 1 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "1"
+description: "In this chapter: Haggai reproves the Jews for neglecting the temple. (1–11). He promises God's assistance to them. (12–15)."
 weight: 1
 ---
 
-# Chapter 1
+# Haggai 1 
 
 ## Chapter Outline
 

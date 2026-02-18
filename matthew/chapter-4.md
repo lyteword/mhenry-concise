@@ -1,8 +1,11 @@
 ---
+title: "Matthew 4 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "4"
+description: "In this chapter: The temptation of Christ. (1–11). The opening of Christ's ministry in Galilee. (12–17). Call of Simon and others. (18–22). Jesus teaches and works miracles. (23–25)."
 weight: 4
 ---
 
-# Chapter 4
+# Matthew 4 
 
 ## Chapter Outline
 

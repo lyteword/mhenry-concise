@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 11 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "11"
+description: "In this chapter: The great work God wrought for Israel. (1–7). Promises and threatenings. (8–17). Careful study of God's word requisite. (18–25). The blessings and the curse set forth. (26–32)."
 weight: 11
 ---
 
-# Chapter 11
+# Deuteronomy 11 
 
 ## Chapter Outline
 

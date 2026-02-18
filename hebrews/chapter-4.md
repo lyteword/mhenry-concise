@@ -1,8 +1,11 @@
 ---
+title: "Hebrews 4 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "4"
+description: "In this chapter: Humble, cautious fear is urged, lest any should come short of the promised rest, through unbelief. (1–10). Arguments and motives to faith and hope in our approaches to God. (11–16)."
 weight: 4
 ---
 
-# Chapter 4
+# Hebrews 4 
 
 ## Chapter Outline
 

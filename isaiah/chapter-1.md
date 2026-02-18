@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 1 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "1"
+description: "In this chapter: The corruptions prevailing among the Jews. (1-9). Severe censures. (10-15). Exhortations to repentance. (16-20). The state of Judah is lamented; with gracious promises of the gospel times. (21-31)."
 weight: 1
 ---
 
-# Chapter 1
+# Isaiah 1 
 
 ## Chapter Outline
 

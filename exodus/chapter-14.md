@@ -1,8 +1,11 @@
 ---
+title: "Exodus 14 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "14"
+description: "In this chapter: God directs the Israelites to Pihahiroth, Pharaoh pursues after them. (1–9). The Israelites murmur, Moses comforts them. (10–14). God instructs Moses, The cloud between the Israelites and the Egyptians. (15–20). The Israelites pass through the Red sea, which drowns the Egyptians. (21–31)."
 weight: 14
 ---
 
-# Chapter 14
+# Exodus 14 
 
 ## Chapter Outline
 

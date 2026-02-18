@@ -1,8 +1,11 @@
 ---
+title: "Ezra 7 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "7"
+description: "In this chapter: Ezra goes up to Jerusalem. (1–10). The commission to Ezra. (11–26). Ezra blesses God for his favour. (27, 28)."
 weight: 7
 ---
 
-# Chapter 7
+# Ezra 7 
 
 ## Chapter Outline
 

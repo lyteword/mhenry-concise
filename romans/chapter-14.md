@@ -1,8 +1,11 @@
 ---
+title: "Romans 14 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "14"
+description: "In this chapter: The Jewish converts cautioned against judging, and Gentile believers against despising one the other. (1–13). And the Gentiles exhorted to take heed of giving offence in their use of indifferent things. (14–23)."
 weight: 14
 ---
 
-# Chapter 14
+# Romans 14 
 
 ## Chapter Outline
 

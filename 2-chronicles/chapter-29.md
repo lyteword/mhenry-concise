@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 29 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "29"
+description: "In this chapter: Hezekiah's good reign in Judah. (1–19). Hezekiah's sacrifice of atonement. (20–36)."
 weight: 29
 ---
 
-# Chapter 29
+# 2 Chronicles 29 
 
 ## Chapter Outline
 

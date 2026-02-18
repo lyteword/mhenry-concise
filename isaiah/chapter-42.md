@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 42 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "42"
+description: "In this chapter: The character and coming of Christ. (1-4). The blessings of his kingdom. (5-12). The prevalence of true religion. (13-17). Unbelief and blindness reproved. (18-25)."
 weight: 42
 ---
 
-# Chapter 42
+# Isaiah 42 
 
 ## Chapter Outline
 

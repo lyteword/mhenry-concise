@@ -1,8 +1,11 @@
 ---
+title: "Esther 2 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "2"
+description: "In this chapter: Esther chosen queen. (1–20). Mordecai discovers a plot against the king. (21–23)."
 weight: 2
 ---
 
-# Chapter 2
+# Esther 2 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "1 Kings 4 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "4"
+description: "In this chapter: Solomon's court. (1–19). Solomon's dominions, His daily provision. (20–28). The wisdom of Solomon. (29–34)."
 weight: 4
 ---
 
-# Chapter 4
+# 1 Kings 4 
 
 ## Chapter Outline
 

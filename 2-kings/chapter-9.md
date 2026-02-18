@@ -1,8 +1,11 @@
 ---
+title: "2 Kings 9 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "9"
+description: "In this chapter: Elisha sends to anoint Jehu. (1–10). Jehu and the captains. (11–15). Joram and Ahaziah slain by Jehu. (16–29). Jezebel eaten by dogs. (30–37)."
 weight: 9
 ---
 
-# Chapter 9
+# 2 Kings 9 
 
 ## Chapter Outline
 

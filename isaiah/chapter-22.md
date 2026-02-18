@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 22 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "22"
+description: "In this chapter: The siege and taking of Jerusalem. (1-7). The wicked conduct of its inhabitants. (8-14). The displacing of Shebna, and the promotion of Eliakim, applied to the Messiah. (15-25)."
 weight: 22
 ---
 
-# Chapter 22
+# Isaiah 22 
 
 ## Chapter Outline
 

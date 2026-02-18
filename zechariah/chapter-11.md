@@ -1,8 +1,11 @@
 ---
+title: "Zechariah 11 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "11"
+description: "In this chapter: Destruction to come upon the Jews. (1–3). The Lord's dealing with the Jews. (4–14). The emblem and curse of a foolish shepherd. (15–17)."
 weight: 11
 ---
 
-# Chapter 11
+# Zechariah 11 
 
 ## Chapter Outline
 

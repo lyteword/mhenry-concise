@@ -1,8 +1,11 @@
 ---
+title: "1 Chronicles 27 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "27"
+description: "In this chapter: David's military force. (1–15). Princes and officers. (16–34)."
 weight: 27
 ---
 
-# Chapter 27
+# 1 Chronicles 27 
 
 ## Chapter Outline
 

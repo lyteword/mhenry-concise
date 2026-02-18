@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 7 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "7"
+description: "In this chapter: The ark removed to Kirjath-jearim. (1–4). The Israelites solemnly repent. (5, 6). The Lord discomfits the Philistines. (7–12). They are subdued, Samuel judges Israel. (13–17)."
 weight: 7
 ---
 
-# Chapter 7
+# 1 Samuel 7 
 
 ## Chapter Outline
 

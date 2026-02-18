@@ -1,8 +1,11 @@
 ---
+title: "Judges 1 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "1"
+description: "In this chapter: Proceedings of the tribes of Judah and Simeon. (1–8). Hebron and other cities taken. (9–20). The proceedings of other tribes. (21–36)."
 weight: 1
 ---
 
-# Chapter 1
+# Judges 1 
 
 ## Chapter Outline
 

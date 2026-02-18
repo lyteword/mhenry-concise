@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 22 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "22"
+description: "In this chapter: Justice is recommended, and destruction threatened in case of disobedience. (1-9). The captivity of Jehoiakim, and the end of Jeconiah. (10-19). The doom of the royal family. (20-30)."
 weight: 22
 ---
 
-# Chapter 22
+# Jeremiah 22 
 
 ## Chapter Outline
 

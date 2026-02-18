@@ -1,8 +1,11 @@
 ---
+title: "Revelation 10 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "10"
+description: "In this chapter: The Angel of the covenant presents a little open book, which is followed with seven thunders. (1–4). At the end of the following prophecies, time should be no more. (5–7). A voice directs the apostle to eat the book; (8–10). and tells him he must prophesy further. (11)."
 weight: 10
 ---
 
-# Chapter 10
+# Revelation 10 
 
 ## Chapter Outline
 

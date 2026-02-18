@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 9 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "9"
+description: "In this chapter: A vision denoting the destruction of the inhabitants of Jerusalem, and the departure of the symbol of the Divine presence. (1-11)."
 weight: 9
 ---
 
-# Chapter 9
+# Ezekiel 9 
 
 ## Chapter Outline
 

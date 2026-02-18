@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 33 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "33"
+description: "In this chapter: Manasseh's and repentance. (1–20). Amon's wicked reign in Judah. (21–25)."
 weight: 33
 ---
 
-# Chapter 33
+# 2 Chronicles 33 
 
 ## Chapter Outline
 

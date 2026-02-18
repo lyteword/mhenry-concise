@@ -1,8 +1,11 @@
 ---
+title: "Acts 9 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "9"
+description: "In this chapter: The conversion of Saul. (1–9). Saul converted preaches Christ. (10–22). Saul is persecuted at Damascus, and goes to Jerusalem. (23–31). Cure of Eneas. (32–35). Dorcas raised to life. (36–43)."
 weight: 9
 ---
 
-# Chapter 9
+# Acts 9 
 
 ## Chapter Outline
 

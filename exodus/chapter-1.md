@@ -1,8 +1,11 @@
 ---
+title: "Exodus 1 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "1"
+description: "In this chapter: The children of Israel increase in Egypt after the death of Joseph. (8–14). They are oppressed, but multiply exceedingly. (1–7). The men-children destroyed. (15–22)."
 weight: 1
 ---
 
-# Chapter 1
+# Exodus 1 
 
 ## Chapter Outline
 

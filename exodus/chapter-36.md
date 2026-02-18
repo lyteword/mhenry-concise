@@ -1,8 +1,11 @@
 ---
+title: "Exodus 36 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "36"
+description: "In this chapter: The making of the tabernacle, The liberality of the people restrained. (1-38)."
 weight: 36
 ---
 
-# Chapter 36
+# Exodus 36 
 
 ## Chapter Outline
 

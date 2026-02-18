@@ -1,8 +1,11 @@
 ---
+title: "Romans 5 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "5"
+description: "In this chapter: The happy effects of justification through faith in the righteousness of Christ. (1–5). That we are reconciled by his blood. (6–11). The fall of Adam brought all mankind into sin and death. (12–14). The grace of God, through the righteousness of Christ, has more power to bring salvation, than Adam's sin had to bring misery, (15–19). as grace did superabound. (20, 21)."
 weight: 5
 ---
 
-# Chapter 5
+# Romans 5 
 
 ## Chapter Outline
 

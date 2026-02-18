@@ -1,8 +1,11 @@
 ---
+title: "Genesis 42 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "42"
+description: "In this chapter: Jacob sends ten sons to buy corn. (1–6). Joseph's treatment of his brethren. (7–20). Their remorse, Simeon detained. (21–24). The rest return with corn. (25–28). Jacob refuses to send Benjamin to Egypt. (29–38)."
 weight: 42
 ---
 
-# Chapter 42
+# Genesis 42 
 
 ## Chapter Outline
 

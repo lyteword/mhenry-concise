@@ -1,8 +1,11 @@
 ---
+title: "Lamentations 5 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "5"
+description: "In this chapter: The Jewish nation supplicating the Divine favour. (1-22)."
 weight: 5
 ---
 
-# Chapter 5
+# Lamentations 5 
 
 ## Chapter Outline
 

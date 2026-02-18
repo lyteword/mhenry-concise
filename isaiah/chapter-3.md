@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 3 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "3"
+description: "In this chapter: The calamities about to come upon the land. (1-9). The wickedness of the people. (10-15). The distress of the proud, luxurious women of Zion. (16-26)."
 weight: 3
 ---
 
-# Chapter 3
+# Isaiah 3 
 
 ## Chapter Outline
 

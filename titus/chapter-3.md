@@ -1,8 +1,11 @@
 ---
+title: "Titus 3 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "3"
+description: "In this chapter: Obedience to magistrates, and becoming behaviour towards all, are enforced from what believers were before conversion, and what they are made, through Christ. (1–7). Good works to be done, and useless disputes avoided. (8–11). Directions and exhortations. (12–15)."
 weight: 3
 ---
 
-# Chapter 3
+# Titus 3 
 
 ## Chapter Outline
 

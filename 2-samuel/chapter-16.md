@@ -1,8 +1,11 @@
 ---
+title: "2 Samuel 16 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "16"
+description: "In this chapter: Ziba's falsehood. (1–4). David cursed by Shimei. (5–14). Ahithophel's counsel. (15–23)."
 weight: 16
 ---
 
-# Chapter 16
+# 2 Samuel 16 
 
 ## Chapter Outline
 

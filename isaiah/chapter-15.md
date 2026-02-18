@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 15 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "15"
+description: "In this chapter: The Divine judgments about to come upon the Moabites. (1-9)."
 weight: 15
 ---
 
-# Chapter 15
+# Isaiah 15 
 
 ## Chapter Outline
 

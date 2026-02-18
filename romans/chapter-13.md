@@ -1,8 +1,11 @@
 ---
+title: "Romans 13 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "13"
+description: "In this chapter: The duty of subjection to governors. (1–7). Exhortations to mutual love. (8–10). To temperance and sobriety. (11–14)."
 weight: 13
 ---
 
-# Chapter 13
+# Romans 13 
 
 ## Chapter Outline
 

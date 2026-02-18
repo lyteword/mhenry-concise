@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 16 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "16"
+description: "In this chapter: Prohibitions given to the prophet. (1-9). The justice of God in these judgments. (10-13). Future restoration of the Jews, and the conversion of the Gentiles. (14-21)."
 weight: 16
 ---
 
-# Chapter 16
+# Jeremiah 16 
 
 ## Chapter Outline
 

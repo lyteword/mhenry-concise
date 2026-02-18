@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 26 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "26"
+description: "In this chapter: Uzziah's good reign in Judah. (1–15). Uzziah's attempt to burn incense. (16–23)."
 weight: 26
 ---
 
-# Chapter 26
+# 2 Chronicles 26 
 
 ## Chapter Outline
 

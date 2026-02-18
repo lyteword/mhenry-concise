@@ -1,8 +1,11 @@
 ---
+title: "2 Timothy 1 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "1"
+description: "In this chapter: Paul expresses great affection for Timothy. (1–5). Exhorts him to improve his spiritual gifts. (6–14). Tells of many who basely deserted him; but speaks with affection of Onesiphorus. (15–18)."
 weight: 1
 ---
 
-# Chapter 1
+# 2 Timothy 1 
 
 ## Chapter Outline
 

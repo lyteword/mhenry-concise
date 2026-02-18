@@ -1,8 +1,11 @@
 ---
+title: "2 Samuel 19 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "19"
+description: "In this chapter: Joab causes David to cease mourning. (1–8). David returns to Jordan. (9–15). He pardons Shimei. (16–23). Mephibosheth excused. (24–30). David's parting with Barzillai. (31–39). Israel quarrels with Judah. (40–43)."
 weight: 19
 ---
 
-# Chapter 19
+# 2 Samuel 19 
 
 ## Chapter Outline
 

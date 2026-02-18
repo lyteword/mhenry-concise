@@ -1,8 +1,11 @@
 ---
+title: "Romans 2 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "2"
+description: "In this chapter: The Jews could not be justified by the law of Moses, any more than the Gentiles by the law of nature. (1–16). The sins of the Jews confuted all their vain confidence in their outward privileges. (17–29)."
 weight: 2
 ---
 
-# Chapter 2
+# Romans 2 
 
 ## Chapter Outline
 

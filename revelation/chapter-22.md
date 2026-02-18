@@ -1,8 +1,11 @@
 ---
+title: "Revelation 22 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "22"
+description: "In this chapter: A description of the heavenly state, under the figures of the water and the tree of life, and of the throne of God and the Lamb. (1–5). The truth and certain fulfilling of all the prophetic visions, The Holy Spirit, and the bride, the church, invite, and say, Come. (6–19). The closing blessing. (20, 21)."
 weight: 22
 ---
 
-# Chapter 22
+# Revelation 22 
 
 ## Chapter Outline
 

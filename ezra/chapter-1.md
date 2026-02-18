@@ -1,8 +1,11 @@
 ---
+title: "Ezra 1 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "1"
+description: "In this chapter: The proclamation of Cyrus for the rebuilding of the temple. (1–4). The people provide for their return. (5–11)."
 weight: 1
 ---
 
-# Chapter 1
+# Ezra 1 
 
 ## Chapter Outline
 

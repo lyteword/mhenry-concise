@@ -1,8 +1,11 @@
 ---
+title: "2 Thessalonians 2 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "2"
+description: "In this chapter: Cautions against the error that the time of Christ's coming was just at hand. There would first be a general apostasy from the faith, and a revealing of the antichristian man of sin. (1–4). His destruction, and that of those who obey him. (5–12). The security of the Thessalonians from apostacy; an exhortation to stedfastness, and prayer for them. (13–17)."
 weight: 2
 ---
 
-# Chapter 2
+# 2 Thessalonians 2 
 
 ## Chapter Outline
 

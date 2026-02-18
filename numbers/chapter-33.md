@@ -1,8 +1,11 @@
 ---
+title: "Numbers 33 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "33"
+description: "In this chapter: Encampments of the Israelites. (1–49). The Canaanites to be destroyed. (50–56)."
 weight: 33
 ---
 
-# Chapter 33
+# Numbers 33 
 
 ## Chapter Outline
 

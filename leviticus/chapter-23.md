@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 23 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "23"
+description: "In this chapter: The feasts of the Lord, The Sabbath. (1–3). The Passover, The offering of first-fruits. (4–14). The feast of Pentecost. (15–22). The feast of Trumpets, The day of atonement. (23–32). The feast of Tabernacles. (33–44)."
 weight: 23
 ---
 
-# Chapter 23
+# Leviticus 23 
 
 ## Chapter Outline
 

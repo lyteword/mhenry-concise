@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 7 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "7"
+description: "In this chapter: Confidence in the temple is vain. (1-16). The provocation by persisting in idolatry. (17-20). God justifies his dealings with them. (21-28). And threatens vengeance. (29-34)."
 weight: 7
 ---
 
-# Chapter 7
+# Jeremiah 7 
 
 ## Chapter Outline
 

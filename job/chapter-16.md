@@ -1,8 +1,11 @@
 ---
+title: "Job 16 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "16"
+description: "In this chapter: Job reproves his friends. (1–5). He represents his case as deplorable. (6–16). Job maintains his innocency. (17–22)."
 weight: 16
 ---
 
-# Chapter 16
+# Job 16 
 
 ## Chapter Outline
 

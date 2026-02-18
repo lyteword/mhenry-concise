@@ -1,8 +1,11 @@
 ---
+title: "Matthew 3 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "3"
+description: "In this chapter: John the Baptist, His preaching, manner of life, and baptism. (1–6). John reproves the Pharisees and Sadducees. (7–12). The baptism of Jesus. (13–17)."
 weight: 3
 ---
 
-# Chapter 3
+# Matthew 3 
 
 ## Chapter Outline
 

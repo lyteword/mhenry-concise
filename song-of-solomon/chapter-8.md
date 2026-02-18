@@ -1,8 +1,11 @@
 ---
+title: "Song Of Solomon 8 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "8"
+description: "In this chapter: Desire for communion with Christ. (1-4) . The vehemence of this desire. (5-7) . The church pleads for others. (8-12) . And prays for Christ's coming. (13,14)."
 weight: 8
 ---
 
-# Chapter 8
+# Song Of Solomon 8 
 
 ## Chapter Outline
 

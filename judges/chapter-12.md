@@ -1,8 +1,11 @@
 ---
+title: "Judges 12 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "12"
+description: "In this chapter: Ephraimites quarrel with Jephthah. (1–7). Ibzan, Elon, and Abdon judge Israel. (8–15)."
 weight: 12
 ---
 
-# Chapter 12
+# Judges 12 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "Job 18 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "18"
+description: "In this chapter: Bildad reproves Job. (1–4). Ruin attends the wicked. (5–10). The ruin of the wicked. (11–21)."
 weight: 18
 ---
 
-# Chapter 18
+# Job 18 
 
 ## Chapter Outline
 

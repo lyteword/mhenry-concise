@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 1 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "1"
+description: "In this chapter: Solomon's choice of wisdom, His strength and wealth. (1-17)."
 weight: 1
 ---
 
-# Chapter 1
+# 2 Chronicles 1 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "Matthew 10 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "10"
+description: "In this chapter: The apostles called. (1–4). The apostles instructed and sent forth. (5–15). Directions to the apostles. (16–42)."
 weight: 10
 ---
 
-# Chapter 10
+# Matthew 10 
 
 ## Chapter Outline
 

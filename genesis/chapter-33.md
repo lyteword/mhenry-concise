@@ -1,8 +1,11 @@
 ---
+title: "Genesis 33 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "33"
+description: "In this chapter: The friendly meeting of Jacob and Esau. (1–16). Jacob comes to Succoth and Shalem, He builds an altar. (17–20)."
 weight: 33
 ---
 
-# Chapter 33
+# Genesis 33 
 
 ## Chapter Outline
 

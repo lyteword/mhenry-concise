@@ -1,8 +1,11 @@
 ---
+title: "Zephaniah 2 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "2"
+description: "In this chapter: An exhortation to repentance. (1–3). Judgments upon other nations. (4–15)."
 weight: 2
 ---
 
-# Chapter 2
+# Zephaniah 2 
 
 ## Chapter Outline
 

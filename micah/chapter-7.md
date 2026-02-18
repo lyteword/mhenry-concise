@@ -1,8 +1,11 @@
 ---
+title: "Micah 7 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "7"
+description: "In this chapter: The general prevalence of wickedness. (1–7). Reliance on God, and triumph over enemies. (8–13). Promises and encouragements for Israel. (14–20)."
 weight: 7
 ---
 
-# Chapter 7
+# Micah 7 
 
 ## Chapter Outline
 

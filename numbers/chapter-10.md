@@ -1,8 +1,11 @@
 ---
+title: "Numbers 10 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "10"
+description: "In this chapter: The silver trumpets. (1–10). The Israelites remove from Sinai to Paran. (11–28). Hobab entreated by Moses to continue. (29–32). The blessing pronounced by Moses. (33–36)."
 weight: 10
 ---
 
-# Chapter 10
+# Numbers 10 
 
 ## Chapter Outline
 

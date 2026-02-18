@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 10 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "10"
+description: "In this chapter: The sin and death of Nadab and Abihu. (1, 2). Aaron and his sons forbidden to mourn for Nadab and Abihu. (3–7). Wine forbidden to the priests when in the service of the tabernacle. (8–11). Of eating the holy things. (12–20)."
 weight: 10
 ---
 
-# Chapter 10
+# Leviticus 10 
 
 ## Chapter Outline
 

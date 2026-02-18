@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 15 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "15"
+description: "In this chapter: The year of release. (1–11). Concerning the release of servants. (12–18). Respecting the firstlings of cattle. (19–23)."
 weight: 15
 ---
 
-# Chapter 15
+# Deuteronomy 15 
 
 ## Chapter Outline
 

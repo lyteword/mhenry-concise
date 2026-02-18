@@ -1,8 +1,11 @@
 ---
+title: "Zephaniah 1 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "1"
+description: "In this chapter: Threatenings against sinners. (1–6). More threatenings. (7–13). Distress from the approaching judgments. (14–18)."
 weight: 1
 ---
 
-# Chapter 1
+# Zephaniah 1 
 
 ## Chapter Outline
 

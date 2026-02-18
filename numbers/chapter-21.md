@@ -1,8 +1,11 @@
 ---
+title: "Numbers 21 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "21"
+description: "In this chapter: The Canaanites of Arad destroyed. (1–3). The people murmuring, are plagued with fiery serpents, They repenting, are healed through the brazen serpent. (4–9). Further journeys of the Israelites. (10–20). Sihon and Og overcome, Their land possessed. (21–35)."
 weight: 21
 ---
 
-# Chapter 21
+# Numbers 21 
 
 ## Chapter Outline
 

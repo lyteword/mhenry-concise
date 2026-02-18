@@ -1,8 +1,11 @@
 ---
+title: "Genesis 41 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "41"
+description: "In this chapter: Pharaoh's dreams. (1–8). Joseph interprets Pharaoh's dreams. (9–32). Joseph's counsel, He is highly advanced. (33–45). Joseph's children, The beginning of the famine. (46–57)."
 weight: 41
 ---
 
-# Chapter 41
+# Genesis 41 
 
 ## Chapter Outline
 

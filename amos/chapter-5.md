@@ -1,8 +1,11 @@
 ---
+title: "Amos 5 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "5"
+description: "In this chapter: Israel is called to seek the Lord. (1–6). Earnest exhortations to repentance. (7–17). Threatenings respecting idolatries. (18–27)."
 weight: 5
 ---
 
-# Chapter 5
+# Amos 5 
 
 ## Chapter Outline
 

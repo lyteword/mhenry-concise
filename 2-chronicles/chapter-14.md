@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 14 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "14"
+description: "In this chapter: Asa's piety, He strengthens his kingdom. (1-15)."
 weight: 14
 ---
 
-# Chapter 14
+# 2 Chronicles 14 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "1 Peter 5 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "5"
+description: "In this chapter: Elders exhorted and encouraged. (1–4). Younger Christians are to submit to their elders, and to yield with humility and patience to God, and to be sober, watchful, and stedfast in faith. (5–9). Prayers for their growth and establishment. (10–14)."
 weight: 5
 ---
 
-# Chapter 5
+# 1 Peter 5 
 
 ## Chapter Outline
 

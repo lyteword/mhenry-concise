@@ -1,8 +1,11 @@
 ---
+title: "1 Kings 7 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "7"
+description: "In this chapter: Solomon's buildings. (1–12). Furniture of the temple. (13–47). Vessels of gold. (48–51)."
 weight: 7
 ---
 
-# Chapter 7
+# 1 Kings 7 
 
 ## Chapter Outline
 

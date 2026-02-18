@@ -1,8 +1,11 @@
 ---
+title: "2 Corinthians 5 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "5"
+description: "In this chapter: The apostle's hope and desire of heavenly glory. (1–8). This excited to diligence. The reasons of his being affected with zeal for the Corinthians. (9–15). The necessity of regeneration, and of reconciliation with God through Christ. (16–21)."
 weight: 5
 ---
 
-# Chapter 5
+# 2 Corinthians 5 
 
 ## Chapter Outline
 

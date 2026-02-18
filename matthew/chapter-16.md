@@ -1,8 +1,11 @@
 ---
+title: "Matthew 16 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "16"
+description: "In this chapter: The Pharisees and Sadducees ask a sign. (1–4). Jesus cautions against the doctrine of the Pharisees. (5–12). Peter's testimony that Jesus was the Christ. (13–20). Christ foretells his sufferings, and rebukes Peter. (21–23). The necessity of self-denial. (24–28)."
 weight: 16
 ---
 
-# Chapter 16
+# Matthew 16 
 
 ## Chapter Outline
 

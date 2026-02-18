@@ -1,8 +1,11 @@
 ---
+title: "2 Peter 3 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "3"
+description: "In this chapter: The design here is to remind of Christ's final coming to judgement. (1–4). He will appear unexpectedly, when the present frame of nature will be dissolved by fire. (5–10). From thence is inferred the need for holiness, and stedfastness in the faith. (11–18)."
 weight: 3
 ---
 
-# Chapter 3
+# 2 Peter 3 
 
 ## Chapter Outline
 

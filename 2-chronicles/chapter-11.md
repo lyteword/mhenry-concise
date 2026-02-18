@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 11 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "11"
+description: "In this chapter: Rehoboam forbidden to war against Israel. (1–12). The priests and Levites find refuge in Judah. (13–23)."
 weight: 11
 ---
 
-# Chapter 11
+# 2 Chronicles 11 
 
 ## Chapter Outline
 

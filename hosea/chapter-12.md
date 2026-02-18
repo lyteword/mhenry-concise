@@ -1,8 +1,11 @@
 ---
+title: "Hosea 12 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "12"
+description: "In this chapter: Judah and Israel reminded of the Divine favours. (1-6). The provocations of Israel. (7-14)."
 weight: 12
 ---
 
-# Chapter 12
+# Hosea 12 
 
 ## Chapter Outline
 

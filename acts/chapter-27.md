@@ -1,8 +1,11 @@
 ---
+title: "Acts 27 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "27"
+description: "In this chapter: Paul's voyage towards Rome. (1–11). Paul and his companions endangered by a tempest. (12–20). He receives a Divine assurance of safety. (21–29). Paul encourages those with him. (30–38). They are shipwrecked. (39–44)."
 weight: 27
 ---
 
-# Chapter 27
+# Acts 27 
 
 ## Chapter Outline
 

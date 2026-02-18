@@ -1,8 +1,11 @@
 ---
+title: "Matthew 8 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "8"
+description: "In this chapter: Multitudes follow Christ. (1). He heals a leper. (2–4). A centurion's servant healed. (5–13). Cure of Peter's wife's mother. (14–17). The scribe's zealous proposal. (18–22). Christ in a storm. (23–27). He heals two possessed with devils. (28–34)."
 weight: 8
 ---
 
-# Chapter 8
+# Matthew 8 
 
 ## Chapter Outline
 

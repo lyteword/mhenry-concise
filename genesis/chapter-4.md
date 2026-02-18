@@ -1,8 +1,11 @@
 ---
+title: "Genesis 4 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "4"
+description: "In this chapter: The birth, employment, and religion of Cain and Abel. (1–7). Cain murders Abel, The curse of Cain. (8–15). The conduct of Cain, His family. (16–18). Lamech and his wives, The skill of Cain's descendants. (19–24). The birth of another son and grandson of Adam. (25, 26)."
 weight: 4
 ---
 
-# Chapter 4
+# Genesis 4 
 
 ## Chapter Outline
 

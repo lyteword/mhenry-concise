@@ -1,8 +1,11 @@
 ---
+title: "1 Chronicles 15 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "15"
+description: "In this chapter: Preparations for the removal of the ark. (1–24). The removal of the ark. (25–29)."
 weight: 15
 ---
 
-# Chapter 15
+# 1 Chronicles 15 
 
 ## Chapter Outline
 

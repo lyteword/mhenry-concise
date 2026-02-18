@@ -1,8 +1,11 @@
 ---
+title: "Numbers 23 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "23"
+description: "In this chapter: Balak's sacrifice, Balaam pronounces a blessing instead of a curse. (1–10). Balak's disappointment, and second sacrifice, Balaam again blesses Israel. (11–30)."
 weight: 23
 ---
 
-# Chapter 23
+# Numbers 23 
 
 ## Chapter Outline
 

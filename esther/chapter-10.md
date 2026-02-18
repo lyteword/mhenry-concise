@@ -1,8 +1,11 @@
 ---
+title: "Esther 10 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "10"
+description: "In this chapter: Greatness of Ahasuerus—Mordecai's advancement. (1-3)."
 weight: 10
 ---
 
-# Chapter 10
+# Esther 10 
 
 ## Chapter Outline
 

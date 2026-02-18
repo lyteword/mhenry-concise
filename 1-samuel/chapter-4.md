@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 4 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "4"
+description: "In this chapter: The Israelites overcome by the Philistines. (1–9). The ark taken. (10, 11). The death of Eli. (12–18). The birth of Ichabod. (19–22)."
 weight: 4
 ---
 
-# Chapter 4
+# 1 Samuel 4 
 
 ## Chapter Outline
 

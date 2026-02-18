@@ -1,8 +1,11 @@
 ---
+title: "Exodus 5 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "5"
+description: "In this chapter: Pharaoh's displeasure, He increases the tasks of the Israelites. (1–9). The sufferings of the Israelites, Moses' complaint to God. (10–23)."
 weight: 5
 ---
 
-# Chapter 5
+# Exodus 5 
 
 ## Chapter Outline
 

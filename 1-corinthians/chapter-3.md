@@ -1,8 +1,11 @@
 ---
+title: "1 Corinthians 3 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "3"
+description: "In this chapter: The Corinthians reproved for their contentions. (1–4). The true servants of Christ can do nothing without him. (5–9). He is the only foundation, and every one should take heed what he builds thereon. (10–15). The churches of Christ ought to be kept pure, and to be humble. (16, 17). And they should not glory in men, because ministers and all things else are theirs through Christ. (18–23)."
 weight: 3
 ---
 
-# Chapter 3
+# 1 Corinthians 3 
 
 ## Chapter Outline
 

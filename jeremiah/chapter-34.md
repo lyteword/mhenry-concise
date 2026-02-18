@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 34 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "34"
+description: "In this chapter: Zedekiah's death at Babylon foretold. (1-7). The Jews reproved for compelling their poor brethren to return to unlawful bondage. (8-22)."
 weight: 34
 ---
 
-# Chapter 34
+# Jeremiah 34 
 
 ## Chapter Outline
 

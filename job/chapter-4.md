@@ -1,8 +1,11 @@
 ---
+title: "Job 4 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "4"
+description: "In this chapter: Eliphaz reproves Job. (1–6). And maintains that God's judgments are for the wicked. (7–11). The vision of Eliphaz. (12–21)."
 weight: 4
 ---
 
-# Chapter 4
+# Job 4 
 
 ## Chapter Outline
 

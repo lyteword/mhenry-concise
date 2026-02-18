@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 5 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "5"
+description: "In this chapter: Concerning various trespasses. (1–13). Concerning trespasses against the Lord. (14–19)."
 weight: 5
 ---
 
-# Chapter 5
+# Leviticus 5 
 
 ## Chapter Outline
 

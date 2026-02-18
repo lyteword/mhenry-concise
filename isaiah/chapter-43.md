@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 43 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "43"
+description: "In this chapter: God's unchangeable love for his people. (1-7). Apostates and idolaters addressed. (8-13). The deliverance from Babylon, and the conversion of the Gentiles. (14-21). Admonition to repent of sin. (22-28)."
 weight: 43
 ---
 
-# Chapter 43
+# Isaiah 43 
 
 ## Chapter Outline
 

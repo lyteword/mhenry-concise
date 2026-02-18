@@ -1,8 +1,11 @@
 ---
+title: "Judges 18 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "18"
+description: "In this chapter: The Danites seek to enlarge their inheritance, and rob Micah. (1-31)."
 weight: 18
 ---
 
-# Chapter 18
+# Judges 18 
 
 ## Chapter Outline
 

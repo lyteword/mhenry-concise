@@ -1,8 +1,11 @@
 ---
+title: "Philippians 4 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "4"
+description: "In this chapter: The apostle exhorts the Philippians to stand fast in the Lord. (1). Gives directions to some, and to all in general. (2–9). Expresses contentment in every condition of life. (10–19). He concludes with prayer to God the Father, and his usual blessing. (20–23)."
 weight: 4
 ---
 
-# Chapter 4
+# Philippians 4 
 
 ## Chapter Outline
 

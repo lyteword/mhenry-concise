@@ -1,8 +1,11 @@
 ---
+title: "Genesis 29 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "29"
+description: "In this chapter: Jacob comes to the well of Haran. (1–8). His interview with Rachel, Laban entertains him. (9–14). Jacob's covenant for Rachel, Laban's deceit. (15–30). Leah's sons. (31–35)."
 weight: 29
 ---
 
-# Chapter 29
+# Genesis 29 
 
 ## Chapter Outline
 

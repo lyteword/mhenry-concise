@@ -1,8 +1,11 @@
 ---
+title: "Proverbs 1 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "1"
+description: "In this chapter: The use of the Proverbs. (1–6). Exhortations to fear God and obey parents. (7–9). To avoid the enticings of sinners. (10–19). The address of Wisdom to sinners. (20–33)."
 weight: 1
 ---
 
-# Chapter 1
+# Proverbs 1 
 
 ## Chapter Outline
 

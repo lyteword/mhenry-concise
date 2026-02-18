@@ -1,8 +1,11 @@
 ---
+title: "Job 30 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "30"
+description: "In this chapter: Job's honour is turned into contempt. (1–14). Job a burden to himself. (15–31)."
 weight: 30
 ---
 
-# Chapter 30
+# Job 30 
 
 ## Chapter Outline
 

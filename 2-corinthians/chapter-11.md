@@ -1,8 +1,11 @@
 ---
+title: "2 Corinthians 11 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "11"
+description: "In this chapter: The apostle gives the reasons for speaking in his own commendation. (1–14). Shows that he had freely preached the gospel. (5–15). Explains what he was going to add in defence of his own character. (16–21). He gives an account of his labours, cares, sufferings, dangers, and deliverances. (22–33)."
 weight: 11
 ---
 
-# Chapter 11
+# 2 Corinthians 11 
 
 ## Chapter Outline
 

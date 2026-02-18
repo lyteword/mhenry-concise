@@ -1,8 +1,11 @@
 ---
+title: "John 17 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "17"
+description: "In this chapter: Christ's prayer for himself. (1–5). His prayer for his disciples. (6–10). His prayer. (11–26)."
 weight: 17
 ---
 
-# Chapter 17
+# John 17 
 
 ## Chapter Outline
 

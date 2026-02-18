@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 2 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "2"
+description: "In this chapter: God expostulates with his people. (1-8). Their revolt beyond example. (9-13). Guilt the cause of sufferings. (14-19). The sins of Judah. (20-28). Their false confidence. (29-37)."
 weight: 2
 ---
 
-# Chapter 2
+# Jeremiah 2 
 
 ## Chapter Outline
 

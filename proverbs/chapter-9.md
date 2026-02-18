@@ -1,8 +1,11 @@
 ---
+title: "Proverbs 9 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "9"
+description: "In this chapter: The invitations of Wisdom. (1–12). The invitations of folly. (13–18)."
 weight: 9
 ---
 
-# Chapter 9
+# Proverbs 9 
 
 ## Chapter Outline
 

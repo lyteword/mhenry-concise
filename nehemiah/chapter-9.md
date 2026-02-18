@@ -1,8 +1,11 @@
 ---
+title: "Nehemiah 9 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "9"
+description: "In this chapter: A solemn fast. (1–3). Prayer and confession of sin. (4–38)."
 weight: 9
 ---
 
-# Chapter 9
+# Nehemiah 9 
 
 ## Chapter Outline
 

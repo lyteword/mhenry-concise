@@ -1,8 +1,11 @@
 ---
+title: "Acts 17 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "17"
+description: "In this chapter: Paul at Thessalonica. (1–9). The noble conduct of the Bereans. (10–15). Paul at Athens. (16–21). He preaches there. (22–31). The scornful conduct of the Athenians. (32–34)."
 weight: 17
 ---
 
-# Chapter 17
+# Acts 17 
 
 ## Chapter Outline
 

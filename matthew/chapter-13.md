@@ -1,8 +1,11 @@
 ---
+title: "Matthew 13 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "13"
+description: "In this chapter: The parable of the sower. (1–23). The parable of the tares. (24–30; 36–43). The parables of the mustard-seed and the leaven. (31–35). The parables of the hidden treasure, the pearl of great price, the net cast into the sea, and the householder. (44–52). Jesus is again rejected at Nazareth. (53–58)."
 weight: 13
 ---
 
-# Chapter 13
+# Matthew 13 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 6 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "6"
+description: "In this chapter: Solomon's prayer at the dedication of the temple. (1-42)."
 weight: 6
 ---
 
-# Chapter 6
+# 2 Chronicles 6 
 
 ## Chapter Outline
 

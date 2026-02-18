@@ -1,8 +1,11 @@
 ---
+title: "2 Samuel 11 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "11"
+description: "In this chapter: David's adultery. (1–5). He tries to conceal his crime. (6–13). Uriah murdered. (14–27)."
 weight: 11
 ---
 
-# Chapter 11
+# 2 Samuel 11 
 
 ## Chapter Outline
 

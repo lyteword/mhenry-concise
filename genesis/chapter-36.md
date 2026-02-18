@@ -1,8 +1,11 @@
 ---
+title: "Genesis 36 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "36"
+description: "In this chapter: Esau and his descendants. (1-43)."
 weight: 36
 ---
 
-# Chapter 36
+# Genesis 36 
 
 ## Chapter Outline
 

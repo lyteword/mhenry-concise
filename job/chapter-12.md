@@ -1,8 +1,11 @@
 ---
+title: "Job 12 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "12"
+description: "In this chapter: Job reproves his friends. (1–5). The wicked often prosper. (6–11). Job speaks of the wisdom and power of God. (12–25)."
 weight: 12
 ---
 
-# Chapter 12
+# Job 12 
 
 ## Chapter Outline
 

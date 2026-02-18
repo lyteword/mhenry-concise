@@ -1,8 +1,11 @@
 ---
+title: "Numbers 12 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "12"
+description: "In this chapter: God rebukes the murmuring of Aaron and Miriam. (1–9). Miriam struck with leprosy, and healed at the prayer of Moses. (10–16)."
 weight: 12
 ---
 
-# Chapter 12
+# Numbers 12 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "Luke 20 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "20"
+description: "In this chapter: The priests and scribes question Christ's authority. (1–8). The parable of the vineyard and husbandmen. (9–19). Of giving tribute. (20–26). Concerning the resurrection. (27–38). The scribes silenced. (39–47)."
 weight: 20
 ---
 
-# Chapter 20
+# Luke 20 
 
 ## Chapter Outline
 

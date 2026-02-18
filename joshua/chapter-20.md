@@ -1,8 +1,11 @@
 ---
+title: "Joshua 20 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "20"
+description: "In this chapter: The law concerning the cities of refuge. (1–6). The cities appointed as refuges. (7–9)."
 weight: 20
 ---
 
-# Chapter 20
+# Joshua 20 
 
 ## Chapter Outline
 

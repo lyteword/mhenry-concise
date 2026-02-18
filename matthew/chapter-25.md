@@ -1,8 +1,11 @@
 ---
+title: "Matthew 25 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "25"
+description: "In this chapter: The parable of the ten virgins. (1–13). The parable of the talents. (14–30). The judgment. (31–46)."
 weight: 25
 ---
 
-# Chapter 25
+# Matthew 25 
 
 ## Chapter Outline
 

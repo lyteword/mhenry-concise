@@ -1,8 +1,11 @@
 ---
+title: "John 21 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "21"
+description: "In this chapter: Christ appears to his disciples. (1–14). His discourse with Peter. (15–19). Christ's declaration concerning John. (20–24). The conclusion. (25)."
 weight: 21
 ---
 
-# Chapter 21
+# John 21 
 
 ## Chapter Outline
 
