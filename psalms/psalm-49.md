@@ -1,4 +1,7 @@
 ---
+title: "Psalms 49 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "49"
+description: "In this chapter: A call for attention. (1–5). Folly of worldlings. (6–14). Against fear of death. (15–20)."
 weight: 49
 ---
 

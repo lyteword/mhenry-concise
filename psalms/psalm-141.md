@@ -1,4 +1,7 @@
 ---
+title: "Psalms 141 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "141"
+description: "In this chapter: David prays for God's acceptance and assistance. (1–4). That God would appear for his rescue. (5–10)."
 weight: 141
 ---
 

@@ -1,4 +1,7 @@
 ---
+title: "Psalms 123 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "123"
+description: "In this chapter: Confidence in God under contempt. (1-4)."
 weight: 123
 ---
 

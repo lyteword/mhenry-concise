@@ -1,4 +1,7 @@
 ---
+title: "Psalms 120 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "120"
+description: "In this chapter: The psalmist prays to God to deliver him from false and malicious tongues. (1–4). He complains of wicked neighbours. (5–7)."
 weight: 120
 ---
 

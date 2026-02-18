@@ -1,4 +1,7 @@
 ---
+title: "Psalms 125 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "125"
+description: "In this chapter: The security of the righteous. (1–3). Prayer for them, The ruin of the wicked. (4, 5)."
 weight: 125
 ---
 

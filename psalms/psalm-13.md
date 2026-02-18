@@ -1,4 +1,7 @@
 ---
+title: "Psalms 13 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "13"
+description: "In this chapter: The psalmist complains that God had long withdrawn. He earnestly prays for comfort. He assures himself of an answer of peace. (1-6)."
 weight: 13
 ---
 

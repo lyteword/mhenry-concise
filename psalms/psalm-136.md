@@ -1,4 +1,7 @@
 ---
+title: "Psalms 136 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "136"
+description: "In this chapter: God to be praised as the Creator of the world. (1–9). As Israel's God and Saviour. (10–22). For his blessings to all. (23–26)."
 weight: 136
 ---
 

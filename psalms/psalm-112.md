@@ -1,4 +1,7 @@
 ---
+title: "Psalms 112 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "112"
+description: "In this chapter: The blessedness of the righteous. (1-10)."
 weight: 112
 ---
 

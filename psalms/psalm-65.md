@@ -1,4 +1,7 @@
 ---
+title: "Psalms 65 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "65"
+description: "In this chapter: God is to be praised in the kingdom of grace. (1–5). In the kingdom of providence. (6–13)."
 weight: 65
 ---
 

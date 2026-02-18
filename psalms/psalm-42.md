@@ -1,4 +1,7 @@
 ---
+title: "Psalms 42 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "42"
+description: "In this chapter: The conflict in the soul of a believer.."
 weight: 42
 ---
 

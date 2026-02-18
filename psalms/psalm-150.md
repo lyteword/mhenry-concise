@@ -1,4 +1,7 @@
 ---
+title: "Psalms 150 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "150"
+description: "In this chapter: A psalm of praise. (1-5)."
 weight: 150
 ---
 

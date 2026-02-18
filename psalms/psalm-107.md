@@ -1,4 +1,7 @@
 ---
+title: "Psalms 107 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "107"
+description: "In this chapter: God's providential care of the children of men in distresses, in banishment, and dispersion. (1–9). In captivity. (10–16). In sickness. (17–22). Danger at sea. (23–32). God's hand is to be seen by his own people. (33–43)."
 weight: 107
 ---
 

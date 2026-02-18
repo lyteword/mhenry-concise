@@ -1,4 +1,7 @@
 ---
+title: "Psalms 6 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "6"
+description: "In this chapter: The psalmist deprecates God's wrath, and begs for the return of his favour. (1–7). He assures himself of an answer of peace. (8–10)."
 weight: 6
 ---
 

@@ -1,4 +1,7 @@
 ---
+title: "Psalms 37 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "37"
+description: "In this chapter: David persuades to patience and confidence in God, by the state of the godly and of the wicked.."
 weight: 37
 ---
 

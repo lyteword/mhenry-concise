@@ -1,4 +1,7 @@
 ---
+title: "Psalms 145 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "145"
+description: "In this chapter: David extols the power, goodness, and mercy of the Lord. (1–9). The glory of God's kingdom, and his care of those that love him. (10–21)."
 weight: 145
 ---
 

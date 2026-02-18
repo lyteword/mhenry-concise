@@ -1,4 +1,7 @@
 ---
+title: "Psalms 70 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "70"
+description: "In this chapter: The speedy destruction of the wicked, and the preservation of the godly. (1-5)."
 weight: 70
 ---
 

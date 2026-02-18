@@ -1,4 +1,7 @@
 ---
+title: "Psalms 58 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "58"
+description: "In this chapter: Wicked judges described and reproved. (1–5). A prayer that they may be disabled, and their ruin predicted. (6–11)."
 weight: 58
 ---
 

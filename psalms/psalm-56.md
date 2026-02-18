@@ -1,4 +1,7 @@
 ---
+title: "Psalms 56 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "56"
+description: "In this chapter: David seeks mercy from God, amidst the malice of his enemies. (1–7). He rests his faith on God's promises, and declares his obligation to praise him for mercies. (8–13)."
 weight: 56
 ---
 

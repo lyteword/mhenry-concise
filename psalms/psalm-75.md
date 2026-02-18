@@ -1,4 +1,7 @@
 ---
+title: "Psalms 75 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "75"
+description: "In this chapter: The psalmist declares his resolution of executing judgment. (1–5). He rebukes the wicked, and concludes with resolutions to praise God. (6–10)."
 weight: 75
 ---
 

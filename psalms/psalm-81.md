@@ -1,4 +1,7 @@
 ---
+title: "Psalms 81 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "81"
+description: "In this chapter: God is praised for what he has done for his people. (1–7). Their obligations to him. (8–16)."
 weight: 81
 ---
 

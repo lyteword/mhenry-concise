@@ -1,4 +1,7 @@
 ---
+title: "Psalms 34 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "34"
+description: "In this chapter: David praises God, and encourages to trust him. (1–10). He exhorts to fear. (11–22)."
 weight: 34
 ---
 

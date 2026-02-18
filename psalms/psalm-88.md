@@ -1,4 +1,7 @@
 ---
+title: "Psalms 88 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "88"
+description: "In this chapter: The psalmist pours out his soul to God in lamentation. (1–9). He wrestles by faith, in his prayer to God for comfort. (10–18)."
 weight: 88
 ---
 

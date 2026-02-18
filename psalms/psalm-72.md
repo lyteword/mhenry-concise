@@ -1,4 +1,7 @@
 ---
+title: "Psalms 72 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "72"
+description: "In this chapter: David begins with a prayer for Solomon. (1). He passes into a prophecy of the glories of his reign, and of Christ's kingdom. (2–17). Praise to God. (18–20)."
 weight: 72
 ---
 

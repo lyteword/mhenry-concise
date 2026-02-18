@@ -1,4 +1,7 @@
 ---
+title: "Psalms 51 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "51"
+description: "In this chapter: The psalmist prays for mercy, humbly confessing and lamenting his sins. (1–6). He pleads for pardon, that he may promote the glory of God and the conversion of sinners. (7–15). God is pleased with a contrite heart, A prayer for the prosperity of Zion. (16–19)."
 weight: 51
 ---
 

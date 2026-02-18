@@ -1,4 +1,7 @@
 ---
+title: "Psalms 48 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "48"
+description: "In this chapter: The glories of the church of Christ.."
 weight: 48
 ---
 
@@ -6,7 +9,7 @@ weight: 48
 
 ## Psalm Outline
 
-- The glories of the church of Christ.
+- The glories of the church of Christ. (1-14)  
 
 ## Verses 1–7
 

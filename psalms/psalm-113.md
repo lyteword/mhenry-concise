@@ -1,4 +1,7 @@
 ---
+title: "Psalms 113 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "113"
+description: "In this chapter: An exhortation to praise God. (1-9)."
 weight: 113
 ---
 

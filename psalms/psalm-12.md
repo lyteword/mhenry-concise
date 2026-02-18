@@ -1,4 +1,7 @@
 ---
+title: "Psalms 12 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "12"
+description: "In this chapter: The psalmist begs help of God, because there were none among men whom he durst trust. (1-8)."
 weight: 12
 ---
 

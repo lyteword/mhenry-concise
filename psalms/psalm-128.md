@@ -1,4 +1,7 @@
 ---
+title: "Psalms 128 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "128"
+description: "In this chapter: The blessings of those who fear God. (1-6)."
 weight: 128
 ---
 

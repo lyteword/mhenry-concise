@@ -1,4 +1,7 @@
 ---
+title: "Psalms 111 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "111"
+description: "In this chapter: The Lord is to be praised for his works. (1-10)."
 weight: 111
 ---
 

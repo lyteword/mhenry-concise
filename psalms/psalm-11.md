@@ -1,4 +1,7 @@
 ---
+title: "Psalms 11 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "11"
+description: "In this chapter: David's struggle with, and triumph over a strong temptation to distrust God, and betake himself to indirect means for his own safety, in a time of danger. (1-7)."
 weight: 11
 ---
 

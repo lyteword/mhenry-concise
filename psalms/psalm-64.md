@@ -1,4 +1,7 @@
 ---
+title: "Psalms 64 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "64"
+description: "In this chapter: Prayer for deliverance. (1–6). The destruction of the wicked, encouragement to the righteous. (7–10)."
 weight: 64
 ---
 

@@ -1,4 +1,7 @@
 ---
+title: "Psalms 109 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "109"
+description: "In this chapter: David complains of his enemies. (1–5). He prophesies their destruction. (6–20). Prayers and praises. (21–31)."
 weight: 109
 ---
 

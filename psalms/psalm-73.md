@@ -1,4 +1,7 @@
 ---
+title: "Psalms 73 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "73"
+description: "In this chapter: The psalmist's temptation. (1–14). How he gained a victory over it. (15–20). How he profited by it. (21–28)."
 weight: 73
 ---
 

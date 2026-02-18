@@ -1,4 +1,7 @@
 ---
+title: "Psalms 52 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "52"
+description: "In this chapter: The enemies of the truth and the church described, Their destruction. (1–5). The righteous rejoice. (6–9)."
 weight: 52
 ---
 

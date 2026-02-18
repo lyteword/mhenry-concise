@@ -1,4 +1,7 @@
 ---
+title: "Psalms 98 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "98"
+description: "In this chapter: The glory of the Redeemer. (1–3). The joy of the Redeemer. (4–9)."
 weight: 98
 ---
 

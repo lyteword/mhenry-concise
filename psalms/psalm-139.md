@@ -1,4 +1,7 @@
 ---
+title: "Psalms 139 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "139"
+description: "In this chapter: God knows all things. (1–6). He is every where present. (7–16). The psalmist's hatred to sin, and desire to be led aright. (17–24)."
 weight: 139
 ---
 

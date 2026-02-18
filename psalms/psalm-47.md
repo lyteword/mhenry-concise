@@ -1,4 +1,7 @@
 ---
+title: "Psalms 47 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "47"
+description: "In this chapter: The people exhorted to praise God.."
 weight: 47
 ---
 
@@ -6,7 +9,7 @@ weight: 47
 
 ## Psalm Outline
 
-- The people exhorted to praise God.
+- The people exhorted to praise God. (1-9)  
 
 ## Verses 1–4
 

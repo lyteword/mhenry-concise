@@ -1,4 +1,7 @@
 ---
+title: "Psalms 92 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "92"
+description: "In this chapter: Praise is the business of the sabbath. (1–6). The wicked shall perish, but God's people shall be exalted. (7–15)."
 weight: 92
 ---
 

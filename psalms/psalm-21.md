@@ -1,4 +1,7 @@
 ---
+title: "Psalms 21 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "21"
+description: "In this chapter: Thanksgiving for victory. (1–6). Confidence of further success. (7–13)."
 weight: 21
 ---
 

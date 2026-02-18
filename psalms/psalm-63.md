@@ -1,4 +1,7 @@
 ---
+title: "Psalms 63 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "63"
+description: "In this chapter: David's desire toward God. (1, 2). His satisfaction in God. (3–6). His dependence upon God, and assurance of safety. (7–11)."
 weight: 63
 ---
 

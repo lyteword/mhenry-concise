@@ -1,4 +1,7 @@
 ---
+title: "Psalms 85 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "85"
+description: "In this chapter: Prayers for the continuance of former mercies. (1–7). Trust in God's goodness. (8–13)."
 weight: 85
 ---
 

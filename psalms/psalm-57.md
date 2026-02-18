@@ -1,4 +1,7 @@
 ---
+title: "Psalms 57 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "57"
+description: "In this chapter: David begins with prayer and complaint. (1–6). He concludes with joy and praise. (7–11)."
 weight: 57
 ---
 

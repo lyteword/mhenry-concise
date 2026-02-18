@@ -1,4 +1,7 @@
 ---
+title: "Psalms 41 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "41"
+description: "In this chapter: God's care for his people. (1–4). The treachery of David's enemies. (5–13)."
 weight: 41
 ---
 

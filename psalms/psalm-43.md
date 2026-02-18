@@ -1,4 +1,7 @@
 ---
+title: "Psalms 43 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "43"
+description: "In this chapter: David endeavours to still his spirit, with hope and confidence in God. (1-5)."
 weight: 43
 ---
 

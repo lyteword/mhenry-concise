@@ -1,4 +1,7 @@
 ---
+title: "Psalms 7 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "7"
+description: "In this chapter: The psalmist prays to God to plead his cause, and judge for him. (1–9). He expresses confidence in God, and will give him the glory of his deliverance. (10–17)."
 weight: 7
 ---
 

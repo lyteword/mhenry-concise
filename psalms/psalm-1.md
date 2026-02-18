@@ -1,4 +1,7 @@
 ---
+title: "Psalms 1 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "1"
+description: "In this chapter: The holiness and happiness of a godly man. (1–3). The sinfulness and misery of a wicked man, The ground and reason of both. (4–6)."
 weight: 1
 ---
 

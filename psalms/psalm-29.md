@@ -1,4 +1,7 @@
 ---
+title: "Psalms 29 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "29"
+description: "In this chapter: Exhortation to give glory to God. (1-11)."
 weight: 29
 ---
 

@@ -1,4 +1,7 @@
 ---
+title: "Psalms 46 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "46"
+description: "In this chapter: Confidence in God. (1–5). An exhortation to behold it. (6–11)."
 weight: 46
 ---
 

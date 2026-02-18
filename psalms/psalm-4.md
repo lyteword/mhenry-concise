@@ -1,4 +1,7 @@
 ---
+title: "Psalms 4 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "4"
+description: "In this chapter: The children of men proved, and the happiness of godly people. (1–5). God's favour is happiness. (6–8)."
 weight: 4
 ---
 

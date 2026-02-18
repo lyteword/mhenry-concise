@@ -1,4 +1,7 @@
 ---
+title: "Psalms 95 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "95"
+description: "In this chapter: part. An exhortation to praise God. (1–7). A warning not to tempt Him. (7–11)."
 weight: 95
 ---
 

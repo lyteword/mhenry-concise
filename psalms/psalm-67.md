@@ -1,4 +1,7 @@
 ---
+title: "Psalms 67 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "67"
+description: "In this chapter: A prayer for the enlargement of Christ's kingdom. (1-7)."
 weight: 67
 ---
 

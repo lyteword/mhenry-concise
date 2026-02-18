@@ -1,4 +1,7 @@
 ---
+title: "Psalms 148 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "148"
+description: "In this chapter: The creatures placed in the upper world called on to praise the Lord. (1–6). Also the creatures of this lower world, especially his own people. (7–14)."
 weight: 148
 ---
 

@@ -1,4 +1,7 @@
 ---
+title: "Psalms 130 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "130"
+description: "In this chapter: The psalmist's hope in prayer. (1–4). His patience in hope. (5–8)."
 weight: 130
 ---
 

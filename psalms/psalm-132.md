@@ -1,4 +1,7 @@
 ---
+title: "Psalms 132 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "132"
+description: "In this chapter: David's care for the ark. (1–10). The promises of God. (11–18)."
 weight: 132
 ---
 

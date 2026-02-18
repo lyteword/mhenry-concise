@@ -1,4 +1,7 @@
 ---
+title: "Psalms 106 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "106"
+description: "In this chapter: The happiness of God's people. (1–5). Israel's sins. (6–12). Their provocations. (13–33). Their rebellions in Canaan. (34–46). Prayer for more complete deliverance. (47, 48)."
 weight: 106
 ---
 

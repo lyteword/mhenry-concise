@@ -1,4 +1,7 @@
 ---
+title: "Psalms 60 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "60"
+description: "In this chapter: David prays for the deliverance of Israel from their enemies. (1–5). He entreats God to carry on and complete their victories. (6–12)."
 weight: 60
 ---
 

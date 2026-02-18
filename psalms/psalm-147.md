@@ -1,4 +1,7 @@
 ---
+title: "Psalms 147 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "147"
+description: "In this chapter: The people of God are exhorted to praise him for his mercies and care. (1–11). For the salvation and prosperity of the church. (12–20)."
 weight: 147
 ---
 

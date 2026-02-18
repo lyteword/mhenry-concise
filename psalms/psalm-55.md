@@ -1,4 +1,7 @@
 ---
+title: "Psalms 55 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "55"
+description: "In this chapter: Prayer to God to manifest his favour. (1–8). The great wickedness and treachery of his enemies. (9–15). He is sure that God would in due time appear for him. (16–23)."
 weight: 55
 ---
 

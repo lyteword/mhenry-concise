@@ -1,4 +1,7 @@
 ---
+title: "Psalms 5 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "5"
+description: "In this chapter: God will certainly hear prayer: David gives to God the glory, and takes to himself the comfort. (1–6). He prayed for himself, that God would guide him, and for all the Lord's people, that God would give them joy, and keep them safe. (7–12)."
 weight: 5
 ---
 

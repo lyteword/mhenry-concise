@@ -1,4 +1,7 @@
 ---
+title: "Psalms 54 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "54"
+description: "In this chapter: David complains of the malice of his enemies. (1–3). Assurance of the Divine favour and protection. (4–7)."
 weight: 54
 ---
 

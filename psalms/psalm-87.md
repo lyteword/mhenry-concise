@@ -1,4 +1,7 @@
 ---
+title: "Psalms 87 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "87"
+description: "In this chapter: The glory of the church. (1–3). It is filled with the Divine blessing. (4–7)."
 weight: 87
 ---
 

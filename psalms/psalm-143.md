@@ -1,4 +1,7 @@
 ---
+title: "Psalms 143 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "143"
+description: "In this chapter: David complains of his enemies and distresses. (1–6). He prays for comfort, guidance, and deliverance. (7–12)."
 weight: 143
 ---
 

@@ -1,4 +1,7 @@
 ---
+title: "Psalms 149 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "149"
+description: "In this chapter: Joy to all the people of God. (1–5). Terror to their enemies. (6–9)."
 weight: 149
 ---
 

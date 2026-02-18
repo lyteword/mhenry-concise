@@ -1,4 +1,7 @@
 ---
+title: "Psalms 135 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "135"
+description: "In this chapter: God to be praised for his mercy. (1–4). For his power and judgments. (5–14). The vanity of idols. (15–21)."
 weight: 135
 ---
 

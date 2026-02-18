@@ -1,4 +1,7 @@
 ---
+title: "Psalms 137 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "137"
+description: "In this chapter: The Jews bewail their captivity. (1–4). Their affection for Jerusalem. (5–9)."
 weight: 137
 ---
 

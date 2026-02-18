@@ -1,4 +1,7 @@
 ---
+title: "Psalms 66 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "66"
+description: "In this chapter: Praise for God's sovereign power in the creation. (1–7). For his favour to his church. (8–12). And the psalmist's praise for his experience of God's goodness. (13–20)."
 weight: 66
 ---
 

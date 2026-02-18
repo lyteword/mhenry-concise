@@ -1,4 +1,7 @@
 ---
+title: "Psalms 86 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "86"
+description: "In this chapter: The psalmist pleads his earnestness, and the mercy of God, as reasons why his prayer should be heard. (1–7). He renews his requests for help and comfort. (8–17)."
 weight: 86
 ---
 

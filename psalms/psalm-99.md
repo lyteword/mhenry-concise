@@ -1,4 +1,7 @@
 ---
+title: "Psalms 99 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "99"
+description: "In this chapter: The happy government God's people are under. (1–5). Its happy administration. (6–9)."
 weight: 99
 ---
 
