@@ -1,8 +1,11 @@
 ---
+title: "2 Corinthians 1 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "1"
+description: "In this chapter: The apostle blesses God for comfort in, and deliverance out of troubles. (1–11). He professes his own and his fellow-labourers' integrity. (12–14). Gives reasons for his not coming to them. (15–24)."
 weight: 1
 ---
 
-# Chapter 1
+# 2 Corinthians 1 
 
 ## Chapter Outline
 

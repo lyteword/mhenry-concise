@@ -1,8 +1,11 @@
 ---
+title: "Titus 2 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "2"
+description: "In this chapter: The duties which become sound doctrine. (1–8). Believing servants must be obedient. (9, 10). All is enforced from the holy design of the gospel, which concerns all believers. (11–15)."
 weight: 2
 ---
 
-# Chapter 2
+# Titus 2 
 
 ## Chapter Outline
 

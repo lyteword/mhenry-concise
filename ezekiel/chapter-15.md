@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 15 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "15"
+description: "In this chapter: Jerusalem like an unfruitful vine. (1-8)."
 weight: 15
 ---
 
-# Chapter 15
+# Ezekiel 15 
 
 ## Chapter Outline
 

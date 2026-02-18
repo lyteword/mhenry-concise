@@ -1,8 +1,11 @@
 ---
+title: "Matthew 22 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "22"
+description: "In this chapter: The parable of the marriage feast. (1–14). The Pharisees question Jesus as to the tribute. (15–22). The question of the Sadducees as to the resurrection. (23–33). The substance of the commandments. (34–40). Jesus questions the Pharisees. (41–46)."
 weight: 22
 ---
 
-# Chapter 22
+# Matthew 22 
 
 ## Chapter Outline
 

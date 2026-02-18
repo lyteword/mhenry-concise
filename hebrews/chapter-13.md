@@ -1,8 +1,11 @@
 ---
+title: "Hebrews 13 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "13"
+description: "In this chapter: Exhortations to various duties, and to be content with what Providence allots. (1–6). To respect the instructions of faithful pastors, with cautions against being carried away by strange doctrines. (7–15). Further exhortations to duties, that relate to God, to our neighbour, and to those set over us in the Lord. (16–21). This epistle to be seriously considered. (22–25)."
 weight: 13
 ---
 
-# Chapter 13
+# Hebrews 13 
 
 ## Chapter Outline
 

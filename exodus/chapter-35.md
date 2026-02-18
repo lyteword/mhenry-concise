@@ -1,8 +1,11 @@
 ---
+title: "Exodus 35 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "35"
+description: "In this chapter: The sabbath to be observed. (1–3). The free gifts for the tabernacle. (4–19). The readiness of the people in general. (20–29). Bezaleel and Aholiab called to the work. (30–35)."
 weight: 35
 ---
 
-# Chapter 35
+# Exodus 35 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "Philippians 1 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "1"
+description: "In this chapter: The apostle offers up thanksgivings and prayers, for the good work of grace in the Philippians. (1–7). He expresses affection, and prays for them. (8–11). Fortifies them against being cast down at his sufferings. (12–20). He stood prepared for glorifying Christ by life, or death. (21–26). Exhortations to zeal, and constancy in professing the gospel. (27–30)."
 weight: 1
 ---
 
-# Chapter 1
+# Philippians 1 
 
 ## Chapter Outline
 

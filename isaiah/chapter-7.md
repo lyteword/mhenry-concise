@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 7 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "7"
+description: "In this chapter: Ahaz threatened by Israel and Syria; and is assured their attack would be in vain. (1-9). God gives a sure sign by the promise of the long-expected Messiah. (10-16). The folly and sin of seeking relief from Assyria are reproved. (17-25)."
 weight: 7
 ---
 
-# Chapter 7
+# Isaiah 7 
 
 ## Chapter Outline
 

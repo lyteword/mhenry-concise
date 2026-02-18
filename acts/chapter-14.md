@@ -1,8 +1,11 @@
 ---
+title: "Acts 14 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "14"
+description: "In this chapter: Paul and Barnabas at Iconium. (1–7). A cripple healed at Lystra, The people would have sacrificed to Paul and Barnabas. (8–18). Paul stoned at Lystra, The churches visited again. (19–28)."
 weight: 14
 ---
 
-# Chapter 14
+# Acts 14 
 
 ## Chapter Outline
 

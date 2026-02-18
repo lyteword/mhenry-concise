@@ -1,8 +1,11 @@
 ---
+title: "Daniel 2 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "2"
+description: "In this chapter: Nebuchadnezzar's dream. (1-13). It is revealed to Daniel. (14-23). He obtains admission to the king. (24-30). The dream and the interpretation. (31-45). Honours to Daniel and his friends. (46-49)."
 weight: 2
 ---
 
-# Chapter 2
+# Daniel 2 
 
 ## Chapter Outline
 

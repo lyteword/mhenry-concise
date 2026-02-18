@@ -1,8 +1,11 @@
 ---
+title: "Galatians 5 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "5"
+description: "In this chapter: An earnest exhortation to stand fast in the liberty of the gospel. (1–12). To take heed of indulging a sinful temper. (13–15). And to walk in the Spirit, and not to fulfil the lusts of the flesh: the works of both are described. (16–26)."
 weight: 5
 ---
 
-# Chapter 5
+# Galatians 5 
 
 ## Chapter Outline
 

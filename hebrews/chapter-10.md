@@ -1,8 +1,11 @@
 ---
+title: "Hebrews 10 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "10"
+description: "In this chapter: The insufficiency of sacrifices for taking away sin, The necessity and power of the sacrifice of Christ for that purpose. (1–18). An argument for holy boldness in the believer's access to God through Jesus Christ, And for steadfastness in faith, and mutual love and duty. (19–25). The danger of apostacy. (26–31). The sufferings of believers, and encouragement to maintain their holy profession. (32–39)."
 weight: 10
 ---
 
-# Chapter 10
+# Hebrews 10 
 
 ## Chapter Outline
 

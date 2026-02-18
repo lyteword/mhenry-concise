@@ -1,8 +1,11 @@
 ---
+title: "1 Corinthians 10 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "10"
+description: "In this chapter: The great privileges, and yet terrible overthrow of the Israelites in the wilderness. (1–5). Cautions against all idolatrous, and other sinful practices. (6–14). The partaking in idolatry cannot exist with having communion with Christ. (15–22). All we do to be to the glory of God, and without offence to the consciences of others. (23–33)."
 weight: 10
 ---
 
-# Chapter 10
+# 1 Corinthians 10 
 
 ## Chapter Outline
 

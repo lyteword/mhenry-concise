@@ -1,8 +1,11 @@
 ---
+title: "Colossians 3 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "3"
+description: "In this chapter: The Colossians exhorted to be heavenly-minded; (1–4). to mortify all corrupt affections; (5–11). to live in mutual love, forbearance, and forgiveness; (12–17). and to practise the duties of wives and husbands, children, parents, and servants. (18–25)."
 weight: 3
 ---
 
-# Chapter 3
+# Colossians 3 
 
 ## Chapter Outline
 

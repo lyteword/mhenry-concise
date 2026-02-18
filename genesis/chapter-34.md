@@ -1,8 +1,11 @@
 ---
+title: "Genesis 34 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "34"
+description: "In this chapter: Dinah defiled by Shechem. (1–19). The Shechemites murdered by Simeon and Levi. (20–31)."
 weight: 34
 ---
 
-# Chapter 34
+# Genesis 34 
 
 ## Chapter Outline
 

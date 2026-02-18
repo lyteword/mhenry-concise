@@ -1,8 +1,11 @@
 ---
+title: "Job 22 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "22"
+description: "In this chapter: Eliphaz shows that a man's goodness profits not God. (1–4). Job accused of oppression. (5–14). The world before the flood. (15–20). Eliphaz exhorts Job to repentance. (21–30)."
 weight: 22
 ---
 
-# Chapter 22
+# Job 22 
 
 ## Chapter Outline
 

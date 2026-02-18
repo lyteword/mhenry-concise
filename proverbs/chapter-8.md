@@ -1,8 +1,11 @@
 ---
+title: "Proverbs 8 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "8"
+description: "In this chapter: Christ, as Wisdom, calls to the sons of men. (1–11). The nature and riches of Wisdom. (12–21). Christ one with the Father, in the creation of the world, and rejoicing in his work for the salvation of man. (22–31). Exhortations to hear Christ's word. (32–36)."
 weight: 8
 ---
 
-# Chapter 8
+# Proverbs 8 
 
 ## Chapter Outline
 

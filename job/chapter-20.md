@@ -1,8 +1,11 @@
 ---
+title: "Job 20 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "20"
+description: "In this chapter: Zophar speaks of the short joy of the wicked. (1–9). The ruin of the wicked. (10–22). The portion of the wicked. (23–29)."
 weight: 20
 ---
 
-# Chapter 20
+# Job 20 
 
 ## Chapter Outline
 

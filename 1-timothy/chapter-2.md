@@ -1,8 +1,11 @@
 ---
+title: "1 Timothy 2 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "2"
+description: "In this chapter: Prayer to be made for all persons, since the grace of the gospel makes no difference of ranks or stations. (1–7). How men and women ought to behave, both in their religious and common life. (8–15)."
 weight: 2
 ---
 
-# Chapter 2
+# 1 Timothy 2 
 
 ## Chapter Outline
 

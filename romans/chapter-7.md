@@ -1,8 +1,11 @@
 ---
+title: "Romans 7 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "7"
+description: "In this chapter: Believers are united to Christ, that they may bring forth fruit unto God. (1–6). The use and excellence of the law. (7–13). The spiritual conflicts between corruption and grace in a believer. (14–25)."
 weight: 7
 ---
 
-# Chapter 7
+# Romans 7 
 
 ## Chapter Outline
 

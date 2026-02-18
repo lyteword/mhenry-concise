@@ -1,8 +1,11 @@
 ---
+title: "Matthew 27 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "27"
+description: "In this chapter: Christ delivered to Pilate, The despair of Judas. (1–10). Christ before Pilate. (11–25). Barabbas loosed, Christ mocked. (26–30). Christ led to be crucified. (31–34). He is crucified. (35–44). The death of Christ. (45–50). Events at the crucifixion. (51–56). The burial of Christ. (57–61). The sepulchre secured. (62–66)."
 weight: 27
 ---
 
-# Chapter 27
+# Matthew 27 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "Ezra 9 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "9"
+description: "In this chapter: Ezra mourns for the Jews' conduct. (1–4). Ezra's confession of sins. (5–15)."
 weight: 9
 ---
 
-# Chapter 9
+# Ezra 9 
 
 ## Chapter Outline
 

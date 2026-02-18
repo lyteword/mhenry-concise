@@ -1,8 +1,11 @@
 ---
+title: "Joshua 19 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "19"
+description: "In this chapter: The lot of Simeon. (1–9). The lot of Zebulun. (10–16). The lot of Issachar, Asher, Naphtali, and Dan. (17–51)."
 weight: 19
 ---
 
-# Chapter 19
+# Joshua 19 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 14 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "14"
+description: "In this chapter: The Israelites to distinguish themselves from other nations. (1–21). Respecting the application of tithes. (22–29)."
 weight: 14
 ---
 
-# Chapter 14
+# Deuteronomy 14 
 
 ## Chapter Outline
 

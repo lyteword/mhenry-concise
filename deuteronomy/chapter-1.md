@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 1 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "1"
+description: "In this chapter: The words Moses spake to Israel in the plains of Moab, The promise of Canaan. (1–8). Judges provided for the people. (9–18). Of the sending the spies—God's anger for their unbelief and disobedience. (19–46)."
 weight: 1
 ---
 
-# Chapter 1
+# Deuteronomy 1 
 
 ## Chapter Outline
 

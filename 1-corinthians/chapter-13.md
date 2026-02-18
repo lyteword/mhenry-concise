@@ -1,8 +1,11 @@
 ---
+title: "1 Corinthians 13 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "13"
+description: "In this chapter: The necessity and advantage of the grace of love. (1–3). Its excellency represented by its properties and effects; (4–7). and by its abiding, and its superiority. (8–13)."
 weight: 13
 ---
 
-# Chapter 13
+# 1 Corinthians 13 
 
 ## Chapter Outline
 

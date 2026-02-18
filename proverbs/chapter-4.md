@@ -1,8 +1,11 @@
 ---
+title: "Proverbs 4 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "4"
+description: "In this chapter: Exhortation to the study of wisdom. (1–13). Cautions against bad company, Exhortation to faith and holiness. (14–27)."
 weight: 4
 ---
 
-# Chapter 4
+# Proverbs 4 
 
 ## Chapter Outline
 

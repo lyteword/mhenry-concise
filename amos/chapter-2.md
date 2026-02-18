@@ -1,8 +1,11 @@
 ---
+title: "Amos 2 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "2"
+description: "In this chapter: Judgments against Moab and Judah. (1–8). The ingratitude and ruin of Israel. (9–16)."
 weight: 2
 ---
 
-# Chapter 2
+# Amos 2 
 
 ## Chapter Outline
 

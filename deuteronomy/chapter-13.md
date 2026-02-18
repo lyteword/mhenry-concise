@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 13 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "13"
+description: "In this chapter: Enticers to idolatry to be put to death. (1–5). Relations who entice to idolatry not to be spared. (6–11). Idolatrous cities not to be spared. (12–18)."
 weight: 13
 ---
 
-# Chapter 13
+# Deuteronomy 13 
 
 ## Chapter Outline
 

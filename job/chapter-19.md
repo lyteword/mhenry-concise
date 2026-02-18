@@ -1,8 +1,11 @@
 ---
+title: "Job 19 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "19"
+description: "In this chapter: Job complains of unkind usage. (1–7). God was the Author of his afflictions. (8–22). Job's belief in the resurrection. (23–29)."
 weight: 19
 ---
 
-# Chapter 19
+# Job 19 
 
 ## Chapter Outline
 

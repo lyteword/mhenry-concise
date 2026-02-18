@@ -1,8 +1,11 @@
 ---
+title: "Job 29 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "29"
+description: "In this chapter: Job's former comforts. (1–6). The honour paid to Job, His usefulness. (7–17). His prospect of prosperity. (18–25)."
 weight: 29
 ---
 
-# Chapter 29
+# Job 29 
 
 ## Chapter Outline
 

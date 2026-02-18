@@ -1,8 +1,11 @@
 ---
+title: "2 Kings 24 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "24"
+description: "In this chapter: Jehoiakim subdued by Nebuchadnezzar. (1–7). Jehoiachim captive in Babylon. (8–20)."
 weight: 24
 ---
 
-# Chapter 24
+# 2 Kings 24 
 
 ## Chapter Outline
 

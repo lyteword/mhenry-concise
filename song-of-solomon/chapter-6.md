@@ -1,8 +1,11 @@
 ---
+title: "Song Of Solomon 6 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "6"
+description: "In this chapter: Inquiry where Christ must be sought. (1) . Where Christ may be found. (2,3) . Christ's commendations of the church. (4-10) . The work of grace in the believer. (11-13)."
 weight: 6
 ---
 
-# Chapter 6
+# Song Of Solomon 6 
 
 ## Chapter Outline
 

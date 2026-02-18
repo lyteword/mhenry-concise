@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 25 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "25"
+description: "In this chapter: Judgments against the Ammonites. (1-7). Against the Moabites, Edomites, and Philistines. (8-17)."
 weight: 25
 ---
 
-# Chapter 25
+# Ezekiel 25 
 
 ## Chapter Outline
 

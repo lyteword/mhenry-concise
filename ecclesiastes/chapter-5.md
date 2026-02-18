@@ -1,8 +1,11 @@
 ---
+title: "Ecclesiastes 5 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "5"
+description: "In this chapter: What renders devotion vain. (1-3). Of vows, and oppression. (4-8). the vanity of riches shown. (9-7). The right use of riches. (18-20)."
 weight: 5
 ---
 
-# Chapter 5
+# Ecclesiastes 5 
 
 ## Chapter Outline
 

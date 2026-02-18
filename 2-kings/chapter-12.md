@@ -1,8 +1,11 @@
 ---
+title: "2 Kings 12 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "12"
+description: "In this chapter: Jehoash orders the repair of the temple. (1–16). He is slain by his servants. (17–21)."
 weight: 12
 ---
 
-# Chapter 12
+# 2 Kings 12 
 
 ## Chapter Outline
 

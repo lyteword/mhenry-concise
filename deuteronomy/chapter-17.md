@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 17 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "17"
+description: "In this chapter: All sacrifices to be perfect, Idolaters must be slain. (1–7). Difficult controversies. (8–13). The choice of a king, His duties. (14–20)."
 weight: 17
 ---
 
-# Chapter 17
+# Deuteronomy 17 
 
 ## Chapter Outline
 

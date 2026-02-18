@@ -1,8 +1,11 @@
 ---
+title: "Proverbs 3 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "3"
+description: "In this chapter: Exhortations to obedience and faith. (1–6). To piety, and to improve afflictions. (7–12). To gain wisdom. (13–20). Guidance of Wisdom. (21–26). The wicked and the upright. (27–35)."
 weight: 3
 ---
 
-# Chapter 3
+# Proverbs 3 
 
 ## Chapter Outline
 

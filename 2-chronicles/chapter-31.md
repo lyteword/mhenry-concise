@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 31 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "31"
+description: "In this chapter: Hezekiah destroys idolatry. (1-21)."
 weight: 31
 ---
 
-# Chapter 31
+# 2 Chronicles 31 
 
 ## Chapter Outline
 

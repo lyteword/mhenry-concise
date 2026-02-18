@@ -1,8 +1,11 @@
 ---
+title: "Ecclesiastes 3 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "3"
+description: "In this chapter: The changes of human affairs. (1-10). The Divine counsels unchangeable. (11-15). The vanity of worldly power. (16-22)."
 weight: 3
 ---
 
-# Chapter 3
+# Ecclesiastes 3 
 
 ## Chapter Outline
 

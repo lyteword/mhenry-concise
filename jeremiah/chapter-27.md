@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 27 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "27"
+description: "In this chapter: The neighbouring nations to be subdued. (1-11). Zedekiah is warned to yield. (12-18). The vessels of the temple to be carried to Babylon, but afterwards to be restored. (19-22)."
 weight: 27
 ---
 
-# Chapter 27
+# Jeremiah 27 
 
 ## Chapter Outline
 

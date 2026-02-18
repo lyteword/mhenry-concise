@@ -1,8 +1,11 @@
 ---
+title: "Proverbs 5 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "5"
+description: "In this chapter: Exhortations to wisdom. The evils of licentiousness. (1–14). Remedies against licentiousness, The miserable end of the wicked. (15–23)."
 weight: 5
 ---
 
-# Chapter 5
+# Proverbs 5 
 
 ## Chapter Outline
 

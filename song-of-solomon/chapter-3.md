@@ -1,8 +1,11 @@
 ---
+title: "Song Of Solomon 3 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "3"
+description: "In this chapter: The trials of the church by the withdrawing of Christ. (1-5) . The excellences of the church, The care of Christ for her. (6-11)."
 weight: 3
 ---
 
-# Chapter 3
+# Song Of Solomon 3 
 
 ## Chapter Outline
 

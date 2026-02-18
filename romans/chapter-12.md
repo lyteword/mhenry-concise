@@ -1,8 +1,11 @@
 ---
+title: "Romans 12 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "12"
+description: "In this chapter: Believers are to dedicate themselves to God. (1, 2). To be humble, and faithfully to use their spiritual gifts, in their respective stations. (3–8). Exhortations to various duties. (9–16). And to peaceable conduct towards all men, with forbearance and benevolence. (17–21)."
 weight: 12
 ---
 
-# Chapter 12
+# Romans 12 
 
 ## Chapter Outline
 

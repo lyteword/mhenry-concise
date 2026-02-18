@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 15 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "15"
+description: "In this chapter: Saul sent to destroy Amalek. (1–9). Saul excuses and commends himself. (10–23). Saul's imperfect humiliation. (24–31). Agag put to death, Samuel and Saul part. (32–35)."
 weight: 15
 ---
 
-# Chapter 15
+# 1 Samuel 15 
 
 ## Chapter Outline
 

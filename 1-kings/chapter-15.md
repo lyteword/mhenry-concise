@@ -1,8 +1,11 @@
 ---
+title: "1 Kings 15 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "15"
+description: "In this chapter: Wicked reign of Abijam, king of Judah. (1–8). Good reign of Asa, king of Judah. (9–24). The evil reigns of Nadab and Baasha in Israel. (25–34)."
 weight: 15
 ---
 
-# Chapter 15
+# 1 Kings 15 
 
 ## Chapter Outline
 

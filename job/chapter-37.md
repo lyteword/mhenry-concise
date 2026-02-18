@@ -1,8 +1,11 @@
 ---
+title: "Job 37 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "37"
+description: "In this chapter: Elihu observes the power of God. (1–13). Job required to explain the works of nature. (14–20). God is great, and is to be feared. (21–24)."
 weight: 37
 ---
 
-# Chapter 37
+# Job 37 
 
 ## Chapter Outline
 

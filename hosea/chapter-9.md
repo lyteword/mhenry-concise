@@ -1,8 +1,11 @@
 ---
+title: "Hosea 9 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "9"
+description: "In this chapter: The distress to come upon Israel. (1-6). The approach of the day of trouble. (7-10). Judgments on Israel. (11-17)."
 weight: 9
 ---
 
-# Chapter 9
+# Hosea 9 
 
 ## Chapter Outline
 

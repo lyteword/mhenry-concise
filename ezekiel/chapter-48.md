@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 48 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "48"
+description: "In this chapter: The Vision of the Temple. (1-35)."
 weight: 48
 ---
 
-# Chapter 48
+# Ezekiel 48 
 
 ## Chapter Outline
 

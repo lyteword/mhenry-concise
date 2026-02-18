@@ -1,8 +1,11 @@
 ---
+title: "Titus 1 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "1"
+description: "In this chapter: The apostle salutes Titus. (1–4). The qualifications of a faithful pastor. (5–9). The evil temper and practices of false teachers. (10–16)."
 weight: 1
 ---
 
-# Chapter 1
+# Titus 1 
 
 ## Chapter Outline
 

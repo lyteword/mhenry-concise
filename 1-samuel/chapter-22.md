@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 22 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "22"
+description: "In this chapter: David at Adullam, Many resort to him. (1–5). Saul destroys the priests of Nob. (6–19). Abiathar escapes to David. (20–23)."
 weight: 22
 ---
 
-# Chapter 22
+# 1 Samuel 22 
 
 ## Chapter Outline
 

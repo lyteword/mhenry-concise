@@ -1,8 +1,11 @@
 ---
+title: "Matthew 24 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "24"
+description: "In this chapter: Christ foretells the destruction of the temple. (1–3). The troubles before the destruction of Jerusalem. (4–28). Christ foretells other signs and miseries, to the end of the world. (29–41). Exhortations to watchfulness. (42–51)."
 weight: 24
 ---
 
-# Chapter 24
+# Matthew 24 
 
 ## Chapter Outline
 

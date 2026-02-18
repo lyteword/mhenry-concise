@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 3 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "3"
+description: "In this chapter: The preparation of the prophet for his work. (1-11). His office, as that of a watchman. (12-21). The restraining and restoring his speech. (22-27)."
 weight: 3
 ---
 
-# Chapter 3
+# Ezekiel 3 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "Genesis 50 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "50"
+description: "In this chapter: The mourning for Jacob. (1–6). His funeral. (7–14). Joseph's brethren crave his pardon, He comforts them. (15–21). Joseph's direction concerning his bones, His death. (22–26)."
 weight: 50
 ---
 
-# Chapter 50
+# Genesis 50 
 
 ## Chapter Outline
 

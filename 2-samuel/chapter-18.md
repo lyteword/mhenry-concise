@@ -1,8 +1,11 @@
 ---
+title: "2 Samuel 18 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "18"
+description: "In this chapter: Absalom's army defeated. (1–8). He is slain. (9–18). David's over-sorrow. (19–33)."
 weight: 18
 ---
 
-# Chapter 18
+# 2 Samuel 18 
 
 ## Chapter Outline
 

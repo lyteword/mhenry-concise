@@ -1,8 +1,11 @@
 ---
+title: "Hosea 4 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "4"
+description: "In this chapter: God's judgments against the sins of the people. (1-5). and of the priests. (6-11). Idolatry is reproved, and Judah is admonished. (12-19)."
 weight: 4
 ---
 
-# Chapter 4
+# Hosea 4 
 
 ## Chapter Outline
 

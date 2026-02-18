@@ -1,8 +1,11 @@
 ---
+title: "Song Of Solomon 2 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "2"
+description: "In this chapter: The mutual love of Christ and his church. (1-7) . The hope and calling of the church. (8-13) . Christ's care of the church, Her faith and hope. (14-17)."
 weight: 2
 ---
 
-# Chapter 2
+# Song Of Solomon 2 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 25 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "25"
+description: "In this chapter: Amaziah, king of Judah. (1–13). Amaziah worships the idols of Edom. (14–16). Amaziah's rash challenge. (17–28)."
 weight: 25
 ---
 
-# Chapter 25
+# 2 Chronicles 25 
 
 ## Chapter Outline
 

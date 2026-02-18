@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 32 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "32"
+description: "In this chapter: The fall of Egypt. (1-16). It is like that of other nations. (17-32)."
 weight: 32
 ---
 
-# Chapter 32
+# Ezekiel 32 
 
 ## Chapter Outline
 

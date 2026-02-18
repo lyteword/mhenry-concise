@@ -1,8 +1,11 @@
 ---
+title: "Luke 7 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "7"
+description: "In this chapter: The centurion's servant healed. (1–10). The widow's son raised. (11–18). John the Baptist's inquiry concerning Jesus. (19–35). Christ anointed in the house of the Pharisee, The parable of the two debtors. (36–50)."
 weight: 7
 ---
 
-# Chapter 7
+# Luke 7 
 
 ## Chapter Outline
 

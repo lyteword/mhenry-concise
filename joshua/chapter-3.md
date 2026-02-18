@@ -1,8 +1,11 @@
 ---
+title: "Joshua 3 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "3"
+description: "In this chapter: The Israelites come to Jordan. (1–6). The Lord encourages joshua—Joshua encourages the people. (7–13). The Israelites pass through Jordan on dry land. (14–17)."
 weight: 3
 ---
 
-# Chapter 3
+# Joshua 3 
 
 ## Chapter Outline
 

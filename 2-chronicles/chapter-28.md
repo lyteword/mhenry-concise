@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 28 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "28"
+description: "In this chapter: The wicked reign of Ahaz in Judah. (1-27)."
 weight: 28
 ---
 
-# Chapter 28
+# 2 Chronicles 28 
 
 ## Chapter Outline
 

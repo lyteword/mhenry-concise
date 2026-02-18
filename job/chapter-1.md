@@ -1,8 +1,11 @@
 ---
+title: "Job 1 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "1"
+description: "In this chapter: The piety and prosperity of Job. (1–5). Satan obtains leave to try Job. (6–12). The loss of Job's property, and the death of his children. (13–19). Job's patience and piety. (20–22)."
 weight: 1
 ---
 
-# Chapter 1
+# Job 1 
 
 ## Chapter Outline
 

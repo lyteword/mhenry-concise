@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 28 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "28"
+description: "In this chapter: The desolations of Samaria. (1-4). The prosperity of Judah; with reproofs for sinfulness and unbelief. (5-15). Christ is pointed out as the sure Foundation for all believers. (16-22). God's dealings with his people. (23-29)."
 weight: 28
 ---
 
-# Chapter 28
+# Isaiah 28 
 
 ## Chapter Outline
 

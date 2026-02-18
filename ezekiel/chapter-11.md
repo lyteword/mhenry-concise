@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 11 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "11"
+description: "In this chapter: Divine judgments against the wicked at Jerusalem. (1-13). Divine favour towards those in captivity. (14-21). The Divine presence forsakes the city. (22-25)."
 weight: 11
 ---
 
-# Chapter 11
+# Ezekiel 11 
 
 ## Chapter Outline
 

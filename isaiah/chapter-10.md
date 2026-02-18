@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 10 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "10"
+description: "In this chapter: Woes against proud oppressors. (1-4). The Assyrian but an instrument in the hand of God for the punishment of his people. (5-19). The deliverance from him. (20-34)."
 weight: 10
 ---
 
-# Chapter 10
+# Isaiah 10 
 
 ## Chapter Outline
 

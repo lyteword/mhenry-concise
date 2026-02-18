@@ -1,8 +1,11 @@
 ---
+title: "Judges 8 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "8"
+description: "In this chapter: Gideon pacifies the Ephraimites. (1–3). Succoth and Penuel refuse to relieve Gideon. (4–12). Succoth and Penuel punished. (13–17). Gideon avenges his brethren. (18–21). Gideon declines the government, but given occasion for idolatry. (22–28). Gideon's death, Israel's ingratitude. (29–35)."
 weight: 8
 ---
 
-# Chapter 8
+# Judges 8 
 
 ## Chapter Outline
 

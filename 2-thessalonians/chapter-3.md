@@ -1,8 +1,11 @@
 ---
+title: "2 Thessalonians 3 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "3"
+description: "In this chapter: The apostle expresses confidence in the Thessalonians, and prays for them. (1–5). He charges them to withdraw from disorderly walkers, particularly from the lazy and busybodies. (6–15). And concludes with a prayer for them, and a greeting. (16–18)."
 weight: 3
 ---
 
-# Chapter 3
+# 2 Thessalonians 3 
 
 ## Chapter Outline
 

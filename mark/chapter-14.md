@@ -1,8 +1,11 @@
 ---
+title: "Mark 14 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "14"
+description: "In this chapter: Christ anointed at Bethany. (1–11). The passover, Jesus declares that Judas would betray him. (12–21). The Lord's supper instituted. (22–31). Christ's agony in the garden. (32–42). He is betrayed and taken. (43–52). Christ before the high priest. (53–65). Peter denies Christ. (66–72)."
 weight: 14
 ---
 
-# Chapter 14
+# Mark 14 
 
 ## Chapter Outline
 

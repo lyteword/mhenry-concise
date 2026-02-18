@@ -1,8 +1,11 @@
 ---
+title: "Acts 8 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "8"
+description: "In this chapter: Saul persecutes the church. (1–4). Philip's success at Samaria. Simon the sorcerer baptized. (5–13). The hypocrisy of Simon detected. (14–25). Philip and the Ethiopian. (26–40)."
 weight: 8
 ---
 
-# Chapter 8
+# Acts 8 
 
 ## Chapter Outline
 

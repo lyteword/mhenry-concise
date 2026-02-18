@@ -1,8 +1,11 @@
 ---
+title: "Joshua 18 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "18"
+description: "In this chapter: The tabernacle set up at Shiloh. (1). The remainder of the land described and divided. (2–10). The boundaries of Benjamin. (11–28)."
 weight: 18
 ---
 
-# Chapter 18
+# Joshua 18 
 
 ## Chapter Outline
 

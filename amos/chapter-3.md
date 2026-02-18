@@ -1,8 +1,11 @@
 ---
+title: "Amos 3 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "3"
+description: "In this chapter: Judgments against Israel. (1–8). The like to other nations. (9–15)."
 weight: 3
 ---
 
-# Chapter 3
+# Amos 3 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 11 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "11"
+description: "In this chapter: The peaceful character of Christ's kingdom and subjects. (1-9). The conversion of the Gentiles and Jews. (10-16)."
 weight: 11
 ---
 
-# Chapter 11
+# Isaiah 11 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "Ezra 4 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "4"
+description: "In this chapter: The adversaries of the temple. (1–5). The building of the temple is hindered. (6–24)."
 weight: 4
 ---
 
-# Chapter 4
+# Ezra 4 
 
 ## Chapter Outline
 

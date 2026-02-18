@@ -1,8 +1,11 @@
 ---
+title: "Luke 19 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "19"
+description: "In this chapter: The conversion of Zaccheus. (1–10). The parable of the nobleman and his servants. (11–27). Christ enters Jerusalem. (28–40). Christ laments over Jerusalem. (41–48)."
 weight: 19
 ---
 
-# Chapter 19
+# Luke 19 
 
 ## Chapter Outline
 

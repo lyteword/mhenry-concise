@@ -1,8 +1,11 @@
 ---
+title: "Judges 21 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "21"
+description: "In this chapter: The Israelites lament for the Benjamites. (1-25)."
 weight: 21
 ---
 
-# Chapter 21
+# Judges 21 
 
 ## Chapter Outline
 

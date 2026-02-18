@@ -1,8 +1,11 @@
 ---
+title: "Job 41 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "41"
+description: "In this chapter: Concerning Leviathan. (1-34)."
 weight: 41
 ---
 
-# Chapter 41
+# Job 41 
 
 ## Chapter Outline
 

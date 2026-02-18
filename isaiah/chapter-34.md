@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 34 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "34"
+description: "In this chapter: God's vengeance against the enemies of his church. (1-8). Their desolation. (9-17)."
 weight: 34
 ---
 
-# Chapter 34
+# Isaiah 34 
 
 ## Chapter Outline
 

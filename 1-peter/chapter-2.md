@@ -1,8 +1,11 @@
 ---
+title: "1 Peter 2 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "2"
+description: "In this chapter: A temper suitable to the Christian character as born again, is recommended. (1–10). Holy conversation among the Gentiles directed. (11, 12). Subjects exhorted to pay all proper obedience to their civil governors. (13–17). Also servants to their masters, and all to be patient, according to the example of the suffering Saviour. (18–25)."
 weight: 2
 ---
 
-# Chapter 2
+# 1 Peter 2 
 
 ## Chapter Outline
 

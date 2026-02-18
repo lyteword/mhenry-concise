@@ -1,8 +1,11 @@
 ---
+title: "2 Kings 11 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "11"
+description: "In this chapter: Athaliah usurps the government of Judah, Jehoash made king. (1–12). Athaliah put to death. (13–16). The worship of the Lord restored. (17–21)."
 weight: 11
 ---
 
-# Chapter 11
+# 2 Kings 11 
 
 ## Chapter Outline
 

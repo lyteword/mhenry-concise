@@ -1,8 +1,11 @@
 ---
+title: "Job 23 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "23"
+description: "In this chapter: Job complains that God has withdrawn. (1–7). He asserts his own integrity. (8–12). The Divine terrors. (13–17)."
 weight: 23
 ---
 
-# Chapter 23
+# Job 23 
 
 ## Chapter Outline
 

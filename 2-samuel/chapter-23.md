@@ -1,8 +1,11 @@
 ---
+title: "2 Samuel 23 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "23"
+description: "In this chapter: David's last words. (1–7). David's mighty men. (8–39)."
 weight: 23
 ---
 
-# Chapter 23
+# 2 Samuel 23 
 
 ## Chapter Outline
 

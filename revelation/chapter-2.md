@@ -1,8 +1,11 @@
 ---
+title: "Revelation 2 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "2"
+description: "In this chapter: Epistles to the churches in Asia, with warnings and encouragements, To the church at Ephesus; (1–7). at Smyrna; (8–11). at Pergamos; (12–17). and at Thyatira. (18–29)."
 weight: 2
 ---
 
-# Chapter 2
+# Revelation 2 
 
 ## Chapter Outline
 

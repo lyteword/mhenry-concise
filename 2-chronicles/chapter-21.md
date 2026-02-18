@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 21 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "21"
+description: "In this chapter: The wicked reign of Jehoram. (1–11). Jehoram's miserable end. (12–20)."
 weight: 21
 ---
 
-# Chapter 21
+# 2 Chronicles 21 
 
 ## Chapter Outline
 

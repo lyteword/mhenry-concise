@@ -1,8 +1,11 @@
 ---
+title: "Nehemiah 3 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "3"
+description: "In this chapter: The rebuilding the walls of Jerusalem. (1-32)."
 weight: 3
 ---
 
-# Chapter 3
+# Nehemiah 3 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 3 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "3"
+description: "In this chapter: The peace-offering of the herd. (1–5). The peace-offering of the flock. (6–17)."
 weight: 3
 ---
 
-# Chapter 3
+# Leviticus 3 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "2 Kings 16 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "16"
+description: "In this chapter: Ahaz, king of Judah, His wicked reign. (1–9). Ahaz takes a pattern from an idol's altar. (10–16). Ahaz spoils the temple. (17–20)."
 weight: 16
 ---
 
-# Chapter 16
+# 2 Kings 16 
 
 ## Chapter Outline
 

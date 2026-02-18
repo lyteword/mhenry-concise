@@ -1,8 +1,11 @@
 ---
+title: "Ephesians 3 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "3"
+description: "In this chapter: The apostle sets forth his office, and his qualifications for it, and his call to it. (1–7). Also the noble purposes answered by it. (8–12). He prays for the Ephesians. (13–19). And adds a thanksgiving. (20, 21)."
 weight: 3
 ---
 
-# Chapter 3
+# Ephesians 3 
 
 ## Chapter Outline
 

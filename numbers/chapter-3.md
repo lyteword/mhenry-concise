@@ -1,8 +1,11 @@
 ---
+title: "Numbers 3 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "3"
+description: "In this chapter: The sons of Aaron, The Levites taken instead of the first-born. (1–13). The Levites numbered by their families, Their duties. (14–39). The first-born are numbered. (40–51)."
 weight: 3
 ---
 
-# Chapter 3
+# Numbers 3 
 
 ## Chapter Outline
 

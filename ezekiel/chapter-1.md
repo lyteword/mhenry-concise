@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 1 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "1"
+description: "In this chapter: Ezekiel's vision of God, and of the angelic host. (1-14). The conduct of Divine Providence. (15-25). A revelation of the Son of man upon his heavenly throne. (26-28)."
 weight: 1
 ---
 
-# Chapter 1
+# Ezekiel 1 
 
 ## Chapter Outline
 

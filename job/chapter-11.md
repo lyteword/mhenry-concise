@@ -1,8 +1,11 @@
 ---
+title: "Job 11 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "11"
+description: "In this chapter: Zophar reproves Job. (1–6). God's perfections and almighty power. (7–12). Zophar assures Job of blessings if he repented. (13–20)."
 weight: 11
 ---
 
-# Chapter 11
+# Job 11 
 
 ## Chapter Outline
 

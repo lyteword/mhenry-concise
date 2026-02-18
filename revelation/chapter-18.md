@@ -1,8 +1,11 @@
 ---
+title: "Revelation 18 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "18"
+description: "In this chapter: Another angel from heaven proclaims the fall of mystical Babylon. (1–3). A voice from heaven admonishes the people of God, lest they partake of her plagues. (4–8). The lamentations over her. (9–19). The church called upon to rejoice in her utter ruin. (20–24)."
 weight: 18
 ---
 
-# Chapter 18
+# Revelation 18 
 
 ## Chapter Outline
 

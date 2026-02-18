@@ -1,8 +1,11 @@
 ---
+title: "Exodus 19 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "19"
+description: "In this chapter: The people come to Sinai, God's message to them, and their answer. (1–8). The people directed to prepare to hear the law. (9–15). The presence of God on Sinai. (16–25)."
 weight: 19
 ---
 
-# Chapter 19
+# Exodus 19 
 
 ## Chapter Outline
 

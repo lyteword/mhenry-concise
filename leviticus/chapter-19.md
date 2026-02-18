@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 19 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "19"
+description: "In this chapter: Laws. (1-37)."
 weight: 19
 ---
 
-# Chapter 19
+# Leviticus 19 
 
 ## Chapter Outline
 

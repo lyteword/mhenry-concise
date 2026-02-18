@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 43 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "43"
+description: "In this chapter: The Vision of the Temple. (1-27)."
 weight: 43
 ---
 
-# Chapter 43
+# Ezekiel 43 
 
 ## Chapter Outline
 

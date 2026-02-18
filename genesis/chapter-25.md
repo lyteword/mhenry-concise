@@ -1,8 +1,11 @@
 ---
+title: "Genesis 25 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "25"
+description: "In this chapter: Abraham's family by Keturah, His death and burial. (1–10). God blesses Isaac, The descendants of Ishmael. (11–18). The birth of Esau and Jacob. (19–26). The different characters of Esau and Jacob. (27, 28). Esau despises and sells his birth-right. (29–34)."
 weight: 25
 ---
 
-# Chapter 25
+# Genesis 25 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 24 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "24"
+description: "In this chapter: Joash, of Judah, The temple repaired. (1–14). Joash falls into idolatry, He is slain by his servants. (15–27)."
 weight: 24
 ---
 
-# Chapter 24
+# 2 Chronicles 24 
 
 ## Chapter Outline
 

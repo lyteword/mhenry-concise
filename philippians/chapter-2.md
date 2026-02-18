@@ -1,8 +1,11 @@
 ---
+title: "Philippians 2 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "2"
+description: "In this chapter: Exhortations to a kind, humble spirit and behaviour. (1–4). The example of Christ. (5–11). Diligence in the affairs of salvation, and to be examples to the world. (12–18). The apostle's purpose of visiting Philippi. (19–30)."
 weight: 2
 ---
 
-# Chapter 2
+# Philippians 2 
 
 ## Chapter Outline
 

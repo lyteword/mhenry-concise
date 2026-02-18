@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 27 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "27"
+description: "In this chapter: The merchandise of Tyre. (1-25). Its fall and ruin. (26-36)."
 weight: 27
 ---
 
-# Chapter 27
+# Ezekiel 27 
 
 ## Chapter Outline
 

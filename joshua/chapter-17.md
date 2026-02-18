@@ -1,8 +1,11 @@
 ---
+title: "Joshua 17 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "17"
+description: "In this chapter: The lot of Manasseh. (1–6). The boundaries of Manasseh, The Canaanites not driven out. (7–13). Joseph desires a larger portion. (14–18)."
 weight: 17
 ---
 
-# Chapter 17
+# Joshua 17 
 
 ## Chapter Outline
 

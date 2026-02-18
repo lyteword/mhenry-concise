@@ -1,8 +1,11 @@
 ---
+title: "Exodus 30 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "30"
+description: "In this chapter: The altar of incense. (1–10). The ransom of souls. (11–16). The brazen laver. (17–21). The holy anointing oil, The perfume. (22–38)."
 weight: 30
 ---
 
-# Chapter 30
+# Exodus 30 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "Numbers 16 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "16"
+description: "In this chapter: The rebellion of Korah, Dathan, and Abiram Korah contends for the priesthood. (1–11). Disobedience of Dathan and Abiram. (12–15). The glory of the Lord appears, The intercession of Moses and Aaron. (16–22). The earth swallows up Dathan and Abiram. (23–34). The company of Korah consumed. (35–40). The people murmur A plague sent. (41–50)."
 weight: 16
 ---
 
-# Chapter 16
+# Numbers 16 
 
 ## Chapter Outline
 

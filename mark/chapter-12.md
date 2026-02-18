@@ -1,8 +1,11 @@
 ---
+title: "Mark 12 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "12"
+description: "In this chapter: The parable of the vineyard and husbandmen. (1–12). Question about tribute. (13–17). Concerning the resurrection. (18–27). The great command of the law. (28–34). Christ the Son and yet the Lord of David. (35–40). The poor widow commended. (41–44)."
 weight: 12
 ---
 
-# Chapter 12
+# Mark 12 
 
 ## Chapter Outline
 

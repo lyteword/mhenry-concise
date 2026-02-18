@@ -1,8 +1,11 @@
 ---
+title: "Joshua 22 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "22"
+description: "In this chapter: Reuben and Gad, with the half tribe of Manasseh, dismissed to their homes. (1–9). They build an altar of testimony, The congregation offended thereat. (10–20). The answer of the Reubenites. (21–29). The children of Israel satisfied. (30–34)."
 weight: 22
 ---
 
-# Chapter 22
+# Joshua 22 
 
 ## Chapter Outline
 

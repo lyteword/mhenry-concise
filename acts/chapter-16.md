@@ -1,8 +1,11 @@
 ---
+title: "Acts 16 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "16"
+description: "In this chapter: Paul takes Timothy to be his assistant. (1–5). Paul proceeds to Macedonia, The conversion of Lydia. (6–15). An evil spirit cast out, Paul and Silas scourged and imprisoned. (16–24). The conversion of the jailer at Philippi. (25–34). Paul and Silas released. (35–40)."
 weight: 16
 ---
 
-# Chapter 16
+# Acts 16 
 
 ## Chapter Outline
 

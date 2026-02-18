@@ -1,8 +1,11 @@
 ---
+title: "Zechariah 1 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "1"
+description: "In this chapter: An exhortation to repentance. (1–6). A vision of the ministry of angels. (7–17). The security of the Jews and the destruction of their enemies. (18–21)."
 weight: 1
 ---
 
-# Chapter 1
+# Zechariah 1 
 
 ## Chapter Outline
 

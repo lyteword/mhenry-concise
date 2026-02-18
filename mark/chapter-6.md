@@ -1,8 +1,11 @@
 ---
+title: "Mark 6 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "6"
+description: "In this chapter: Christ despised in his own country. (1–6). The apostles sent forth. (7–13). John the Baptist put to death. (14–29). The apostles return, Five thousand fed by a miracle. (30–44). Christ walks on the sea, He heals those that touch him. (45–56)."
 weight: 6
 ---
 
-# Chapter 6
+# Mark 6 
 
 ## Chapter Outline
 

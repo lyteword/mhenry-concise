@@ -1,8 +1,11 @@
 ---
+title: "Exodus 12 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "12"
+description: "In this chapter: The beginning of the year changed, The passover instituted. (1–20). The people instructed how to observe the passover. (21–28). The death of the first-born of the Egyptians, The Israelites urged to leave the land of Egypt. (29–36). The Israelites' first journey to Succoth. (37–42). Ordinance respecting the passover. (43–51)."
 weight: 12
 ---
 
-# Chapter 12
+# Exodus 12 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 65 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "65"
+description: "In this chapter: The calling of the Gentiles, and the rejection of the Jews. (1-7). The Lord would preserve a remnant. (8-10). Judgments upon the wicked. (11-16). The future happy and flourishing state of the church. (17-25)."
 weight: 65
 ---
 
-# Chapter 65
+# Isaiah 65 
 
 ## Chapter Outline
 

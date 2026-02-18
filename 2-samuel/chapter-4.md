@@ -1,8 +1,11 @@
 ---
+title: "2 Samuel 4 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "4"
+description: "In this chapter: Ishbosheth murdered. (1–7). David puts to death the murderers. (8–12)."
 weight: 4
 ---
 
-# Chapter 4
+# 2 Samuel 4 
 
 ## Chapter Outline
 

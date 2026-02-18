@@ -1,8 +1,11 @@
 ---
+title: "Luke 1 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "1"
+description: "In this chapter: The Preface. (1–4). Zacharias and Elisabeth. (5–25). Christ's birth announced. (26–38). Interview of Mary and Elisabeth. (39–56). The birth of John the Baptist. (57–66). The song of Zacharias. (67–80)."
 weight: 1
 ---
 
-# Chapter 1
+# Luke 1 
 
 ## Chapter Outline
 

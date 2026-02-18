@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 26 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "26"
+description: "In this chapter: A prophecy against Tyre. (1-21)."
 weight: 26
 ---
 
-# Chapter 26
+# Ezekiel 26 
 
 ## Chapter Outline
 

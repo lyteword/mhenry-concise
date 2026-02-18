@@ -1,8 +1,11 @@
 ---
+title: "Job 28 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "28"
+description: "In this chapter: Concerning wordly wealth. (1–11). Wisdom is of inestimable value. (12–19). Wisdom is the gift of God. (20–28)."
 weight: 28
 ---
 
-# Chapter 28
+# Job 28 
 
 ## Chapter Outline
 

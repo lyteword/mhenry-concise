@@ -1,8 +1,11 @@
 ---
+title: "Esther 1 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "1"
+description: "In this chapter: The royal feast of Ahasuerus. (1–9). Vashti's refusal to appear, The king's decree. (10–22)."
 weight: 1
 ---
 
-# Chapter 1
+# Esther 1 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "John 15 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "15"
+description: "In this chapter: Christ the true Vine. (1–8). His love to his disciples. (9–17). foretold. (18–25). The Comforter promised. (26, 27)."
 weight: 15
 ---
 
-# Chapter 15
+# John 15 
 
 ## Chapter Outline
 

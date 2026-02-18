@@ -1,8 +1,11 @@
 ---
+title: "Numbers 29 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "29"
+description: "In this chapter: The offering at the feats of trumpets, and on the day of atonement. (1–11). Offerings at the feast of tabernacles. (12–40)."
 weight: 29
 ---
 
-# Chapter 29
+# Numbers 29 
 
 ## Chapter Outline
 

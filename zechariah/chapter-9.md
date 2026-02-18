@@ -1,8 +1,11 @@
 ---
+title: "Zechariah 9 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "9"
+description: "In this chapter: God's defence of his church. (1–8). Christ's coming and his kingdom. (9–11). Promises to the church. (12–17)."
 weight: 9
 ---
 
-# Chapter 9
+# Zechariah 9 
 
 ## Chapter Outline
 

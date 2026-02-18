@@ -1,8 +1,11 @@
 ---
+title: "Acts 15 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "15"
+description: "In this chapter: The dispute raised by Judaizing teachers. (1–6). The council at Jerusalem. (7–21). The letter from the council. (22–35). Paul and Barnabas separate. (36–41)."
 weight: 15
 ---
 
-# Chapter 15
+# Acts 15 
 
 ## Chapter Outline
 

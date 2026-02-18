@@ -1,8 +1,11 @@
 ---
+title: "Colossians 4 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "4"
+description: "In this chapter: Masters to do their duty towards servants. (1). Persons of all ranks to persevere in prayer, and Christian prudence. (2–6). The apostle refers to others for an account of his affairs. (7–9). Sends greetings; and concludes with a blessing. (10–18)."
 weight: 4
 ---
 
-# Chapter 4
+# Colossians 4 
 
 ## Chapter Outline
 

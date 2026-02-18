@@ -1,8 +1,11 @@
 ---
+title: "Luke 15 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "15"
+description: "In this chapter: Parables of the lost sheep, and the piece of silver. (1–10). The prodigal son, his wickedness and distress. (11–16). His repentance and pardon. (17–24). The elder brother offended. (25–32)."
 weight: 15
 ---
 
-# Chapter 15
+# Luke 15 
 
 ## Chapter Outline
 

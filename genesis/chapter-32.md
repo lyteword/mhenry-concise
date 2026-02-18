@@ -1,8 +1,11 @@
 ---
+title: "Genesis 32 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "32"
+description: "In this chapter: Jacob's vision at Mahanaim, His fear of Esau. (1–8). Jacob's earnest prayer for deliverance, He prepares a present for Esau. (9–23). He wrestles with the Angel. (24–32)."
 weight: 32
 ---
 
-# Chapter 32
+# Genesis 32 
 
 ## Chapter Outline
 

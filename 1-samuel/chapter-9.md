@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 9 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "9"
+description: "In this chapter: Saul is brought to Samuel. (1–10). Samuel told concerning Saul. (11–17). Samuel's treatment of Saul. (18–27)."
 weight: 9
 ---
 
-# Chapter 9
+# 1 Samuel 9 
 
 ## Chapter Outline
 

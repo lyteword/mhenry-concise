@@ -1,8 +1,11 @@
 ---
+title: "Genesis 6 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "6"
+description: "In this chapter: The wickedness of the world which provoked God's wrath. (1–7). Noah finds grace. (8–11). Noah warned of the flood, The directions respecting the ark. (12–21). Noah's faith and obedience. (22)."
 weight: 6
 ---
 
-# Chapter 6
+# Genesis 6 
 
 ## Chapter Outline
 

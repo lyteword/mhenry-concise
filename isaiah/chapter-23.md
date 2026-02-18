@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 23 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "23"
+description: "In this chapter: The overthrow of Tyre. (1-14). It is established again. (15-18)."
 weight: 23
 ---
 
-# Chapter 23
+# Isaiah 23 
 
 ## Chapter Outline
 

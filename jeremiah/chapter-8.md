@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 8 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "8"
+description: "In this chapter: The remains of the dead exposed. (1-3). The stupidity of the people, compared with the instinct of the brute creation. (4-13). The alarm of the invasion, and lamentation. (14-22)."
 weight: 8
 ---
 
-# Chapter 8
+# Jeremiah 8 
 
 ## Chapter Outline
 

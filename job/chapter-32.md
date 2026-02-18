@@ -1,8 +1,11 @@
 ---
+title: "Job 32 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "32"
+description: "In this chapter: Elihu is displeased at the dispute between Job and his friends. (1–5). He reproves them. (6–14). He speaks without partiality. (15–22)."
 weight: 32
 ---
 
-# Chapter 32
+# Job 32 
 
 ## Chapter Outline
 

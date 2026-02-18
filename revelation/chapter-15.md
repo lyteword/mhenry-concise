@@ -1,8 +1,11 @@
 ---
+title: "Revelation 15 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "15"
+description: "In this chapter: A song of praise is sung by the church. (1–4). Seven angels with the seven plagues; and to them one of the living creatures gives seven golden vials full of the wrath of God. (5–8)."
 weight: 15
 ---
 
-# Chapter 15
+# Revelation 15 
 
 ## Chapter Outline
 

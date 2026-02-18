@@ -1,8 +1,11 @@
 ---
+title: "Daniel 8 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "8"
+description: "In this chapter: Daniel's vision of the ram and the he-goat. (1-14). The interpretation of it. (15-27)."
 weight: 8
 ---
 
-# Chapter 8
+# Daniel 8 
 
 ## Chapter Outline
 

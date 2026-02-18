@@ -1,8 +1,11 @@
 ---
+title: "2 Corinthians 12 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "12"
+description: "In this chapter: The apostle's revelations. (1–6). Which were improved to his spiritual advantage. (7–10). The signs of an apostle were in him, His purpose of making them a visit; but he expresses his fear lest he should have to be severe with some. (11–21)."
 weight: 12
 ---
 
-# Chapter 12
+# 2 Corinthians 12 
 
 ## Chapter Outline
 

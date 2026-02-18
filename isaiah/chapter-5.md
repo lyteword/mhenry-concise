@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 5 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "5"
+description: "In this chapter: The state and conduct of the Jewish nation. (1-7). The judgments which would come. (8-23). The executioners of these judgments. (24-30)."
 weight: 5
 ---
 
-# Chapter 5
+# Isaiah 5 
 
 ## Chapter Outline
 

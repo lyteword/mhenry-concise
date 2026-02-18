@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 34 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "34"
+description: "In this chapter: Josiah's good reign in Judah. (1-33)."
 weight: 34
 ---
 
-# Chapter 34
+# 2 Chronicles 34 
 
 ## Chapter Outline
 

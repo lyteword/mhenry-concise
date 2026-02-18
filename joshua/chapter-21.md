@@ -1,8 +1,11 @@
 ---
+title: "Joshua 21 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "21"
+description: "In this chapter: Cities for the Levites. (1–8). The cities allotted to the Levites. (9–42). God gave the land and rest to the Israelites, according to his promise. (43–45)."
 weight: 21
 ---
 
-# Chapter 21
+# Joshua 21 
 
 ## Chapter Outline
 

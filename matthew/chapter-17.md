@@ -1,8 +1,11 @@
 ---
+title: "Matthew 17 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "17"
+description: "In this chapter: The transfiguration of Christ. (1–13). Jesus casts out a dumb and deaf spirit. (14–21). He again foretells his sufferings. (22, 23). He works a miracle to pay the tribute money. (24–27)."
 weight: 17
 ---
 
-# Chapter 17
+# Matthew 17 
 
 ## Chapter Outline
 

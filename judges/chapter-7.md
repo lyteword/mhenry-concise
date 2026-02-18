@@ -1,8 +1,11 @@
 ---
+title: "Judges 7 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "7"
+description: "In this chapter: Gideon's army reduced. (1–8). Gideon is encouraged. (9–15). The defeat of the Midianites. (16–22). The Ephraimites take Oreb and Zeeb. (23–25)."
 weight: 7
 ---
 
-# Chapter 7
+# Judges 7 
 
 ## Chapter Outline
 

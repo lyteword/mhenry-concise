@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 30 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "30"
+description: "In this chapter: The Jews reproved for seeking aid from Egypt. (1-7). Judgements in consequence of their contempt of God's word. (8-18). God's mercies to his church. (19-26). The ruin of the Assyrian army, and of all God's enemies. (27-33)."
 weight: 30
 ---
 
-# Chapter 30
+# Isaiah 30 
 
 ## Chapter Outline
 

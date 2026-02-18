@@ -1,8 +1,11 @@
 ---
+title: "Hosea 11 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "11"
+description: "In this chapter: God's regard for Israel; their ingratitude. (1-7). The Divine mercy yet in store. (8-12)."
 weight: 11
 ---
 
-# Chapter 11
+# Hosea 11 
 
 ## Chapter Outline
 

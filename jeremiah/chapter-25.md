@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 25 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "25"
+description: "In this chapter: The Jews rebuked for not obeying calls to repentance. (1-7). Their captivity during seventy years is expressly foretold. (8-14). Desolations upon the nations shown by the emblem of a cup of wrath. (15-29). The judgments again declared. (30-38)."
 weight: 25
 ---
 
-# Chapter 25
+# Jeremiah 25 
 
 ## Chapter Outline
 

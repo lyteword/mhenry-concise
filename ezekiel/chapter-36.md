@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 36 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "36"
+description: "In this chapter: The land shall be delivered from heathen oppressors. (1-15). The people are reminded of former sins, and promised deliverance. (16-24). Also holiness, and gospel blessings. (25-38)."
 weight: 36
 ---
 
-# Chapter 36
+# Ezekiel 36 
 
 ## Chapter Outline
 

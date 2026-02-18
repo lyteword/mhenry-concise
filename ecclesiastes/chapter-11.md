@@ -1,8 +1,11 @@
 ---
+title: "Ecclesiastes 11 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "11"
+description: "In this chapter: Exhortation to liberality. (1-6). An admonition to prepare for death, and to young persons to be religious. (7-10)."
 weight: 11
 ---
 
-# Chapter 11
+# Ecclesiastes 11 
 
 ## Chapter Outline
 

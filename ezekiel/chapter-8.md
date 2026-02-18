@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 8 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "8"
+description: "In this chapter: The idolatries committed by the Jewish rulers. (1-6). The superstitions to which the Jews were then devoted, the Egyptian. (7-12). The Phoenician. (13,14). The Persian. (15,16) . The heinousness of their sin. (17,18)."
 weight: 8
 ---
 
-# Chapter 8
+# Ezekiel 8 
 
 ## Chapter Outline
 

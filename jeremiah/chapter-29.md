@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 29 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "29"
+description: "In this chapter: Two letters to the captives in Babylon; In the first, they are recommended to be patient and composed. (1-19). In the second, judgments are denounced against the false prophets who deceived them. (20-32)."
 weight: 29
 ---
 
-# Chapter 29
+# Jeremiah 29 
 
 ## Chapter Outline
 

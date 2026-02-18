@@ -1,8 +1,11 @@
 ---
+title: "Mark 13 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "13"
+description: "In this chapter: The destruction of the temple foretold. (1–4). Christ's prophetic declaration. (5–13). Christ's prophecy. (14–23). His prophetic declarations. (24–27). Watchfulness urged. (28–37)."
 weight: 13
 ---
 
-# Chapter 13
+# Mark 13 
 
 ## Chapter Outline
 

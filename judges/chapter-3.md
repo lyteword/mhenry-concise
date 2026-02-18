@@ -1,8 +1,11 @@
 ---
+title: "Judges 3 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "3"
+description: "In this chapter: The nations left to prove Israel. (1–7). Othniel delivers Israel. (8–11). Ehud delivers Israel from Eglon. (12–30). Shamgar delivers and judges Israel. (31)."
 weight: 3
 ---
 
-# Chapter 3
+# Judges 3 
 
 ## Chapter Outline
 

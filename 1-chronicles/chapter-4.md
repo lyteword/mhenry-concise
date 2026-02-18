@@ -1,8 +1,11 @@
 ---
+title: "1 Chronicles 4 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "4"
+description: "In this chapter: Genealogies. (1-43)."
 weight: 4
 ---
 
-# Chapter 4
+# 1 Chronicles 4 
 
 ## Chapter Outline
 

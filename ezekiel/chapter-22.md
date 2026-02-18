@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 22 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "22"
+description: "In this chapter: The sins of Jerusalem. (1-16). Israel is condemned as dross. (17-22). As the corruption is general, so shall be the punishment. (23-31)."
 weight: 22
 ---
 
-# Chapter 22
+# Ezekiel 22 
 
 ## Chapter Outline
 

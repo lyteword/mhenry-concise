@@ -1,8 +1,11 @@
 ---
+title: "Judges 6 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "6"
+description: "In this chapter: Israel oppressed by Midianites. (1–6). Israel rebuked by a prophet. (7–10). Gideon set to deliver Israel. (11–24). Gideon destroys Baal's altar. (25–32). Signs given him. (33–40)."
 weight: 6
 ---
 
-# Chapter 6
+# Judges 6 
 
 ## Chapter Outline
 

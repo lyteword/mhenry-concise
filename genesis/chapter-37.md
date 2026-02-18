@@ -1,8 +1,11 @@
 ---
+title: "Genesis 37 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "37"
+description: "In this chapter: Joseph is loved of Jacob, but hated by his brethren. (1–4). Joseph's dreams. (5–11). Jacob sends Joseph to visit his brethren, They conspire his death. (12–22). Joseph's brethren sell him. (23–10). Jacob deceived, Joseph sold to Potiphar. (31–36)."
 weight: 37
 ---
 
-# Chapter 37
+# Genesis 37 
 
 ## Chapter Outline
 

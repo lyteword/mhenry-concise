@@ -1,8 +1,11 @@
 ---
+title: "Exodus 20 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "20"
+description: "In this chapter: The preface to the ten commandments. (1, 2). The commandments of the first table. (3–11). Of the second table. (12–17). The fear of the people. (18–21). Idolatry again forbidden. (22–26)."
 weight: 20
 ---
 
-# Chapter 20
+# Exodus 20 
 
 ## Chapter Outline
 

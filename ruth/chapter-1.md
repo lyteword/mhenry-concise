@@ -1,8 +1,11 @@
 ---
+title: "Ruth 1 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "1"
+description: "In this chapter: Elimelech and his sons die in the land of Moab. (1–5). Naomi returns home. (6–14). Orpah stays behind, but Ruth goes with Naomi. (15–18). They come to Bethlehem. (19–22)."
 weight: 1
 ---
 
-# Chapter 1
+# Ruth 1 
 
 ## Chapter Outline
 

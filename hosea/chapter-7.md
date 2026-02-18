@@ -1,8 +1,11 @@
 ---
+title: "Hosea 7 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "7"
+description: "In this chapter: The manifold sins of Israel. (1-7). Their senselessness and hypocrisy. (8-16)."
 weight: 7
 ---
 
-# Chapter 7
+# Hosea 7 
 
 ## Chapter Outline
 

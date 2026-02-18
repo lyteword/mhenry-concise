@@ -1,8 +1,11 @@
 ---
+title: "Ecclesiastes 7 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "7"
+description: "In this chapter: The benefit of a good name; of death above life; of sorrow above vain mirth. (1-6). Concerning oppression, anger, and discontent. (7-10). Advantages of wisdom. (11-22). Experience of the evil of sin. (23-29)."
 weight: 7
 ---
 
-# Chapter 7
+# Ecclesiastes 7 
 
 ## Chapter Outline
 

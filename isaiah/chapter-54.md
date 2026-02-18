@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 54 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "54"
+description: "In this chapter: The increase of the church by the conversion of the Jews and Gentiles. (1-5). Its certain deliverance. (6-10). Its triumphant state is described. (11-17)."
 weight: 54
 ---
 
-# Chapter 54
+# Isaiah 54 
 
 ## Chapter Outline
 

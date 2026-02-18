@@ -1,8 +1,11 @@
 ---
+title: "Job 13 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "13"
+description: "In this chapter: Job reproves his friends. (1–12). He professes his confidence in God. (13–22). Job entreats to know his sins. (23–28)."
 weight: 13
 ---
 
-# Chapter 13
+# Job 13 
 
 ## Chapter Outline
 

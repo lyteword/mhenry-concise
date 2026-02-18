@@ -1,8 +1,11 @@
 ---
+title: "Acts 3 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "3"
+description: "In this chapter: A lame man healed by Peter and John. (1–11). Peter's address to the Jews. (12–26)."
 weight: 3
 ---
 
-# Chapter 3
+# Acts 3 
 
 ## Chapter Outline
 

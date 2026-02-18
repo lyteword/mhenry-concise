@@ -1,8 +1,11 @@
 ---
+title: "Acts 28 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "28"
+description: "In this chapter: Paul kindly received at Melita. (1–10). He arrives at Rome. (11–16). His conference with the Jews. (17–22). Paul preaches to the Jews, and abides at Rome a prisoner. (23–31)."
 weight: 28
 ---
 
-# Chapter 28
+# Acts 28 
 
 ## Chapter Outline
 

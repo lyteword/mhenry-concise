@@ -1,8 +1,11 @@
 ---
+title: "John 3 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "3"
+description: "In this chapter: Christ's discourse with Nicodemus. (1–21). The baptism of John of Christ John's testimony. (22–36)."
 weight: 3
 ---
 
-# Chapter 3
+# John 3 
 
 ## Chapter Outline
 

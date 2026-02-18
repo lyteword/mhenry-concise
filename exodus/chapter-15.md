@@ -1,8 +1,11 @@
 ---
+title: "Exodus 15 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "15"
+description: "In this chapter: The song of Moses for the deliverance of Israel. (1–21). The bitter waters at Marah, The Israelites come to Elim. (22–27)."
 weight: 15
 ---
 
-# Chapter 15
+# Exodus 15 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 41 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "41"
+description: "In this chapter: Ishmael murders Gedaliah. (1-10). Johanan recovers the captives, and purposes to retire to Egypt. (11-18)."
 weight: 41
 ---
 
-# Chapter 41
+# Jeremiah 41 
 
 ## Chapter Outline
 

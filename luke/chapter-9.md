@@ -1,8 +1,11 @@
 ---
+title: "Luke 9 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "9"
+description: "In this chapter: The apostles sent forth. (1–9). The multitude miraculously fed. (10–17). Peter's testimony to Christ, Self-denial enjoined. (18–27). The transfiguration. (28–36). An evil spirit cast out. (37–42). Christ checks the ambition of his disciples. (43–50). He reproves their mistaken zeal. (51–56). Every thing to be given up for Christ. (57–62)."
 weight: 9
 ---
 
-# Chapter 9
+# Luke 9 
 
 ## Chapter Outline
 

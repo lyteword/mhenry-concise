@@ -1,8 +1,11 @@
 ---
+title: "2 Kings 2 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "2"
+description: "In this chapter: Elijah divides Jordan. (1–8). Elijah is taken up into heaven. (9–12). Elisha is manifested to be Elijah's successor. (13–18). Elisha heals the waters of Jericho, Those that mocked Elisha destroyed. (19–25)."
 weight: 2
 ---
 
-# Chapter 2
+# 2 Kings 2 
 
 ## Chapter Outline
 

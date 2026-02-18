@@ -1,8 +1,11 @@
 ---
+title: "Judges 5 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "5"
+description: "In this chapter: Praise and glory ascribed to God. (1–5). The distress and deliverance of Israel. (6–11). Some commended, others censured. (12–23). Sisera's mother disappointed. (24–31)."
 weight: 5
 ---
 
-# Chapter 5
+# Judges 5 
 
 ## Chapter Outline
 

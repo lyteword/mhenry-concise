@@ -1,8 +1,11 @@
 ---
+title: "1 Timothy 1 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "1"
+description: "In this chapter: The apostle salutes Timothy. (1–4). The design of the law as given by Moses. (5–11). Of his own conversion and call to the apostleship. (12–17). The obligation to maintain faith and a good conscience. (18–20)."
 weight: 1
 ---
 
-# Chapter 1
+# 1 Timothy 1 
 
 ## Chapter Outline
 

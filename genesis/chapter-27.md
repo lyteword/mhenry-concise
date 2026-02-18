@@ -1,8 +1,11 @@
 ---
+title: "Genesis 27 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "27"
+description: "In this chapter: Isaac sends Esau for venison. (1–5). Rebekah teaches Jacob to obtain the blessing. (6–17). Jacob, pretending to be Esau, obtains the blessing. (18–29). Isaac's fear, Esau's importunity. (30–40). Esau threatens Jacob's life, Rebekah sends Jacob away. (41–46)."
 weight: 27
 ---
 
-# Chapter 27
+# Genesis 27 
 
 ## Chapter Outline
 

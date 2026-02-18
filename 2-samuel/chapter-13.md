@@ -1,8 +1,11 @@
 ---
+title: "2 Samuel 13 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "13"
+description: "In this chapter: Ammon's violence to his sister. (1–20). Absalom murders his brother Ammon. (21–29). David's grief, Absalom flees to Geshur. (30–39)."
 weight: 13
 ---
 
-# Chapter 13
+# 2 Samuel 13 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "1 Timothy 5 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "5"
+description: "In this chapter: Directions as to the elder and younger men and women. (1, 2). And as to poor widows. (3–8). Concerning widows. (9–16). The respect to be paid to elders. Timothy is to take care in rebuking offenders, in ordaining ministers, and as to his own health. (17–25)."
 weight: 5
 ---
 
-# Chapter 5
+# 1 Timothy 5 
 
 ## Chapter Outline
 

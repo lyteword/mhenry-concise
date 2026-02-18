@@ -1,8 +1,11 @@
 ---
+title: "Exodus 33 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "33"
+description: "In this chapter: The Lord refuses to go with Israel. (1–6). The tabernacle of Moses removed without the camp. (7–11). Moses desires to see the glory of God. (12–23)."
 weight: 33
 ---
 
-# Chapter 33
+# Exodus 33 
 
 ## Chapter Outline
 

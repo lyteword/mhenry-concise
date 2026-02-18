@@ -1,8 +1,11 @@
 ---
+title: "Joshua 7 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "7"
+description: "In this chapter: The Israelites smitten at Ai. (1–5). Joshua's humiliation and prayer. (6–9). God instructs Joshua what to do. (10–5). Achan is detected, He is destroyed. (16–26)."
 weight: 7
 ---
 
-# Chapter 7
+# Joshua 7 
 
 ## Chapter Outline
 

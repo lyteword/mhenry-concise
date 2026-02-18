@@ -1,8 +1,11 @@
 ---
+title: "1 Corinthians 1 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "1"
+description: "In this chapter: A salutation and thanksgiving. (1–9). Exhortation to brotherly love, and reproof for divisions. (10–16). The doctrine of a crucified Saviour, as advancing the glory of God, (17–25). and humbling the creature before him. (26–31)."
 weight: 1
 ---
 
-# Chapter 1
+# 1 Corinthians 1 
 
 ## Chapter Outline
 

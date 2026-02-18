@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 10 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "10"
+description: "In this chapter: Samuel anoints Saul. (1–8). Saul prophesies. (9–16). Saul chosen king. (17–27)."
 weight: 10
 ---
 
-# Chapter 10
+# 1 Samuel 10 
 
 ## Chapter Outline
 

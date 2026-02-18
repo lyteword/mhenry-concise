@@ -1,8 +1,11 @@
 ---
+title: "Numbers 9 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "9"
+description: "In this chapter: Of the Passover. (1–14). The removals of the Israelites. (15–23)."
 weight: 9
 ---
 
-# Chapter 9
+# Numbers 9 
 
 ## Chapter Outline
 

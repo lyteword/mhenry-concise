@@ -1,8 +1,11 @@
 ---
+title: "Job 9 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "9"
+description: "In this chapter: Job acknowledges God's justice. (1–13). He is not able to contend with God. (14–21). Men not to be judged by outward condition. (22–24). Job complains of troubles. (25–35)."
 weight: 9
 ---
 
-# Chapter 9
+# Job 9 
 
 ## Chapter Outline
 

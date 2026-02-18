@@ -1,8 +1,11 @@
 ---
+title: "1 Timothy 4 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "4"
+description: "In this chapter: Of departures from the faith that began already to appear. (1–5). Several directions, with motives for due discharge of duties. (6–16)."
 weight: 4
 ---
 
-# Chapter 4
+# 1 Timothy 4 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "Numbers 26 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "26"
+description: "In this chapter: Numbering of Israel in the plains of Moab. (1–51). The division of the land. (52–56). Number of the Levites. (57–62). None remaining of the first numbering. (63–65)."
 weight: 26
 ---
 
-# Chapter 26
+# Numbers 26 
 
 ## Chapter Outline
 

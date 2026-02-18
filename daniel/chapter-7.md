@@ -1,8 +1,11 @@
 ---
+title: "Daniel 7 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "7"
+description: "In this chapter: Daniel's vision of the four beasts. (1-8). and of Christ's kingdom. (9-14). The interpretation. (15-28)."
 weight: 7
 ---
 
-# Chapter 7
+# Daniel 7 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "Numbers 2 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "2"
+description: "In this chapter: The order of the tribes in their tents. (1-34)."
 weight: 2
 ---
 
-# Chapter 2
+# Numbers 2 
 
 ## Chapter Outline
 

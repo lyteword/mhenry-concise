@@ -1,8 +1,11 @@
 ---
+title: "2 Samuel 10 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "10"
+description: "In this chapter: David's messengers ill-treated by Hanun. (1–5). The Ammonites defeated. (6–14). The Syrians defeated. (15–19)."
 weight: 10
 ---
 
-# Chapter 10
+# 2 Samuel 10 
 
 ## Chapter Outline
 

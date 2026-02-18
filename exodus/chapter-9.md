@@ -1,8 +1,11 @@
 ---
+title: "Exodus 9 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "9"
+description: "In this chapter: The murrain of beasts. (1–7). The plague of boils and blains. (8–12). The plague of hail threatened. (13–21). The plague of hail inflicted. (22–35)."
 weight: 9
 ---
 
-# Chapter 9
+# Exodus 9 
 
 ## Chapter Outline
 

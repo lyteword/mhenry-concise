@@ -1,8 +1,11 @@
 ---
+title: "Exodus 29 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "29"
+description: "In this chapter: The sacrifice and ceremony for the consecration of the priests. (1–37). The continual burnt-offerings, God's promise to dwell among Israel. (38–46)."
 weight: 29
 ---
 
-# Chapter 29
+# Exodus 29 
 
 ## Chapter Outline
 

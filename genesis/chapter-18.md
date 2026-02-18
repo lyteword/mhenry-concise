@@ -1,8 +1,11 @@
 ---
+title: "Genesis 18 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "18"
+description: "In this chapter: The Lord appears to Abraham. (1–8). Sarah's unbelief reproved. (9–15). God reveals to Abraham the destruction of Sodom. (16–22). Abraham's intercession for Sodom. (23–33)."
 weight: 18
 ---
 
-# Chapter 18
+# Genesis 18 
 
 ## Chapter Outline
 

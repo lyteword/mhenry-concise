@@ -1,8 +1,11 @@
 ---
+title: "Hebrews 3 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "3"
+description: "In this chapter: The superior worth and dignity of Christ above Moses is shown. (1–6). The Hebrews are warned of the sin and danger of unbelief. (7–13). And of necessity of faith in Christ, and of stedfastly following him. (14–19)."
 weight: 3
 ---
 
-# Chapter 3
+# Hebrews 3 
 
 ## Chapter Outline
 

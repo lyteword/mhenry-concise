@@ -1,8 +1,11 @@
 ---
+title: "Proverbs 2 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "2"
+description: "In this chapter: Promises to those who seek wisdom. (1–9). The advantages of wisdom. (10–22)."
 weight: 2
 ---
 
-# Chapter 2
+# Proverbs 2 
 
 ## Chapter Outline
 

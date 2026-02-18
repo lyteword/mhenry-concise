@@ -1,8 +1,11 @@
 ---
+title: "2 Samuel 21 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "21"
+description: "In this chapter: The Gibeonites avenged. (1–9). Rizpah's care for the bodies of Saul's descendants. (10–14). Battles with the Philistines. (15–22)."
 weight: 21
 ---
 
-# Chapter 21
+# 2 Samuel 21 
 
 ## Chapter Outline
 

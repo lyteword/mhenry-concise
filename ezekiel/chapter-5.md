@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 5 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "5"
+description: "In this chapter: A type of hair, showing the judgments about to come upon the Jews. (1-4). These awful judgments are declared. (5-17)."
 weight: 5
 ---
 
-# Chapter 5
+# Ezekiel 5 
 
 ## Chapter Outline
 

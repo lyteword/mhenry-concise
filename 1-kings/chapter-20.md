@@ -1,8 +1,11 @@
 ---
+title: "1 Kings 20 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "20"
+description: "In this chapter: Benhadad besieges Samaria. (1–11). Benhadad's defeat. (12–21). The Syrians again defeated. (22–30). Ahab makes peace with Benhadad. (31–43)."
 weight: 20
 ---
 
-# Chapter 20
+# 1 Kings 20 
 
 ## Chapter Outline
 

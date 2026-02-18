@@ -1,8 +1,11 @@
 ---
+title: "Revelation 12 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "12"
+description: "In this chapter: A description of the church of Christ and of Satan, under the figures of a woman and of a great red dragon. (1–6). Michael and his angels fight against the devil and his angels, who are defeated. (7–12). The dragon persecutes the church. (13, 14). His vain endeavours to destroy her, He renews his war against her seed. (14–17)."
 weight: 12
 ---
 
-# Chapter 12
+# Revelation 12 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "1 Chronicles 10 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "10"
+description: "In this chapter: The death of Saul. (1-14)."
 weight: 10
 ---
 
-# Chapter 10
+# 1 Chronicles 10 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "Acts 22 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "22"
+description: "In this chapter: Paul's account of his conversion. (1–11). Paul directed to preach to the Gentiles. (12–21). The rage of the Jews Paul pleads that he is a Roman citizen. (22–30)."
 weight: 22
 ---
 
-# Chapter 22
+# Acts 22 
 
 ## Chapter Outline
 

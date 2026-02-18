@@ -1,8 +1,11 @@
 ---
+title: "Revelation 5 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "5"
+description: "In this chapter: A book sealed with seven seals, which could be opened by none but Christ, who took the book to open it. (1–7). Upon which all honour is ascribed to him, as worthy to open it. (8–14)."
 weight: 5
 ---
 
-# Chapter 5
+# Revelation 5 
 
 ## Chapter Outline
 

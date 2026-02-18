@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 23 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "23"
+description: "In this chapter: "
 weight: 23
 ---
 
-# Chapter 23
+# Ezekiel 23 
 
 ## Chapter Outline
 

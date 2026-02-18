@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 32 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "32"
+description: "In this chapter: The invasion of Sennacherib, His defeat. (1–23). Hezekiah's sickness, His prosperous reign, and death. (24–33)."
 weight: 32
 ---
 
-# Chapter 32
+# 2 Chronicles 32 
 
 ## Chapter Outline
 

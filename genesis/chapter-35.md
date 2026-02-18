@@ -1,8 +1,11 @@
 ---
+title: "Genesis 35 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "35"
+description: "In this chapter: God commands Jacob to go to Beth-el, He puts away idols from his family. (1–5). Jacob builds an altar, Death of Deborah, God blesses Jacob. (6–15). Death of Rachel. (16–20). Reuben's crime, The death of Isaac. (21–29)."
 weight: 35
 ---
 
-# Chapter 35
+# Genesis 35 
 
 ## Chapter Outline
 

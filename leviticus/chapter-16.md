@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 16 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "16"
+description: "In this chapter: The great day of atonement. (1–14). The sacrifices on it, The scape-goat. (15–34)."
 weight: 16
 ---
 
-# Chapter 16
+# Leviticus 16 
 
 ## Chapter Outline
 

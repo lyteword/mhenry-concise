@@ -1,8 +1,11 @@
 ---
+title: "Daniel 10 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "10"
+description: "In this chapter: Daniel's vision near the river Hiddekel. (1-9). He is to expect a discovery of future events. (10-21)."
 weight: 10
 ---
 
-# Chapter 10
+# Daniel 10 
 
 ## Chapter Outline
 

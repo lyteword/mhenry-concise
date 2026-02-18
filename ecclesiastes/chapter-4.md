@@ -1,8 +1,11 @@
 ---
+title: "Ecclesiastes 4 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "4"
+description: "In this chapter: Miseries from oppression. (1-3). troubles from envy. (4-6). The folly of covetousness. (7,8) . The advantages of mutual assistance. (9-12). the changes of royalty. (13-16)."
 weight: 4
 ---
 
-# Chapter 4
+# Ecclesiastes 4 
 
 ## Chapter Outline
 

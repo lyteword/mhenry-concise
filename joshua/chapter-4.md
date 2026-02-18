@@ -1,8 +1,11 @@
 ---
+title: "Joshua 4 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "4"
+description: "In this chapter: Stones taken out of Jordan. (1–9). The people pass through Jordan. (10–19). The twelve stones placed in Gilgal. (20–24)."
 weight: 4
 ---
 
-# Chapter 4
+# Joshua 4 
 
 ## Chapter Outline
 

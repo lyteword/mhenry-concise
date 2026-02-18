@@ -1,8 +1,11 @@
 ---
+title: "Acts 2 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "2"
+description: "In this chapter: The descent of the Holy Spirit at the day of Pentecost. (1–4). The apostles speak in divers languages. (5–13). Peter's address to the Jews. (14–36). Three thousand souls converted. (37–41). The piety and affection of the disciples. (42–47)."
 weight: 2
 ---
 
-# Chapter 2
+# Acts 2 
 
 ## Chapter Outline
 

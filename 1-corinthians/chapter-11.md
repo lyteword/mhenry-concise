@@ -1,8 +1,11 @@
 ---
+title: "1 Corinthians 11 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "11"
+description: "In this chapter: The apostle, after an exhortation to follow him, (1). corrects some abuses. (2–16). Also contentions, divisions, and disorderly celebrations of the Lord's supper. (17–22). He reminds them of the nature and design of its institution. (23–26). And directs how to attend upon it in a due manner. (27–34)."
 weight: 11
 ---
 
-# Chapter 11
+# 1 Corinthians 11 
 
 ## Chapter Outline
 

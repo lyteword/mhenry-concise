@@ -1,8 +1,11 @@
 ---
+title: "Romans 1 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "1"
+description: "In this chapter: The apostle's commission. (1–7). Prays for the saints at Rome, and expresses his desire to see them. (8–15). The gospel way of justification by faith, for Jews and Gentiles. (16, 17). The sins of the Gentiles set forth. (18–32)."
 weight: 1
 ---
 
-# Chapter 1
+# Romans 1 
 
 ## Chapter Outline
 

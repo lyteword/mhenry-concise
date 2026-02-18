@@ -1,8 +1,11 @@
 ---
+title: "Zechariah 2 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "2"
+description: "In this chapter: The prosperity of Jerusalem. (1–5). The Jews called to return to their own land. (6–9). A promise of God's presence. (10–13)."
 weight: 2
 ---
 
-# Chapter 2
+# Zechariah 2 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 14 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "14"
+description: "In this chapter: A drought upon the land of Judah. (1-7). A confession of sin in the name of the people. (8-9). The Divine purpose to punish is declared. (10-16). The people supplicate. (17-22)."
 weight: 14
 ---
 
-# Chapter 14
+# Jeremiah 14 
 
 ## Chapter Outline
 

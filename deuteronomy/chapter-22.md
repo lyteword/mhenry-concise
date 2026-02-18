@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 22 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "22"
+description: "In this chapter: Of humanity towards brethren. (1–4). Various precepts. (5–12). Against impurity. (13–30)."
 weight: 22
 ---
 
-# Chapter 22
+# Deuteronomy 22 
 
 ## Chapter Outline
 

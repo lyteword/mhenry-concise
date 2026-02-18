@@ -1,8 +1,11 @@
 ---
+title: "2 Corinthians 3 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "3"
+description: "In this chapter: The preference of the gospel to the law given by Moses. (1–11). The preaching of the apostle was suitable to the excellency and evidence of the gospel, through the power of the Holy Ghost. (12–18)."
 weight: 3
 ---
 
-# Chapter 3
+# 2 Corinthians 3 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 13 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "13"
+description: "In this chapter: The armies of God's wrath. (1-5). The conquest of Babylon. (6-18). Its final desolation. (19-22)."
 weight: 13
 ---
 
-# Chapter 13
+# Isaiah 13 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "Song Of Solomon 5 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "5"
+description: "In this chapter: Christ's answer. (1) . The disappointments of the church from her own folly. (2-8) . The excellences of Christ. (9-16)."
 weight: 5
 ---
 
-# Chapter 5
+# Song Of Solomon 5 
 
 ## Chapter Outline
 

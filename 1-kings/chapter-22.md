@@ -1,8 +1,11 @@
 ---
+title: "1 Kings 22 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "22"
+description: "In this chapter: Jehoshaphat makes a league with Ahab. (1–14). Micaiah predicts the death of Ahab. (15–28). Death of Ahab. (29–40). Jehoshaphat's good reign over Judah. (41–50). Ahaziah's evil reign over Israel. (51–53)."
 weight: 22
 ---
 
-# Chapter 22
+# 1 Kings 22 
 
 ## Chapter Outline
 

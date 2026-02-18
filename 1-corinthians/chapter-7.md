@@ -1,8 +1,11 @@
 ---
+title: "1 Corinthians 7 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "7"
+description: "In this chapter: The apostle answers several questions about marriage. (1–9). Married Christians should not seek to part from their unbelieving consorts. (10–16). Persons, in any fixed station, should usually abide in that. (17–24). It was most desirable, on account of the then perilous days, for people to sit loose to this world. (25–35). Great prudence be used in marriage; it should be only in the Lord. (36–40)."
 weight: 7
 ---
 
-# Chapter 7
+# 1 Corinthians 7 
 
 ## Chapter Outline
 

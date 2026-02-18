@@ -1,8 +1,11 @@
 ---
+title: "Romans 11 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "11"
+description: "In this chapter: The rejection of the Jews is not universal. (1–10). God overruled their unbelief for making the Gentiles partakers of gospel privileges. (11–21). The Gentiles cautioned against pride and unbelief, The Jews shall be called as a nation, and brought into God's visible covenant again. (22–32). A solemn adoring of the wisdom, goodness, and justice of God. (33–36)."
 weight: 11
 ---
 
-# Chapter 11
+# Romans 11 
 
 ## Chapter Outline
 

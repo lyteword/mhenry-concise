@@ -1,8 +1,11 @@
 ---
+title: "Ephesians 6 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "6"
+description: "In this chapter: The duties of children and parents. (1–4). Of servants and masters. (5–9). All Christians are to put on spiritual armour against the enemies of their souls. (10–18). The apostle desires their prayers, and ends with his apostolic blessing. (19–24)."
 weight: 6
 ---
 
-# Chapter 6
+# Ephesians 6 
 
 ## Chapter Outline
 

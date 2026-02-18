@@ -1,8 +1,11 @@
 ---
+title: "Exodus 8 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "8"
+description: "In this chapter: The plague of frogs. (1–15). The plague of lice. (16–19). The plague of flies. (20–32)."
 weight: 8
 ---
 
-# Chapter 8
+# Exodus 8 
 
 ## Chapter Outline
 

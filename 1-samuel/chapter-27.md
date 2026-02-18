@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 27 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "27"
+description: "In this chapter: David retires to Gath. (1–7). David deceives Achish. (8–12)."
 weight: 27
 ---
 
-# Chapter 27
+# 1 Samuel 27 
 
 ## Chapter Outline
 

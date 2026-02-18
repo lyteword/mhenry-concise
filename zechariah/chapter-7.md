@@ -1,8 +1,11 @@
 ---
+title: "Zechariah 7 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "7"
+description: "In this chapter: The captives' inquiry respecting fasting. (1–7). Sin the cause of their captivity. (8–14)."
 weight: 7
 ---
 
-# Chapter 7
+# Zechariah 7 
 
 ## Chapter Outline
 

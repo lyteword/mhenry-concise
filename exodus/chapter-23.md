@@ -1,8 +1,11 @@
 ---
+title: "Exodus 23 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "23"
+description: "In this chapter: Laws against falsehood and injustice. (1–9). The year of rest, The sabbath, The three festivals. (10–19). God promises to conduct the Israelites to Canaan. (20–33)."
 weight: 23
 ---
 
-# Chapter 23
+# Exodus 23 
 
 ## Chapter Outline
 

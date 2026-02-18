@@ -1,8 +1,11 @@
 ---
+title: "Revelation 20 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "20"
+description: "In this chapter: Satan is bound for a thousand years. (1–3). The first resurrection; those are blessed that have part therein. (4–6). Satan loosed, Gog and Magog. (7–10). The last and general resurrection. (11–15)."
 weight: 20
 ---
 
-# Chapter 20
+# Revelation 20 
 
 ## Chapter Outline
 

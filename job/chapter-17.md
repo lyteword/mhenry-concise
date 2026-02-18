@@ -1,8 +1,11 @@
 ---
+title: "Job 17 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "17"
+description: "In this chapter: Job appeals from man to God. (1–9). His hope is not in life, but in death. (10–16)."
 weight: 17
 ---
 
-# Chapter 17
+# Job 17 
 
 ## Chapter Outline
 

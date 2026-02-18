@@ -1,8 +1,11 @@
 ---
+title: "Amos 9 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "9"
+description: "In this chapter: The ruin of Israel. (1–10). The restoration of the Jews and the gospel blessing. (11–15)."
 weight: 9
 ---
 
-# Chapter 9
+# Amos 9 
 
 ## Chapter Outline
 

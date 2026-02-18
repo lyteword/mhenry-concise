@@ -1,8 +1,11 @@
 ---
+title: "Genesis 2 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "2"
+description: "In this chapter: The first sabbath. (1–3). Particulars about the creation. (4–7). The planting of the garden of Eden. (8–14). Man is placed in it. (15). God's command. (16, 17). The animals named, The making of woman, The Divine institution of marriage. (18–25)."
 weight: 2
 ---
 
-# Chapter 2
+# Genesis 2 
 
 ## Chapter Outline
 

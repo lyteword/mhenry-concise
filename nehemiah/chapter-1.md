@@ -1,8 +1,11 @@
 ---
+title: "Nehemiah 1 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "1"
+description: "In this chapter: Nehemiah's distress for the misery of Jerusalem, His prayer. (1-11)."
 weight: 1
 ---
 
-# Chapter 1
+# Nehemiah 1 
 
 ## Chapter Outline
 

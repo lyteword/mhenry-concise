@@ -1,8 +1,11 @@
 ---
+title: "Nehemiah 2 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "2"
+description: "In this chapter: Nehemiah's request to the king. (1–8). Nehemiah comes to Jerusalem. (9–18). The opposition of the adversaries. (19, 20)."
 weight: 2
 ---
 
-# Chapter 2
+# Nehemiah 2 
 
 ## Chapter Outline
 

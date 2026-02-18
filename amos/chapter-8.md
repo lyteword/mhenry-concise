@@ -1,8 +1,11 @@
 ---
+title: "Amos 8 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "8"
+description: "In this chapter: The near approach of the ruin of Israel. (1–3). Oppression reproved. (4–10). A famine of the word of God. (11–14)."
 weight: 8
 ---
 
-# Chapter 8
+# Amos 8 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "Daniel 12 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "12"
+description: "In this chapter: The conclusion of the vision of the Scriptures of truth. (1-4). The times of the continuance of these events. (5-13)."
 weight: 12
 ---
 
-# Chapter 12
+# Daniel 12 
 
 ## Chapter Outline
 

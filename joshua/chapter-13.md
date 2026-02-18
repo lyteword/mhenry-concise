@@ -1,8 +1,11 @@
 ---
+title: "Joshua 13 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "13"
+description: "In this chapter: Bounds of the land not yet conquered. (1–6). Inheritance of Reuben. (7–33)."
 weight: 13
 ---
 
-# Chapter 13
+# Joshua 13 
 
 ## Chapter Outline
 

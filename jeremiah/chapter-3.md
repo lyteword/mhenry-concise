@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 3 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "3"
+description: "In this chapter: Exhortations to repentance. (1-5). Judah more guilty than Israel. (6-11). But pardon is promised. (12-20). The children of Israel express their sorrow and repentance. (21-25)."
 weight: 3
 ---
 
-# Chapter 3
+# Jeremiah 3 
 
 ## Chapter Outline
 

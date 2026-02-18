@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 12 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "12"
+description: "In this chapter: Ceremonial purification. (1-8)."
 weight: 12
 ---
 
-# Chapter 12
+# Leviticus 12 
 
 ## Chapter Outline
 

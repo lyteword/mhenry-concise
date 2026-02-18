@@ -1,8 +1,11 @@
 ---
+title: "Philippians 3 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "3"
+description: "In this chapter: The apostle cautions the Philippians against judaizing false teachers, and renounces his own former privileges. (1–11). Expresses earnest desire to be found in Christ; also his pressing on toward perfection; and recommends his own example to other believers. (12–21)."
 weight: 3
 ---
 
-# Chapter 3
+# Philippians 3 
 
 ## Chapter Outline
 

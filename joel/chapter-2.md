@@ -1,8 +1,11 @@
 ---
+title: "Joel 2 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "2"
+description: "In this chapter: God's judgments. (1-14) . Exhortations to fasting and prayer; blessings promised. (15-27) . A promise of the Holy Spirit, and of future mercies. (28-32)."
 weight: 2
 ---
 
-# Chapter 2
+# Joel 2 
 
 ## Chapter Outline
 

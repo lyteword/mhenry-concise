@@ -1,8 +1,11 @@
 ---
+title: "Revelation 19 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "19"
+description: "In this chapter: The church in heaven and that on earth triumph, and praise the Lord for his righteous judgments. (1–10). A vision of Christ going forth to destroy the beast and his armies. (11–21)."
 weight: 19
 ---
 
-# Chapter 19
+# Revelation 19 
 
 ## Chapter Outline
 

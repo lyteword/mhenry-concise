@@ -1,8 +1,11 @@
 ---
+title: "1 Peter 1 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "1"
+description: "In this chapter: The apostle blesses God for his special benefits through Christ. (1–9). Salvation by Christ foretold in ancient prophecy. (10–12). All are exhorted to holy conversation. (13–16). Such as is suitable to their principles, privileges, and obligations. (17–25)."
 weight: 1
 ---
 
-# Chapter 1
+# 1 Peter 1 
 
 ## Chapter Outline
 

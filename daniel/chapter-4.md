@@ -1,8 +1,11 @@
 ---
+title: "Daniel 4 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "4"
+description: "In this chapter: Nebuchadnezzar acknowledges the power of Jehovah. (1-18). Daniel interprets his dream. (19-27). The fulfilment of it. (28-37)."
 weight: 4
 ---
 
-# Chapter 4
+# Daniel 4 
 
 ## Chapter Outline
 

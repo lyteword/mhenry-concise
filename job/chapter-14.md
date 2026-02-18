@@ -1,8 +1,11 @@
 ---
+title: "Job 14 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "14"
+description: "In this chapter: Job speaks of man's life. (1–6). Of man's death. (7–15). By sin man is subject to corruption. (16–22)."
 weight: 14
 ---
 
-# Chapter 14
+# Job 14 
 
 ## Chapter Outline
 

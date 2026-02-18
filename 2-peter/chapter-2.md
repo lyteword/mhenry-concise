@@ -1,8 +1,11 @@
 ---
+title: "2 Peter 2 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "2"
+description: "In this chapter: Believers are cautioned against false teachers, and the certainty of their punishment shown from examples. (1–9). An account of these seducers, as exceedingly wicked. (10–16). But as making high pretences to liberty and purity. (17–22)."
 weight: 2
 ---
 
-# Chapter 2
+# 2 Peter 2 
 
 ## Chapter Outline
 

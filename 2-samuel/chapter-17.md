@@ -1,8 +1,11 @@
 ---
+title: "2 Samuel 17 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "17"
+description: "In this chapter: Ahithophel's counsel overthrown. (1–21). He hangs himself, Absalom pursues David. (22–29)."
 weight: 17
 ---
 
-# Chapter 17
+# 2 Samuel 17 
 
 ## Chapter Outline
 

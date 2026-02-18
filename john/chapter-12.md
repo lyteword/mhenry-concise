@@ -1,8 +1,11 @@
 ---
+title: "John 12 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "12"
+description: "In this chapter: Christ anointed by Mary. (1–11). He enters Jerusalem. (12–19). Greeks apply to see Jesus. (20–26). A voice from heaven bears testimony to Christ. (27–33). His discourse with the people. (34–36). Unbelief of the Jews. (37–43). Christ's address to them. (44–50)."
 weight: 12
 ---
 
-# Chapter 12
+# John 12 
 
 ## Chapter Outline
 

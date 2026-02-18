@@ -1,8 +1,11 @@
 ---
+title: "Nehemiah 11 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "11"
+description: "In this chapter: The distribution of the people. (1-36)."
 weight: 11
 ---
 
-# Chapter 11
+# Nehemiah 11 
 
 ## Chapter Outline
 

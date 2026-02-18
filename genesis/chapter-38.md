@@ -1,8 +1,11 @@
 ---
+title: "Genesis 38 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "38"
+description: "In this chapter: The profligate conduct of Judah and his family. (1-30)."
 weight: 38
 ---
 
-# Chapter 38
+# Genesis 38 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 60 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "60"
+description: "In this chapter: The glories of the church of God, when the fulness of the Gentiles shall come in. (1-8). and the Jews shall be converted and gathered from their dispersions. (9-14). and the kingdoms of this world shall become the kingdom of our Lord, and of his Christ. (15-22)."
 weight: 60
 ---
 
-# Chapter 60
+# Isaiah 60 
 
 ## Chapter Outline
 

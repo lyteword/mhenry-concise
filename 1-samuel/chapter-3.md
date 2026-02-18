@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 3 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "3"
+description: "In this chapter: The word of the Lord first revealed to Samuel. (1–10). God tells Samuel the destruction of Eli's house. (11–18). Samuel established to be a prophet. (19–21)."
 weight: 3
 ---
 
-# Chapter 3
+# 1 Samuel 3 
 
 ## Chapter Outline
 

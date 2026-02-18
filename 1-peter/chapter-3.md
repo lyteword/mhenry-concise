@@ -1,8 +1,11 @@
 ---
+title: "1 Peter 3 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "3"
+description: "In this chapter: The duties of wives and husbands. (1–7). Christians exhorted to agree. (8–13). And encouraged to patience under persecutions for righteousness' sake, considering that Christ suffered patiently. (14–22)."
 weight: 3
 ---
 
-# Chapter 3
+# 1 Peter 3 
 
 ## Chapter Outline
 

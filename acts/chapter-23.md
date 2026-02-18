@@ -1,8 +1,11 @@
 ---
+title: "Acts 23 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "23"
+description: "In this chapter: Paul's defence before the council of the Jews. (1–5). Paul's defence. He receives a Divine assurance that he shall go to Rome. (6–11). The Jews conspire to kill Paul, Lysias sends him to Cesarea. (12–24). Lysias's letter to Felix. (25–35)."
 weight: 23
 ---
 
-# Chapter 23
+# Acts 23 
 
 ## Chapter Outline
 

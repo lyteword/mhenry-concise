@@ -1,8 +1,11 @@
 ---
+title: "2 Peter 1 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "1"
+description: "In this chapter: Exhortations to add the exercise of various other graces to faith. (1–11). The apostle looks forward to his approaching decease. (12–15). And confirms the truth of the gospel, relating to Christ's appearing to judgment. (16–21)."
 weight: 1
 ---
 
-# Chapter 1
+# 2 Peter 1 
 
 ## Chapter Outline
 

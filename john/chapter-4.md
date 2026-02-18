@@ -1,8 +1,11 @@
 ---
+title: "John 4 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "4"
+description: "In this chapter: Christ's departure into Galilee. (1–3). His discourse with the Samaritan woman. (4–26). The effects of Christ's conversation with the woman of Samaria. (27–42). Christ heals the nobleman's son. (43–54)."
 weight: 4
 ---
 
-# Chapter 4
+# John 4 
 
 ## Chapter Outline
 

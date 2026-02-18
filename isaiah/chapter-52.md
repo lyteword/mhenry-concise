@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 52 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "52"
+description: "In this chapter: The welcome news of Christ's kingdom. (1-12). The humiliation of the Messiah. (13-15)."
 weight: 52
 ---
 
-# Chapter 52
+# Isaiah 52 
 
 ## Chapter Outline
 

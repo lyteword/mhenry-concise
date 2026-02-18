@@ -1,8 +1,11 @@
 ---
+title: "Revelation 9 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "9"
+description: "In this chapter: The fifth trumpet is followed by a representation of another star as falling from heaven and opening the bottomless pit, out of which come swarms of locusts. (1–12). The sixth trumpet is followed by the loosing of four angels bound in the great river Euphrates. (13–21)."
 weight: 9
 ---
 
-# Chapter 9
+# Revelation 9 
 
 ## Chapter Outline
 

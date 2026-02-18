@@ -1,8 +1,11 @@
 ---
+title: "2 Corinthians 2 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "2"
+description: "In this chapter: Reasons for the apostle not coming to Corinth. (1–4). Directions about restoring the repentant offender. (5–11). An account of his labours and success in spreading the gospel of Christ. (12–17)."
 weight: 2
 ---
 
-# Chapter 2
+# 2 Corinthians 2 
 
 ## Chapter Outline
 

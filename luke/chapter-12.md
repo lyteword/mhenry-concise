@@ -1,8 +1,11 @@
 ---
+title: "Luke 12 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "12"
+description: "In this chapter: Christ reproves the interpreters of the law. (1–12). A caution against covetousness, The parable of the rich man. (13–21). Worldly care reproved. (22–40). Watchfulness enforced. (41–53). A warning to be reconciled to God. (54–59)."
 weight: 12
 ---
 
-# Chapter 12
+# Luke 12 
 
 ## Chapter Outline
 

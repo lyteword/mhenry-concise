@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 25 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "25"
+description: "In this chapter: Death of Samuel. (1). David's request; Nabal's churlish refusal. (2–11). David's intention to destroy Nabal. (12–17). Abigail takes a present to David. (18–31). He is pacified, Nabal dies. (32–39). David takes Abigail to wife. (39–44)."
 weight: 25
 ---
 
-# Chapter 25
+# 1 Samuel 25 
 
 ## Chapter Outline
 

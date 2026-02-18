@@ -1,8 +1,11 @@
 ---
+title: "Revelation 14 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "14"
+description: "In this chapter: Those faithful to Christ celebrate the praises of God. (1–5). Three angels; one proclaiming the everlasting gospel; another, the downfal of Babylon; and a third, the dreadful wrath of God on the worshippers of the beast. The blessedness of those who die in the Lord. (6–13). A vision of Christ with a sickle, and of a harvest ripe for cutting down. (14–16). The emblem of a vintage fully ripe, trodden in the wine-press of God's wrath. (17–20)."
 weight: 14
 ---
 
-# Chapter 14
+# Revelation 14 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "Ezra 6 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "6"
+description: "In this chapter: The decree for completing the temple. (1–12). The temple is finished. (13–22)."
 weight: 6
 ---
 
-# Chapter 6
+# Ezra 6 
 
 ## Chapter Outline
 

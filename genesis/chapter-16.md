@@ -1,8 +1,11 @@
 ---
+title: "Genesis 16 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "16"
+description: "In this chapter: Sarai gives Hagar to Abram. (1–3). Hagar's misbehaviour to Sarai. (4–6). The Angel commands Hagar to return, The promise to her Birth of Ishmael. (7–16)."
 weight: 16
 ---
 
-# Chapter 16
+# Genesis 16 
 
 ## Chapter Outline
 

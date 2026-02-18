@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 62 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "62"
+description: "In this chapter: God's care of his church and people. (1-5). The office of ministers in preaching the gospel. (6-9). Every hinderance shall be removed from the way of salvation. (10-12)."
 weight: 62
 ---
 
-# Chapter 62
+# Isaiah 62 
 
 ## Chapter Outline
 

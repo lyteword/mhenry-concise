@@ -1,8 +1,11 @@
 ---
+title: "John 1 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "1"
+description: "In this chapter: The Divinity of Christ. (1–5). His Divine and human nature. (6–14). John the Baptist's testimony to Christ. (15–18). John's public testimony concerning Christ. (19–28). Other testimonies of John concerning Christ. (29–36). Andrew and another disciple follow Jesus. (37–42). Philip and Nathanael called. (43–51)."
 weight: 1
 ---
 
-# Chapter 1
+# John 1 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "Matthew 20 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "20"
+description: "In this chapter: The parable of the labourers in the vineyard. (1–16). Jesus again foretells his sufferings. (17–19). The ambition of James and John. (20–28). Jesus gives sight to two blind men near Jericho. (29–34)."
 weight: 20
 ---
 
-# Chapter 20
+# Matthew 20 
 
 ## Chapter Outline
 

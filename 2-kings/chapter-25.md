@@ -1,8 +1,11 @@
 ---
+title: "2 Kings 25 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "25"
+description: "In this chapter: Jerusalem besieged, Zedekiah taken. (1–7). The temple burnt, The people carried into captivity. (8–21). The rest of the Jews flee into Egypt, Evil-merodach relieves the captivity of Jehoiachin. (22–30)."
 weight: 25
 ---
 
-# Chapter 25
+# 2 Kings 25 
 
 ## Chapter Outline
 

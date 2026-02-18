@@ -1,8 +1,11 @@
 ---
+title: "Luke 5 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "5"
+description: "In this chapter: The miraculous draught of fishes, Peter, James, and John called. (1–11). A leper cleansed. (12–16). A paralytic cured. (17–26). Levi called, Christ's answer to the Pharisees. (27–39)."
 weight: 5
 ---
 
-# Chapter 5
+# Luke 5 
 
 ## Chapter Outline
 

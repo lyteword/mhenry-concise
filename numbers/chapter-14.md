@@ -1,8 +1,11 @@
 ---
+title: "Numbers 14 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "14"
+description: "In this chapter: The people murmur at the account of the spies. (1–4). Joshua and Caleb labour to still the people. (5–10). The Divine threatenings, The intercession of Moses. (11–19). The murmurers forbidden to enter the promised land. (20–35). Death of the evil spies. (36–39). Defeat of the people, who now would invade the land. (40–45)."
 weight: 14
 ---
 
-# Chapter 14
+# Numbers 14 
 
 ## Chapter Outline
 

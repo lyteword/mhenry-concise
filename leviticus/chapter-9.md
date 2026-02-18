@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 9 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "9"
+description: "In this chapter: The first offerings of Aaron for himself and the people. (1–21). Moses and Aaron bless the people, Fire cometh upon the altar from the Lord. (22–24)."
 weight: 9
 ---
 
-# Chapter 9
+# Leviticus 9 
 
 ## Chapter Outline
 

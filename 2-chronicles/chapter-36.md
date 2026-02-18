@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 36 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "36"
+description: "In this chapter: The destruction of Jerusalem. (1–21). The proclamation of Cyrus. (22, 23)."
 weight: 36
 ---
 
-# Chapter 36
+# 2 Chronicles 36 
 
 ## Chapter Outline
 

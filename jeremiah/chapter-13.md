@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 13 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "13"
+description: "In this chapter: The glory of the Jews should be marred. (1-11). All ranks should suffer misery, An earnest exhortation to repentance. (12-17). An awful message to Jerusalem and its king. (18-27)."
 weight: 13
 ---
 
-# Chapter 13
+# Jeremiah 13 
 
 ## Chapter Outline
 

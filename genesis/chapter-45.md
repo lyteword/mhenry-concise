@@ -1,8 +1,11 @@
 ---
+title: "Genesis 45 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "45"
+description: "In this chapter: Joseph comforts his brethren, and sends for his father. (1–15). Pharaoh confirms Joseph's invitation, Joseph's gifts to his brethren. (16–24). Jacob receives the news of Joseph's being alive. (25–28)."
 weight: 45
 ---
 
-# Chapter 45
+# Genesis 45 
 
 ## Chapter Outline
 

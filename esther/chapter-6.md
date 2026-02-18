@@ -1,8 +1,11 @@
 ---
+title: "Esther 6 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "6"
+description: "In this chapter: Providence recommends Mordecai to the king's favour. (1–3). Haman's counsel honours Mordecai. (4–11). Haman's friends tell him of his danger. (12–14)."
 weight: 6
 ---
 
-# Chapter 6
+# Esther 6 
 
 ## Chapter Outline
 

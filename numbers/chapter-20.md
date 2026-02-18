@@ -1,8 +1,11 @@
 ---
+title: "Numbers 20 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "20"
+description: "In this chapter: The people come to Zin, They murmur for water, Moses directed to smite the rock, The infirmity of Moses and Aaron. (1–13). The Israelites are refused a passage through Edom. (14–21). Aaron reigns the priest's office to Eleazar, and dies in mount Hor. (22–29)."
 weight: 20
 ---
 
-# Chapter 20
+# Numbers 20 
 
 ## Chapter Outline
 

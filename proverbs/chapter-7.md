@@ -1,8 +1,11 @@
 ---
+title: "Proverbs 7 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "7"
+description: "In this chapter: Invitations to learn wisdom. (1–5). The arts of seducers, with warnings against them. (6–27)."
 weight: 7
 ---
 
-# Chapter 7
+# Proverbs 7 
 
 ## Chapter Outline
 

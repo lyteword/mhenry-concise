@@ -1,8 +1,11 @@
 ---
+title: "Ecclesiastes 1 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "1"
+description: "In this chapter: Solomon shows that all human things are vain. (1-3). Man's toil and want of satisfaction. (4-8). There is nothing new. (9-11). The vexation in pursuit of knowledge. (12-18)."
 weight: 1
 ---
 
-# Chapter 1
+# Ecclesiastes 1 
 
 ## Chapter Outline
 

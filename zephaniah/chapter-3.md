@@ -1,8 +1,11 @@
 ---
+title: "Zephaniah 3 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "3"
+description: "In this chapter: Further reproofs for sin. (1–7). Encouragement to look for mercy. (8–13). Promises of future favour and prosperity. (14–20)."
 weight: 3
 ---
 
-# Chapter 3
+# Zephaniah 3 
 
 ## Chapter Outline
 

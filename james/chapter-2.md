@@ -1,8 +1,11 @@
 ---
+title: "James 2 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "2"
+description: "In this chapter: All professions of faith are vain, if not producing love and justice to others. (1–13). The necessity of good works to prove the sincerity of faith, which otherwise will be of no more advantage than the faith of devils. (14–26)."
 weight: 2
 ---
 
-# Chapter 2
+# James 2 
 
 ## Chapter Outline
 

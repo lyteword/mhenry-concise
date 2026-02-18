@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 20 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "20"
+description: "In this chapter: The danger and distress of Judah. (1–13). Jahaziel's prophecy of victory. (14–19). The thanksgiving of Judah. (20–30). Jehoshaphat's alliance with Ahaziah. (31–37)."
 weight: 20
 ---
 
-# Chapter 20
+# 2 Chronicles 20 
 
 ## Chapter Outline
 

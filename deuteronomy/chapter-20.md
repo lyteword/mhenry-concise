@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 20 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "20"
+description: "In this chapter: Exhortation and proclamation respecting those who went to war. (1–9). Peace to be offered, What cities were to be devoted. (10–20)."
 weight: 20
 ---
 
-# Chapter 20
+# Deuteronomy 20 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "Matthew 6 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "6"
+description: "In this chapter: Against hypocrisy in almsgiving. (1–4). Against hypocrisy in prayer. (5–8). How to pray. (9–15). Respecting fasting. (16–18). Evil of being worldly-minded. (19–24). Trust in God commended. (25–34)."
 weight: 6
 ---
 
-# Chapter 6
+# Matthew 6 
 
 ## Chapter Outline
 

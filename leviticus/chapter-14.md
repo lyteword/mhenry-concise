@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 14 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "14"
+description: "In this chapter: Of declaring the leper to be clean. (1–9). The sacrifices to be offered by him. (10–32). The leprosy in a house. (33–53). Summary of the law concerning leprosy. (54–57)."
 weight: 14
 ---
 
-# Chapter 14
+# Leviticus 14 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "2 Kings 17 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "17"
+description: "In this chapter: Reign of Hoshea in Israel, The israelites carried captives by the Assyrians. (1–6). Captivity of the Israelites. (7–23). The nations placed in the land of Israel. (24–41)."
 weight: 17
 ---
 
-# Chapter 17
+# 2 Kings 17 
 
 ## Chapter Outline
 

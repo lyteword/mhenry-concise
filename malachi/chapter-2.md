@@ -1,8 +1,11 @@
 ---
+title: "Malachi 2 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "2"
+description: "In this chapter: The priests reproved for neglecting their covenant. (1–9). The people reproved for their evil practices. (10–17)."
 weight: 2
 ---
 
-# Chapter 2
+# Malachi 2 
 
 ## Chapter Outline
 

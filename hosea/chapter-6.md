@@ -1,8 +1,11 @@
 ---
+title: "Hosea 6 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "6"
+description: "In this chapter: An exhortation to repentance. (1-3). Israel's instability and breach of the covenant. (4-11)."
 weight: 6
 ---
 
-# Chapter 6
+# Hosea 6 
 
 ## Chapter Outline
 

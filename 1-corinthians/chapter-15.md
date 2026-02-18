@@ -1,8 +1,11 @@
 ---
+title: "1 Corinthians 15 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "15"
+description: "In this chapter: The apostle proves the resurrection of Christ from the dead. (1–11). Those answered who deny the resurrection of the body. (12–19). The resurrection of believers to eternal life. (20–34). Objections against it answered. (35–50). The mystery of the change that will be made on those living at Christ's second coming. (51–54). The believer's triumph over death and the grave, An exhortation to diligence. (55–58)."
 weight: 15
 ---
 
-# Chapter 15
+# 1 Corinthians 15 
 
 ## Chapter Outline
 

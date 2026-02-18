@@ -1,8 +1,11 @@
 ---
+title: "1 Chronicles 18 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "18"
+description: "In this chapter: David's victories. (1-17)."
 weight: 18
 ---
 
-# Chapter 18
+# 1 Chronicles 18 
 
 ## Chapter Outline
 

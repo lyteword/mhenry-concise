@@ -1,8 +1,11 @@
 ---
+title: "Lamentations 1 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "1"
+description: "In this chapter: The miserable state of Jerusalem, the just consequences of its sins. (1-11). Jerusalem represented as a captive female, lamenting, and seeking the mercy of God. (12-22)."
 weight: 1
 ---
 
-# Chapter 1
+# Lamentations 1 
 
 ## Chapter Outline
 

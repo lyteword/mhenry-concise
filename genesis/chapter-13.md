@@ -1,8 +1,11 @@
 ---
+title: "Genesis 13 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "13"
+description: "In this chapter: Abram returns out of Egypt with great riches. (1–4). Strife between the herdsmen of Abram and Lot. Abram gives Lot his choice of the country. (5–9). Lot chooses to dwell at Sodom. (10–13). God renews his promise to Abram, who removes to Hebron. (14–18)."
 weight: 13
 ---
 
-# Chapter 13
+# Genesis 13 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "Revelation 16 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "16"
+description: "In this chapter: The first vial is poured out on the earth, the second on the sea, the third on the rivers and fountains. (1–7). The fourth on the sun, the fifth on the seat of the beast. (8–11). The sixth on the great river Euphrates. (12–16). And the seventh on the air, when shall follow the destruction of all antichristian enemies. (17–21)."
 weight: 16
 ---
 
-# Chapter 16
+# Revelation 16 
 
 ## Chapter Outline
 

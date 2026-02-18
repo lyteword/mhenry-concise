@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 27 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "27"
+description: "In this chapter: God's care over his people. (1-5). A promise of their recall to Divine favour. (6-13)."
 weight: 27
 ---
 
-# Chapter 27
+# Isaiah 27 
 
 ## Chapter Outline
 

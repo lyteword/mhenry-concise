@@ -1,8 +1,11 @@
 ---
+title: "1 Chronicles 20 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "20"
+description: "In this chapter: David's wars. (1-8)."
 weight: 20
 ---
 
-# Chapter 20
+# 1 Chronicles 20 
 
 ## Chapter Outline
 

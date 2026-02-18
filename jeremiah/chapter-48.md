@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 48 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "48"
+description: "In this chapter: Prophecies against Moab for pride and security. (1-13). For carnal confidence and contempt of God. (14-47)."
 weight: 48
 ---
 
-# Chapter 48
+# Jeremiah 48 
 
 ## Chapter Outline
 

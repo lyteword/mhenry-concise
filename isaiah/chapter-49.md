@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 49 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "49"
+description: "In this chapter: The unbelief and rejection of the Jews. (1-6). Gracious promise to the Gentiles. (7-12). God's love to the church. (13-17). Its increase. (18-23). And deliverance. (24-26)."
 weight: 49
 ---
 
-# Chapter 49
+# Isaiah 49 
 
 ## Chapter Outline
 

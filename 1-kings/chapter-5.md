@@ -1,8 +1,11 @@
 ---
+title: "1 Kings 5 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "5"
+description: "In this chapter: Solomon's agreement with Hiram. (1–9). Solomon's workmen for the temple. (10–18)."
 weight: 5
 ---
 
-# Chapter 5
+# 1 Kings 5 
 
 ## Chapter Outline
 

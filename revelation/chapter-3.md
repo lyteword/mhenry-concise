@@ -1,8 +1,11 @@
 ---
+title: "Revelation 3 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "3"
+description: "In this chapter: Epistles to the church at Sardis; (1–6). at Philadelphia; (7–13). and Laodicea. (14–22)."
 weight: 3
 ---
 
-# Chapter 3
+# Revelation 3 
 
 ## Chapter Outline
 

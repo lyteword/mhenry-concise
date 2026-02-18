@@ -1,8 +1,11 @@
 ---
+title: "Malachi 1 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "1"
+description: "In this chapter: The ingratitude of Israel. (1–5). They are careless in God's institutions. (6–14)."
 weight: 1
 ---
 
-# Chapter 1
+# Malachi 1 
 
 ## Chapter Outline
 

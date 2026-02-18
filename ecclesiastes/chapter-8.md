@@ -1,8 +1,11 @@
 ---
+title: "Ecclesiastes 8 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "8"
+description: "In this chapter: Commendations of wisdom. (1-5). To prepare for sudden evils and death. (6-8). It shall be well with the righteous, and ill with the wicked. (9-13). Mysteries of Providence. (14-17)."
 weight: 8
 ---
 
-# Chapter 8
+# Ecclesiastes 8 
 
 ## Chapter Outline
 

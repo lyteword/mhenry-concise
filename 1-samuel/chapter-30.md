@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 30 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "30"
+description: "In this chapter: Ziklag spoiled by the Amalekites. (1–6). David overtakes the Amalekites. (7–15). He recovers what had been lost. (16–20). David's distribution of the spoil. (21–31)."
 weight: 30
 ---
 
-# Chapter 30
+# 1 Samuel 30 
 
 ## Chapter Outline
 

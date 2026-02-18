@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 40 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "40"
+description: "In this chapter: The preaching of the gospel, and glad tidings of the coming of Christ. (1-11). The almighty power of God. (12-17). The folly of idolatry. (18-26). Against unbelief. (27-31)."
 weight: 40
 ---
 
-# Chapter 40
+# Isaiah 40 
 
 ## Chapter Outline
 

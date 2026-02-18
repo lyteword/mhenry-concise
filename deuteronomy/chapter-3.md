@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 3 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "3"
+description: "In this chapter: The conquest of Og king of Bashan. (1–11). The land of Gilead and Bashan. (12–20). Moses encourages Joshua. (21–29)."
 weight: 3
 ---
 
-# Chapter 3
+# Deuteronomy 3 
 
 ## Chapter Outline
 

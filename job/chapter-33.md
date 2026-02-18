@@ -1,8 +1,11 @@
 ---
+title: "Job 33 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "33"
+description: "In this chapter: Elihu offers to reason with Job. (1–7). Elihu blames Job for reflecting upon God. (8–13). God calls men to repentance. (14–18). God sends afflictions for good. (19–28). Elihu entreats Job's attention. (29–33)."
 weight: 33
 ---
 
-# Chapter 33
+# Job 33 
 
 ## Chapter Outline
 

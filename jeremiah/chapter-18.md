@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 18 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "18"
+description: "In this chapter: God's power over his creatures is represented by the potter. (1-10). The Jews exhorted to repentance, and judgments foretold. (11-17). The prophet appeals to God. (18-23)."
 weight: 18
 ---
 
-# Chapter 18
+# Jeremiah 18 
 
 ## Chapter Outline
 

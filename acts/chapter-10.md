@@ -1,8 +1,11 @@
 ---
+title: "Acts 10 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "10"
+description: "In this chapter: Cornelius directed to send for Peter. (1–8). Peter's vision. (9–18). He goes to Cornelius. (19–33). His discourse to Cornelius. (34–43). The gifts of the Holy Spirit poured out. (44–48)."
 weight: 10
 ---
 
-# Chapter 10
+# Acts 10 
 
 ## Chapter Outline
 

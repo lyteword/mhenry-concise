@@ -1,8 +1,11 @@
 ---
+title: "2 Corinthians 13 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "13"
+description: "In this chapter: The apostle threatens obstinate offenders. (1–6). He prays for their reformation. (7–10). And ends the epistle with a salutation and blessing. (11–14)."
 weight: 13
 ---
 
-# Chapter 13
+# 2 Corinthians 13 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 29 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "29"
+description: "In this chapter: Judgements on Jerusalem and on its enemies. (1-8). The senselessness and hypocrisy of the Jews. (9-16). The conversion of the Gentiles, and future blessings for the Jews. (17-24)."
 weight: 29
 ---
 
-# Chapter 29
+# Isaiah 29 
 
 ## Chapter Outline
 

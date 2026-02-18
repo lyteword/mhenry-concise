@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 23 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "23"
+description: "In this chapter: The restoration of the Jews to their own land. (1-8). The wickedness of the priests and prophets of Judah, The people exhorted not to listen to false promises. (9-22). The pretenders to inspiration threatened. (23-32). Also the scoffers at true prophecy. (33-40)."
 weight: 23
 ---
 
-# Chapter 23
+# Jeremiah 23 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 15 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "15"
+description: "In this chapter: The people make a solemn covenant with God. (1-19)."
 weight: 15
 ---
 
-# Chapter 15
+# 2 Chronicles 15 
 
 ## Chapter Outline
 

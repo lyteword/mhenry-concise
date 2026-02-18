@@ -1,8 +1,11 @@
 ---
+title: "1 Chronicles 6 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "6"
+description: "In this chapter: Genealogies. (1-81)."
 weight: 6
 ---
 
-# Chapter 6
+# 1 Chronicles 6 
 
 ## Chapter Outline
 

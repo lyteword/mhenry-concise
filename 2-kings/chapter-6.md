@@ -1,8 +1,11 @@
 ---
+title: "2 Kings 6 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "6"
+description: "In this chapter: The sons of the prophets enlarge their habitations, Iron made to swim. (1–7). Elisha discloses the counsels of the Syrians. (8–12). Syrians sent to seize Elisha. (13–23). Samaria besieged, A famine, The king sends to slay Elisha. (24–33)."
 weight: 6
 ---
 
-# Chapter 6
+# 2 Kings 6 
 
 ## Chapter Outline
 

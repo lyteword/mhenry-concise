@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 33 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "33"
+description: "In this chapter: Ezekiel's duty as a watchman. (1-9). He is to vindicate the Divine government. (10-20). The desolation of Judea. (21-29). Judgments on the mockers of the prophets. (30-33)."
 weight: 33
 ---
 
-# Chapter 33
+# Ezekiel 33 
 
 ## Chapter Outline
 

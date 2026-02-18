@@ -1,8 +1,11 @@
 ---
+title: "1 Chronicles 13 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "13"
+description: "In this chapter: David consults about the ark. (1–5). The removal of the ark. (6–14)."
 weight: 13
 ---
 
-# Chapter 13
+# 1 Chronicles 13 
 
 ## Chapter Outline
 

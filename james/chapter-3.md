@@ -1,8 +1,11 @@
 ---
+title: "James 3 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "3"
+description: "In this chapter: Cautions against proud behaviour, and the mischief of an unruly tongue. (1–12). The excellence of heavenly wisdom, in opposition to that which is worldly. (13–18)."
 weight: 3
 ---
 
-# Chapter 3
+# James 3 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "Romans 3 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "3"
+description: "In this chapter: Objections answered. (1–8). All mankind are sinners. (9–18). Both Jews and Gentiles cannot be justified by their own deeds. (19, 20). It is owing to the free grace of God, through faith in the righteousness of Christ, yet the law is not done away. (21–31)."
 weight: 3
 ---
 
-# Chapter 3
+# Romans 3 
 
 ## Chapter Outline
 

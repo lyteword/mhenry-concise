@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 27 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "27"
+description: "In this chapter: Jotham's reign in Judah. (1-27)."
 weight: 27
 ---
 
-# Chapter 27
+# 2 Chronicles 27 
 
 ## Chapter Outline
 

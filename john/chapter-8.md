@@ -1,8 +1,11 @@
 ---
+title: "John 8 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "8"
+description: "In this chapter: The Pharisees and the adulteress. (1–11). Christ's discourse with the Pharisees. (12–59)."
 weight: 8
 ---
 
-# Chapter 8
+# John 8 
 
 ## Chapter Outline
 

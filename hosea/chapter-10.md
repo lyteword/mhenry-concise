@@ -1,8 +1,11 @@
 ---
+title: "Hosea 10 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "10"
+description: "In this chapter: The idolatry of Israel. (1-8). They are exhorted to repentance. (9-15)."
 weight: 10
 ---
 
-# Chapter 10
+# Hosea 10 
 
 ## Chapter Outline
 

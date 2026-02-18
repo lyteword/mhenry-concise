@@ -1,8 +1,11 @@
 ---
+title: "1 Corinthians 6 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "6"
+description: "In this chapter: Cautions against going to law in heathen courts. (1–8). Sins which, if lived and died in, shut out from the kingdom of God. (9–11). Our bodies, which are the members of Christ, and temples of the Holy Ghost, must not be defiled. (12–20)."
 weight: 6
 ---
 
-# Chapter 6
+# 1 Corinthians 6 
 
 ## Chapter Outline
 

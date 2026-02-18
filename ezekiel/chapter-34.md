@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 34 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "34"
+description: "In this chapter: The rulers reproved. (1-6). The people are to be restored to their own land. (7-16). The kingdom of Christ. (17-31)."
 weight: 34
 ---
 
-# Chapter 34
+# Ezekiel 34 
 
 ## Chapter Outline
 

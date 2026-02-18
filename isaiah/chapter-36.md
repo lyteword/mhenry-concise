@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 36 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "36"
+description: "In this chapter: Rabshakeh's blasphemies. (1-22)."
 weight: 36
 ---
 
-# Chapter 36
+# Isaiah 36 
 
 ## Chapter Outline
 

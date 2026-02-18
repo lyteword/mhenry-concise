@@ -1,8 +1,11 @@
 ---
+title: "John 19 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "19"
+description: "In this chapter: Christ condemned and crucified. (1–18). Christ on the cross. (19–30). His side pierced. (31–37). The burial of Jesus. (38–42)."
 weight: 19
 ---
 
-# Chapter 19
+# John 19 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "Matthew 1 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "1"
+description: "In this chapter: The genealogy of Jesus. (1–17). An angel appears to Joseph. (18–25)."
 weight: 1
 ---
 
-# Chapter 1
+# Matthew 1 
 
 ## Chapter Outline
 

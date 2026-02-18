@@ -1,8 +1,11 @@
 ---
+title: "1 Chronicles 11 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "11"
+description: "In this chapter: David raised to the throne. (1–9). A list of David's mighty men. (10–47)."
 weight: 11
 ---
 
-# Chapter 11
+# 1 Chronicles 11 
 
 ## Chapter Outline
 

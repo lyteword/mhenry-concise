@@ -1,8 +1,11 @@
 ---
+title: "2 Kings 19 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "19"
+description: "In this chapter: Hezekiah receives an answer of peace. (1–7). Sennacherib's letter. (8–19). His fall is prophesied. (20–34). The Assyrian army destroyed, Sennacherib slain. (35–37)."
 weight: 19
 ---
 
-# Chapter 19
+# 2 Kings 19 
 
 ## Chapter Outline
 

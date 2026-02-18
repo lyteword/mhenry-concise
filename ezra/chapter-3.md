@@ -1,8 +1,11 @@
 ---
+title: "Ezra 3 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "3"
+description: "In this chapter: The altar and festivals. (1–7). The foundations of the temple laid. (8–13)."
 weight: 3
 ---
 
-# Chapter 3
+# Ezra 3 
 
 ## Chapter Outline
 

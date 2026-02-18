@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 8 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "8"
+description: "In this chapter: Exhortations and warnings. (1-8). Comfort for those who fear God. (9-16). Afflictions to idolaters. (17-22)."
 weight: 8
 ---
 
-# Chapter 8
+# Isaiah 8 
 
 ## Chapter Outline
 

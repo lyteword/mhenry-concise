@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 19 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "19"
+description: "In this chapter: The cities of refuge, The man-slayer, The murderer. (1–13). Landmarks not to be removed. (14). The punishment of false witnesses. (15–21)."
 weight: 19
 ---
 
-# Chapter 19
+# Deuteronomy 19 
 
 ## Chapter Outline
 

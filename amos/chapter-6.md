@@ -1,8 +1,11 @@
 ---
+title: "Amos 6 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "6"
+description: "In this chapter: The danger of luxury and false security. (1–7). Punishments of sins. (8–14)."
 weight: 6
 ---
 
-# Chapter 6
+# Amos 6 
 
 ## Chapter Outline
 

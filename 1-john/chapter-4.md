@@ -1,8 +1,11 @@
 ---
+title: "1 John 4 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "4"
+description: "In this chapter: Believers cautioned against giving heed to every one that pretends to the Spirit. (1–6). Brotherly love enforced. (7–21)."
 weight: 4
 ---
 
-# Chapter 4
+# 1 John 4 
 
 ## Chapter Outline
 

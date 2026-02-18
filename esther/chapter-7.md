@@ -1,8 +1,11 @@
 ---
+title: "Esther 7 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "7"
+description: "In this chapter: Esther accuses Haman. (1–6). Haman hanged on his own gallows. (7–10)."
 weight: 7
 ---
 
-# Chapter 7
+# Esther 7 
 
 ## Chapter Outline
 

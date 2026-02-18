@@ -1,8 +1,11 @@
 ---
+title: "Job 25 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "25"
+description: "In this chapter: Bildad shows that man cannot be justified before God. (1-6)."
 weight: 25
 ---
 
-# Chapter 25
+# Job 25 
 
 ## Chapter Outline
 

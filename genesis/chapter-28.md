@@ -1,8 +1,11 @@
 ---
+title: "Genesis 28 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "28"
+description: "In this chapter: Isaac sends Jacob to Padan-aram. (1–5). Esau marries the daughter of Ishmael. (6–9). Jacob's vision. (10–15). The stone of Beth-el. (16–19). Jacob's vow. (20–22)."
 weight: 28
 ---
 
-# Chapter 28
+# Genesis 28 
 
 ## Chapter Outline
 

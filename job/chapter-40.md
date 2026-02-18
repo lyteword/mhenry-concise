@@ -1,8 +1,11 @@
 ---
+title: "Job 40 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "40"
+description: "In this chapter: Job humbles himself to God. (1–5). The Lord reasons with Job to show his righteousness, power, and wisdom. (6–14). God's power shown in Behemoth. (15–24)."
 weight: 40
 ---
 
-# Chapter 40
+# Job 40 
 
 ## Chapter Outline
 

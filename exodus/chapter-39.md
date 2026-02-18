@@ -1,8 +1,11 @@
 ---
+title: "Exodus 39 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "39"
+description: "In this chapter: The priests' garments. (1–31). The tabernacle completed. (32–43)."
 weight: 39
 ---
 
-# Chapter 39
+# Exodus 39 
 
 ## Chapter Outline
 

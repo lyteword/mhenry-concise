@@ -1,8 +1,11 @@
 ---
+title: "Genesis 10 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "10"
+description: "In this chapter: The sons of Noah, of Japheth, of Ham. (1–7). Nimrod the first monarch. (8–14). The descendants of Canaan, The sons of Shem. (15–32)."
 weight: 10
 ---
 
-# Chapter 10
+# Genesis 10 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "Genesis 7 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "7"
+description: "In this chapter: Noah, and his family and the living creatures, enter the ark, and the flood begins. (1–12). Noah shut in the ark. (13–16). The increase of the flood for forty days. (17–20). All flesh is destroyed by the flood. (21–24)."
 weight: 7
 ---
 
-# Chapter 7
+# Genesis 7 
 
 ## Chapter Outline
 

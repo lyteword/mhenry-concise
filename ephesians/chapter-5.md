@@ -1,8 +1,11 @@
 ---
+title: "Ephesians 5 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "5"
+description: "In this chapter: Exhortation to brotherly love. (1, 2). Cautions against several sins. (3–14). Directions to a contrary behaviour, and to relative duties. (15–21). The duties of wives and husbands are enforced by the spiritual relation between Christ and the church. (22–33)."
 weight: 5
 ---
 
-# Chapter 5
+# Ephesians 5 
 
 ## Chapter Outline
 

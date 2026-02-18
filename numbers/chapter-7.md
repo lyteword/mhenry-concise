@@ -1,8 +1,11 @@
 ---
+title: "Numbers 7 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "7"
+description: "In this chapter: The offerings of the princes at the dedication of the tabernacle. (1–9). The offerings of the princes at the dedication of the altar. (10–89)."
 weight: 7
 ---
 
-# Chapter 7
+# Numbers 7 
 
 ## Chapter Outline
 

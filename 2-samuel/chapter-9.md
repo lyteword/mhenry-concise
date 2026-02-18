@@ -1,8 +1,11 @@
 ---
+title: "2 Samuel 9 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "9"
+description: "In this chapter: David sends for Mephibosheth. (1–8). And provides for him. (9–13)."
 weight: 9
 ---
 
-# Chapter 9
+# 2 Samuel 9 
 
 ## Chapter Outline
 

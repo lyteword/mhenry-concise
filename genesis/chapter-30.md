@@ -1,8 +1,11 @@
 ---
+title: "Genesis 30 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "30"
+description: "In this chapter: A further account of Jacob's family. (1–13). Rachel beareth Joseph. (14–24). Jacob's new agreement with Laban to serve him for cattle. (25–43)."
 weight: 30
 ---
 
-# Chapter 30
+# Genesis 30 
 
 ## Chapter Outline
 

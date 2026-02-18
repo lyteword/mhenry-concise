@@ -1,8 +1,11 @@
 ---
+title: "John 6 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "6"
+description: "In this chapter: Five thousand miraculously fed. (1–14). Jesus walks on the sea. (15–21). He directs to spiritual food. (22–27). His discourse with the multitude. (28–65). Many of disciples go back. (66–71)."
 weight: 6
 ---
 
-# Chapter 6
+# John 6 
 
 ## Chapter Outline
 

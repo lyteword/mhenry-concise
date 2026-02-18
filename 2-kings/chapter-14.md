@@ -1,8 +1,11 @@
 ---
+title: "2 Kings 14 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "14"
+description: "In this chapter: Amaziah's good reign. (1–7). Amaziah provokes Jehoash king of Israel, and is overcome. (8–14). He is slain by conspirators. (15–22). Wicked reign of Jeroboam II. (23–29)."
 weight: 14
 ---
 
-# Chapter 14
+# 2 Kings 14 
 
 ## Chapter Outline
 

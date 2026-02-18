@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 13 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "13"
+description: "In this chapter: Directions to the priest to judge concerning leprosy. (1–17). Further directions. (18–44). How the leper must be disposed of. (45, 46). The leprosy in garments. (47–59)."
 weight: 13
 ---
 
-# Chapter 13
+# Leviticus 13 
 
 ## Chapter Outline
 

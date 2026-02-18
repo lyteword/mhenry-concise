@@ -1,8 +1,11 @@
 ---
+title: "1 Chronicles 3 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "3"
+description: "In this chapter: Genealogies. (1-24)."
 weight: 3
 ---
 
-# Chapter 3
+# 1 Chronicles 3 
 
 ## Chapter Outline
 

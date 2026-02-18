@@ -1,8 +1,11 @@
 ---
+title: "1 Kings 3 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "3"
+description: "In this chapter: Solomon's marriage. (1–4). His vision, His prayer for wisdom. (5–15). The judgment of Solomon. (16–28)."
 weight: 3
 ---
 
-# Chapter 3
+# 1 Kings 3 
 
 ## Chapter Outline
 

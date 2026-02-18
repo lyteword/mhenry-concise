@@ -1,8 +1,11 @@
 ---
+title: "2 Kings 23 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "23"
+description: "In this chapter: Josiah reads the law, and renews the covenant. (1–3). He destroys idolatry. (4–14). The reformation extended to Israel, A passover kept. (15–24). Josiah slain by Pharaoh-nechoh. (25–30). Wicked reigns of Jehoahaz and Jehoiakim. (31–37)."
 weight: 23
 ---
 
-# Chapter 23
+# 2 Kings 23 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "Hosea 13 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "13"
+description: "In this chapter: The abuse of God's favour leads to punishment. (1-8). A promise of God's mercy. (9-16)."
 weight: 13
 ---
 
-# Chapter 13
+# Hosea 13 
 
 ## Chapter Outline
 

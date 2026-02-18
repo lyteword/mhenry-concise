@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 41 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "41"
+description: "In this chapter: The Vision of the Temple. (1-26)."
 weight: 41
 ---
 
-# Chapter 41
+# Ezekiel 41 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "Esther 8 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "8"
+description: "In this chapter: Mordecai is advanced. (1, 2). Esther makes suit for the Jews. (3–14). Mordecai honoured, The joy of the Jews. (15–17)."
 weight: 8
 ---
 
-# Chapter 8
+# Esther 8 
 
 ## Chapter Outline
 

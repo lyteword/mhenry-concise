@@ -1,8 +1,11 @@
 ---
+title: "Job 8 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "8"
+description: "In this chapter: Bildad reproves Job. (1–7). Hypocrites will be destroyed. (8–19). Bildad applies God's just dealing to Job. (20–22)."
 weight: 8
 ---
 
-# Chapter 8
+# Job 8 
 
 ## Chapter Outline
 

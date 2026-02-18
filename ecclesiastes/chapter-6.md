@@ -1,8 +1,11 @@
 ---
+title: "Ecclesiastes 6 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "6"
+description: "In this chapter: The vanity of riches. Also of long life and flourishing families. (1-6). The little advantage any one has in outward things. (7-12)."
 weight: 6
 ---
 
-# Chapter 6
+# Ecclesiastes 6 
 
 ## Chapter Outline
 

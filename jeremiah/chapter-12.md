@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 12 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "12"
+description: "In this chapter: Jeremiah complains of the prosperity of the wicked. (1-6). The heavy judgments to come upon the nation. (7-13). Divine mercy to them, and even to the nations around. (14-17)."
 weight: 12
 ---
 
-# Chapter 12
+# Jeremiah 12 
 
 ## Chapter Outline
 

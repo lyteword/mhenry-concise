@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 59 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "59"
+description: "In this chapter: Reproofs of sin and wickedness. (1-8). Confession of sin, and lamentation for the consequences. (9-15). Promises of deliverance. (16-21)."
 weight: 59
 ---
 
-# Chapter 59
+# Isaiah 59 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 12 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "12"
+description: "In this chapter: Monuments of idolatry to be destroyed. (1–4). The place of God's service to be kept. (5–32)."
 weight: 12
 ---
 
-# Chapter 12
+# Deuteronomy 12 
 
 ## Chapter Outline
 

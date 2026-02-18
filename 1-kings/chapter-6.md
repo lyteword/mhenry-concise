@@ -1,8 +1,11 @@
 ---
+title: "1 Kings 6 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "6"
+description: "In this chapter: The building of Solomon's temple. (1–10). Promise given concerning the temple. (11–14). Particulars respecting the temple. (15–38)."
 weight: 6
 ---
 
-# Chapter 6
+# 1 Kings 6 
 
 ## Chapter Outline
 

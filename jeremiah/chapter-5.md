@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 5 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "5"
+description: "In this chapter: The Jews' profession of religion was hypocritical. (1-9). The cruel proceedings of their enemies. (10-18). Their apostacy and idolatry. (19-31)."
 weight: 5
 ---
 
-# Chapter 5
+# Jeremiah 5 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 56 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "56"
+description: "In this chapter: A charge to keep the Divine precepts. (1,2) . Blessings promised. (3-8). Reproof to the careless watchmen, the teachers and rulers of the Jews. (9-12)."
 weight: 56
 ---
 
-# Chapter 56
+# Isaiah 56 
 
 ## Chapter Outline
 

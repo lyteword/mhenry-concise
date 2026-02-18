@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 4 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "4"
+description: "In this chapter: The furniture of the temple. (1-22)."
 weight: 4
 ---
 
-# Chapter 4
+# 2 Chronicles 4 
 
 ## Chapter Outline
 

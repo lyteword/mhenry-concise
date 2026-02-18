@@ -1,8 +1,11 @@
 ---
+title: "Acts 25 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "25"
+description: "In this chapter: Paul before Festus, he appeals to Caesar. (1–12). Festus confers with Agrippa respecting Paul. (13–27)."
 weight: 25
 ---
 
-# Chapter 25
+# Acts 25 
 
 ## Chapter Outline
 

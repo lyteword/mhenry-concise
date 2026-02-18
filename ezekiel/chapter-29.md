@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 29 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "29"
+description: "In this chapter: The desolation of Egypt. (1-16). Also a promise of mercy to Israel. (17-21)."
 weight: 29
 ---
 
-# Chapter 29
+# Ezekiel 29 
 
 ## Chapter Outline
 

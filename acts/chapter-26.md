@@ -1,8 +1,11 @@
 ---
+title: "Acts 26 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "26"
+description: "In this chapter: Paul's defence before Agrippa. (1–11). His conversion and preaching to the Gentiles. (12–23). Festus and Agrippa convinced of Paul's innocence. (24–32)."
 weight: 26
 ---
 
-# Chapter 26
+# Acts 26 
 
 ## Chapter Outline
 

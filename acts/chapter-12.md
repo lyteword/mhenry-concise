@@ -1,8 +1,11 @@
 ---
+title: "Acts 12 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "12"
+description: "In this chapter: The martyrdom of James, and the imprisonment of Peter. (1–5). He is delivered from prison by an angel. (6–11). Peter departs, Herod's rage. (12–19). The death of Herod. (20–25)."
 weight: 12
 ---
 
-# Chapter 12
+# Acts 12 
 
 ## Chapter Outline
 

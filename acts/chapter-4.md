@@ -1,8 +1,11 @@
 ---
+title: "Acts 4 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "4"
+description: "In this chapter: Peter and John imprisoned. (1–4). The apostles boldly testify to Christ. (5–14). Peter and John refuse to be silenced. (15–22). The believers unite in prayer and praise. (23–31). The holy charity of the Christians. (32–37)."
 weight: 4
 ---
 
-# Chapter 4
+# Acts 4 
 
 ## Chapter Outline
 

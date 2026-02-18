@@ -1,8 +1,11 @@
 ---
+title: "2 Samuel 5 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "5"
+description: "In this chapter: David king over all Israel. (1–5). He takes the strong-hold of Zion. (6–10). David's kingdom established. (11–16). He defeats the Philistines. (17–25)."
 weight: 5
 ---
 
-# Chapter 5
+# 2 Samuel 5 
 
 ## Chapter Outline
 

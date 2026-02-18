@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 24 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "24"
+description: "In this chapter: Oil for the lamps, The shew-bread. (1–9). The law of blasphemy, blasphemer is stoned. (10–23)."
 weight: 24
 ---
 
-# Chapter 24
+# Leviticus 24 
 
 ## Chapter Outline
 

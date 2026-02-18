@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 45 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "45"
+description: "In this chapter: The deliverance of the Jews by Cyrus. (1-4). God calls for obedience to his almighty power. (5-10). The settlement of his people. (11-19). The conversion of the Gentiles. (20-25)."
 weight: 45
 ---
 
-# Chapter 45
+# Isaiah 45 
 
 ## Chapter Outline
 

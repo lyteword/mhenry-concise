@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 41 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "41"
+description: "In this chapter: God's care of his people. (1-9). they are encouraged not to fear. (10-20). The vanity and folly of idolatry. (21-29)."
 weight: 41
 ---
 
-# Chapter 41
+# Isaiah 41 
 
 ## Chapter Outline
 

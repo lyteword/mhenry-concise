@@ -1,8 +1,11 @@
 ---
+title: "Numbers 35 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "35"
+description: "In this chapter: The cities of the Levites. (1–8). The cities of refuge, The laws about murder. (9–34)."
 weight: 35
 ---
 
-# Chapter 35
+# Numbers 35 
 
 ## Chapter Outline
 

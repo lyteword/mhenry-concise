@@ -1,8 +1,11 @@
 ---
+title: "John 10 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "10"
+description: "In this chapter: The parable of the good shepherd. (1–5). Christ the Door. (6–9). Christ the good Shepherd. (10–18). The Jews' opinion concerning Jesus. (19–21). His discourse at the feast of dedication. (22–30). The Jews attempt to stone Jesus. (31–38). He departs from Jerusalem. (39–42)."
 weight: 10
 ---
 
-# Chapter 10
+# John 10 
 
 ## Chapter Outline
 

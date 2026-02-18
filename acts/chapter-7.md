@@ -1,8 +1,11 @@
 ---
+title: "Acts 7 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "7"
+description: "In this chapter: Stephen's defence. (1–50). Stephen reproves the Jews for the death of Christ. (51–53). The martyrdom of Stephen. (54–60)."
 weight: 7
 ---
 
-# Chapter 7
+# Acts 7 
 
 ## Chapter Outline
 

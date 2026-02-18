@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 21 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "21"
+description: "In this chapter: Laws concerning the priests. (1-24)."
 weight: 21
 ---
 
-# Chapter 21
+# Leviticus 21 
 
 ## Chapter Outline
 

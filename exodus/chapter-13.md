@@ -1,8 +1,11 @@
 ---
+title: "Exodus 13 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "13"
+description: "In this chapter: The first-born sanctified to God, The remembrance of the passover commanded. (1–10). The firstlings of beasts set apart. (11–16). Joseph's bones carried with the Israelites, They come to Etham. (17–20). God guideth the Israelites by a pillar of cloud fire. (21, 22)."
 weight: 13
 ---
 
-# Chapter 13
+# Exodus 13 
 
 ## Chapter Outline
 

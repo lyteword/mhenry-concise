@@ -1,8 +1,11 @@
 ---
+title: "Zechariah 14 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "14"
+description: "In this chapter: The sufferings of Jerusalem. (1–7). Encouraging prospects, and the destruction of her enemies. (8–15). The holiness of the latter days. (16–21)."
 weight: 14
 ---
 
-# Chapter 14
+# Zechariah 14 
 
 ## Chapter Outline
 

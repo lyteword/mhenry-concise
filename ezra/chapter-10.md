@@ -1,8 +1,11 @@
 ---
+title: "Ezra 10 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "10"
+description: "In this chapter: Ezra encourages to reformation. (1–5). He assembles the people. (6–14). Reformation effected. (15–44)."
 weight: 10
 ---
 
-# Chapter 10
+# Ezra 10 
 
 ## Chapter Outline
 

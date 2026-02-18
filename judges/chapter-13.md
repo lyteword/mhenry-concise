@@ -1,8 +1,11 @@
 ---
+title: "Judges 13 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "13"
+description: "In this chapter: The Philistines, Samson announced. (1–7). The angel appears to Manoah. (8–14). Manoah's sacrifice. (15–23). Birth of Samson. (24, 25)."
 weight: 13
 ---
 
-# Chapter 13
+# Judges 13 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "1 Chronicles 21 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "21"
+description: "In this chapter: David's numbering the people. (1-30)."
 weight: 21
 ---
 
-# Chapter 21
+# 1 Chronicles 21 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "Hosea 3 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "3"
+description: "In this chapter: "
 weight: 3
 ---
 
-# Chapter 3
+# Hosea 3 
 
 ## Chapter Outline
 

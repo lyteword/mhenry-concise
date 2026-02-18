@@ -1,8 +1,11 @@
 ---
+title: "Micah 6 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "6"
+description: "In this chapter: God's controversy with Israel. (1–5). The duties God requires. (6–8). The wickedness of Israel. (9–16)."
 weight: 6
 ---
 
-# Chapter 6
+# Micah 6 
 
 ## Chapter Outline
 

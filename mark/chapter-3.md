@@ -1,8 +1,11 @@
 ---
+title: "Mark 3 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "3"
+description: "In this chapter: The withered hand healed. (1–5). The people resort to Christ. (6–12). The apostles called. (13–21). The blasphemy of the scribes. (22–30). Christ's relatives. (31–35)."
 weight: 3
 ---
 
-# Chapter 3
+# Mark 3 
 
 ## Chapter Outline
 

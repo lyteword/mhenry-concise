@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 17 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "17"
+description: "In this chapter: A parable relative to the Jewish nation. (1-10). to which an explanation is added. (11-21). A direct promise of the Messiah. (22-24)."
 weight: 17
 ---
 
-# Chapter 17
+# Ezekiel 17 
 
 ## Chapter Outline
 

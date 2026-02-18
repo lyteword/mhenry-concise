@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 30 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "30"
+description: "In this chapter: Hezekiah's passover. (1–12). The passover celebrated. (13–20). The feast of unleavened bread. (21–27)."
 weight: 30
 ---
 
-# Chapter 30
+# 2 Chronicles 30 
 
 ## Chapter Outline
 

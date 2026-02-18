@@ -1,8 +1,11 @@
 ---
+title: "Nehemiah 7 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "7"
+description: "In this chapter: The city committed to Hananiah. (1–4). Register of those that first returned. (5–73)."
 weight: 7
 ---
 
-# Chapter 7
+# Nehemiah 7 
 
 ## Chapter Outline
 

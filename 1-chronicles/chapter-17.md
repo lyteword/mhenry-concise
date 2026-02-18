@@ -1,8 +1,11 @@
 ---
+title: "1 Chronicles 17 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "17"
+description: "In this chapter: David's purposes; God's gracious promises. (1-27)."
 weight: 17
 ---
 
-# Chapter 17
+# 1 Chronicles 17 
 
 ## Chapter Outline
 

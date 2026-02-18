@@ -1,8 +1,11 @@
 ---
+title: "Job 3 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "3"
+description: "In this chapter: Job complains that he was born. (1–10). Job complaining. (11–19). He complains of his life. (20–26)."
 weight: 3
 ---
 
-# Chapter 3
+# Job 3 
 
 ## Chapter Outline
 

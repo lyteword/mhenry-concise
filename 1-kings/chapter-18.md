@@ -1,8 +1,11 @@
 ---
+title: "1 Kings 18 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "18"
+description: "In this chapter: Elijah sends Ahab notice of his coming. (1–16). Elijah meets Ahab. (17–20). Elijah's trial of the false prophets. (21–40). Elijah, by prayer, obtains rain. (41–46)."
 weight: 18
 ---
 
-# Chapter 18
+# 1 Kings 18 
 
 ## Chapter Outline
 

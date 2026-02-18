@@ -1,8 +1,11 @@
 ---
+title: "Exodus 16 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "16"
+description: "In this chapter: The Israelites come to the wilderness of Sin. They murmur for food, God promises bread from heaven. (1–12). God sends quails and manna. (13–21). Particulars respecting the manna. (22–31). An omer of manna to be preserved. (32–36)."
 weight: 16
 ---
 
-# Chapter 16
+# Exodus 16 
 
 ## Chapter Outline
 

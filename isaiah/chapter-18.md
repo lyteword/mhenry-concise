@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 18 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "18"
+description: "In this chapter: God's care for his people; and the increase of the church. (1-7)."
 weight: 18
 ---
 
-# Chapter 18
+# Isaiah 18 
 
 ## Chapter Outline
 

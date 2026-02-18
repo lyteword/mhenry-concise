@@ -1,8 +1,11 @@
 ---
+title: "Habakkuk 1 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "1"
+description: "In this chapter: The wickedness of the land. The fearful vengeance to be executed. (1–11). These judgments to be inflicted by a nation more wicked than themselves. (12–17)."
 weight: 1
 ---
 
-# Chapter 1
+# Habakkuk 1 
 
 ## Chapter Outline
 

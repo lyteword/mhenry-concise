@@ -1,8 +1,11 @@
 ---
+title: "Jonah 3 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "3"
+description: "In this chapter: Jonah sent again to Nineveh, preaches there. (1–4). Nineveh is spared upon the repentance of the inhabitants. (5–10)."
 weight: 3
 ---
 
-# Chapter 3
+# Jonah 3 
 
 ## Chapter Outline
 

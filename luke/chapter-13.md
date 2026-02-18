@@ -1,8 +1,11 @@
 ---
+title: "Luke 13 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "13"
+description: "In this chapter: Christ exhorts to repentance from the case of the Galileans and others. (1–5). Parable of the barren fig-tree. (6–9). The infirm woman strengthened. (10–17). The parables of the mustard seed, and leaven. (18–22). Exhortation to enter at the strait gate. (23–30). Christ's reproof to Herod, and to the people of Jerusalem. (31–35)."
 weight: 13
 ---
 
-# Chapter 13
+# Luke 13 
 
 ## Chapter Outline
 

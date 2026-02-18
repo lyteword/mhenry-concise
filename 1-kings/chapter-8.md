@@ -1,8 +1,11 @@
 ---
+title: "1 Kings 8 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "8"
+description: "In this chapter: The dedication of the temple. (1–11). The occasion. (12–21). Solomon's prayer. (22–53). His blessing and exhortation. (54–61). Solomon's peace-offerings. (62–66)."
 weight: 8
 ---
 
-# Chapter 8
+# 1 Kings 8 
 
 ## Chapter Outline
 

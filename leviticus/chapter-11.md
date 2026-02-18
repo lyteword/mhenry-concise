@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 11 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "11"
+description: "In this chapter: What animals were clean and unclean. (1-47)."
 weight: 11
 ---
 
-# Chapter 11
+# Leviticus 11 
 
 ## Chapter Outline
 

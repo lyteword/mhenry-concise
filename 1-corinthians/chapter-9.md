@@ -1,8 +1,11 @@
 ---
+title: "1 Corinthians 9 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "9"
+description: "In this chapter: The apostle shows his authority, and asserts his right to be maintained. (1–14). He waved this part of his Christian liberty, for the good of others. (15–23). He did all this, with care and diligence, in view of an unfading crown. (24–27)."
 weight: 9
 ---
 
-# Chapter 9
+# 1 Corinthians 9 
 
 ## Chapter Outline
 

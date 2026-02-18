@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 28 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "28"
+description: "In this chapter: A false prophet opposes Jeremiah. (1-9). The false prophet warned of his approaching death. (10-17)."
 weight: 28
 ---
 
-# Chapter 28
+# Jeremiah 28 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "Matthew 7 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "7"
+description: "In this chapter: Christ reproves rash judgment. (1–6). Encouragements to prayer. (7–11). The broad and narrow way. (12–14). Against false prophets. (15–20). To be doers of the word, not hearers only. (21–29)."
 weight: 7
 ---
 
-# Chapter 7
+# Matthew 7 
 
 ## Chapter Outline
 

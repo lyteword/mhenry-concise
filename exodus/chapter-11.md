@@ -1,8 +1,11 @@
 ---
+title: "Exodus 11 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "11"
+description: "In this chapter: God's last instructions to Moses respecting Pharaoh and the Egyptians. (1–3). The death of the first-born threatened. (4–10)."
 weight: 11
 ---
 
-# Chapter 11
+# Exodus 11 
 
 ## Chapter Outline
 

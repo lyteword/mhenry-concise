@@ -1,8 +1,11 @@
 ---
+title: "Luke 24 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "24"
+description: "In this chapter: The resurrection of Christ. (1–12). He appears to two disciples on the way to Emmaus. (13–27). And makes himself known to them. (28–35). Christ appears to the other disciples. (36–49). His ascension. (50–53)."
 weight: 24
 ---
 
-# Chapter 24
+# Luke 24 
 
 ## Chapter Outline
 

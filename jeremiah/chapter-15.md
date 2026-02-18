@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 15 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "15"
+description: "In this chapter: The destruction of the wicked described. (1-9). The prophet laments such messages, and is reproved. (10-14). He supplicates pardon, and is promised protection. (15-21)."
 weight: 15
 ---
 
-# Chapter 15
+# Jeremiah 15 
 
 ## Chapter Outline
 

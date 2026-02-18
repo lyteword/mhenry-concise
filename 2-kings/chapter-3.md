@@ -1,8 +1,11 @@
 ---
+title: "2 Kings 3 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "3"
+description: "In this chapter: Jehoram, king of Israel. (1–5). War with Moab, The intercession of Elisha. (6–19). Water supplied, Moab overcome. (20–27)."
 weight: 3
 ---
 
-# Chapter 3
+# 2 Kings 3 
 
 ## Chapter Outline
 

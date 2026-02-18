@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 36 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "36"
+description: "In this chapter: Baruch is to write the prophecies of Jeremiah. (1-8). The princes advise them to hide themselves. (9-19). The king having heard a part, burns the roll. (20-32)."
 weight: 36
 ---
 
-# Chapter 36
+# Jeremiah 36 
 
 ## Chapter Outline
 

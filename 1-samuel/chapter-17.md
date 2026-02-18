@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 17 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "17"
+description: "In this chapter: Goliath's challenge. (1–11). David comes to the camp. (12–30). David undertakes to fight Goliath. (31–39). and goes to meet him. (40–47). He kills Goliath. (48–58)."
 weight: 17
 ---
 
-# Chapter 17
+# 1 Samuel 17 
 
 ## Chapter Outline
 

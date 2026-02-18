@@ -1,8 +1,11 @@
 ---
+title: "Judges 4 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "4"
+description: "In this chapter: Israel again revolts, and is oppressed by Jabin. (1–3). Deborah concerts their deliverance with Barak. (4–9). Sisera defeated. (10–16). Sisera put to death by Jael. (17–24)."
 weight: 4
 ---
 
-# Chapter 4
+# Judges 4 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 27 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "27"
+description: "In this chapter: The law concerning vows, Of persons and animals. (1–13). Vows concerning houses and land. (14–25). Devoted things not to be redeemed. (26–33). Conclusion. (34)."
 weight: 27
 ---
 
-# Chapter 27
+# Leviticus 27 
 
 ## Chapter Outline
 

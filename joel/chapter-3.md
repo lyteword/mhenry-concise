@@ -1,8 +1,11 @@
 ---
+title: "Joel 3 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "3"
+description: "In this chapter: God's judgments in the latter days. (1-8) . The extent of these judgments. (9-17) . The blessings the church shall enjoy. (18-21)."
 weight: 3
 ---
 
-# Chapter 3
+# Joel 3 
 
 ## Chapter Outline
 

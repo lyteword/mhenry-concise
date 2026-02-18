@@ -1,8 +1,11 @@
 ---
+title: "Esther 4 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "4"
+description: "In this chapter: The Jews lament their danger. (1–4). Esther undertakes to plead for the Jews. (5–17)."
 weight: 4
 ---
 
-# Chapter 4
+# Esther 4 
 
 ## Chapter Outline
 

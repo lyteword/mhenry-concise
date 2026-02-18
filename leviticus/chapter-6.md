@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 6 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "6"
+description: "In this chapter: Concerning trespasses against our neighbour. (1–7). Concerning the burnt-offering. (8–13). Concerning the meat-offering. (14–23). Concerning the sin-offering. (24–30)."
 weight: 6
 ---
 
-# Chapter 6
+# Leviticus 6 
 
 ## Chapter Outline
 

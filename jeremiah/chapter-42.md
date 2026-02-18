@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 42 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "42"
+description: "In this chapter: Johanan desires Jeremiah to ask counsel of God. (1-6). They are assured of safety in Judea, but of destruction in Egypt. (7-22)."
 weight: 42
 ---
 
-# Chapter 42
+# Jeremiah 42 
 
 ## Chapter Outline
 

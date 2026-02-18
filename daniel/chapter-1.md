@@ -1,8 +1,11 @@
 ---
+title: "Daniel 1 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "1"
+description: "In this chapter: The captivity of Daniel and his companions. (1-7). Their refusal to eat the king's meat. (8-16). Their improvement in wisdom. (17-21)."
 weight: 1
 ---
 
-# Chapter 1
+# Daniel 1 
 
 ## Chapter Outline
 

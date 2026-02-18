@@ -1,8 +1,11 @@
 ---
+title: "Matthew 21 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "21"
+description: "In this chapter: Christ enters Jerusalem. (1–11). He drives out those who profaned the temple. (12–17). The barren fig-tree cursed. (18–22). Jesus' discourse in the temple. (23–27). The parable of the two sons. (28–32). The parable of the wicked husbandmen. (33–46)."
 weight: 21
 ---
 
-# Chapter 21
+# Matthew 21 
 
 ## Chapter Outline
 

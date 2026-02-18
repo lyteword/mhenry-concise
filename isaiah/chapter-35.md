@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 35 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "35"
+description: "In this chapter: The flourishing state of Christ's kingdom. (1-4). The privileges of his people. (5-10)."
 weight: 35
 ---
 
-# Chapter 35
+# Isaiah 35 
 
 ## Chapter Outline
 

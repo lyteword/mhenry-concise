@@ -1,8 +1,11 @@
 ---
+title: "Numbers 36 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "36"
+description: "In this chapter: The inheritance of the daughters of Zelophehad. (1–4). The daughters of Zelophehad are to marry in their own tribe. (5–12). Conclusion. (13)."
 weight: 36
 ---
 
-# Chapter 36
+# Numbers 36 
 
 ## Chapter Outline
 

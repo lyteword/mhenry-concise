@@ -1,8 +1,11 @@
 ---
+title: "Luke 18 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "18"
+description: "In this chapter: The parable of the importunate widow. (1–8). The Pharisee and the publican. (9–14). Children brought to Christ. (15–17). The ruler hindered by his riches. (18–30). Christ foreshows his death. (31–34). A blind man restored to sight. (35–43)."
 weight: 18
 ---
 
-# Chapter 18
+# Luke 18 
 
 ## Chapter Outline
 

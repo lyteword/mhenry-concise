@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 46 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "46"
+description: "In this chapter: The defeat of the Egyptians. (1-12). Their overthrow after the siege of Tyre. (13-26). A promise of comfort to the Jews. (27-28)."
 weight: 46
 ---
 
-# Chapter 46
+# Jeremiah 46 
 
 ## Chapter Outline
 

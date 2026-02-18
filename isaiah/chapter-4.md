@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 4 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "4"
+description: "In this chapter: The havoc occasioned by war. (1). The times of the Messiah. (2-6)."
 weight: 4
 ---
 
-# Chapter 4
+# Isaiah 4 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "Revelation 1 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "1"
+description: "In this chapter: The Divine origin, the design, and the importance of this book. (1–3). The apostle John salutes the seven churches of Asia. (4–8). Declares when, where, and how, the revelation was made to him. (9–11). His vision, in which he saw Christ appear. (12–20)."
 weight: 1
 ---
 
-# Chapter 1
+# Revelation 1 
 
 ## Chapter Outline
 

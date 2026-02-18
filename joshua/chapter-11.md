@@ -1,8 +1,11 @@
 ---
+title: "Joshua 11 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "11"
+description: "In this chapter: Divers kings overcome at the waters of Merom. (1–9). Hazor is taken and burned. (10–14). All that country subdued, The Anakims cut off. (15–23)."
 weight: 11
 ---
 
-# Chapter 11
+# Joshua 11 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "Genesis 8 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "8"
+description: "In this chapter: God remembers Noah, and dries up the waters. (1–3). The ark rests on Ararat, Noah sends forth a raven and a dove. (4–12). Noah being commanded, goes out of the ark. (13–19). Noah offers sacrifice, God promises to curse the earth no more. (20–22)."
 weight: 8
 ---
 
-# Chapter 8
+# Genesis 8 
 
 ## Chapter Outline
 

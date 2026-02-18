@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 24 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "24"
+description: "In this chapter: Good and bad figs represent the Jews in captivity, and those who remain in their own land. (1-10)."
 weight: 24
 ---
 
-# Chapter 24
+# Jeremiah 24 
 
 ## Chapter Outline
 

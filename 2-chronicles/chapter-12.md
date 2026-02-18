@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 12 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "12"
+description: "In this chapter: Rehoboam, forsaking the Lord, is punished. (1-16)."
 weight: 12
 ---
 
-# Chapter 12
+# 2 Chronicles 12 
 
 ## Chapter Outline
 

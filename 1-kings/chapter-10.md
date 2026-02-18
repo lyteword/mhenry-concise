@@ -1,8 +1,11 @@
 ---
+title: "1 Kings 10 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "10"
+description: "In this chapter: The queen of Sheba's visit to Solomon. (1–13). Solomon's wealth. (14–29)."
 weight: 10
 ---
 
-# Chapter 10
+# 1 Kings 10 
 
 ## Chapter Outline
 

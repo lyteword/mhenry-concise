@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 23 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "23"
+description: "In this chapter: David rescues Keilah. (1–6). God warns him to escape from Keilah. (7–13). Jonathan comforts David. (14–18). He is rescued from Saul by an invasion of the Philistines. (19–29)."
 weight: 23
 ---
 
-# Chapter 23
+# 1 Samuel 23 
 
 ## Chapter Outline
 

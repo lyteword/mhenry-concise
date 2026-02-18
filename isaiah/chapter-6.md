@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 6 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "6"
+description: "In this chapter: The vision which Isaiah beheld in the temple. (1-8). The Lord declares the blindness to come upon the Jewish nation, and the destruction which would follow. (9-13)."
 weight: 6
 ---
 
-# Chapter 6
+# Isaiah 6 
 
 ## Chapter Outline
 

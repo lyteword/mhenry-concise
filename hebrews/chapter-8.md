@@ -1,8 +1,11 @@
 ---
+title: "Hebrews 8 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "8"
+description: "In this chapter: The excellence of Christ's priesthood above that of Aaron is shown. (1–6). The great excellence of the new covenant above the former. (7–13)."
 weight: 8
 ---
 
-# Chapter 8
+# Hebrews 8 
 
 ## Chapter Outline
 

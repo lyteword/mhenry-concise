@@ -1,8 +1,11 @@
 ---
+title: "Luke 23 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "23"
+description: "In this chapter: Christ before Pilate. (1–5). Christ before Herod. (6–12). Barabbas preferred to Christ. (13–25). Christ speaks of the destruction of Jerusalem. (26–31). The crucifixion, The repentant malefactor. (32–43). The death of Christ. (44–49). The burial of Christ. (50–56)."
 weight: 23
 ---
 
-# Chapter 23
+# Luke 23 
 
 ## Chapter Outline
 

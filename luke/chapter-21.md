@@ -1,8 +1,11 @@
 ---
+title: "Luke 21 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "21"
+description: "In this chapter: Christ commends a poor widow. (1–4). His prophecy. (5–28). Christ exhorts to watchfulness. (29–38)."
 weight: 21
 ---
 
-# Chapter 21
+# Luke 21 
 
 ## Chapter Outline
 

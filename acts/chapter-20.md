@@ -1,8 +1,11 @@
 ---
+title: "Acts 20 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "20"
+description: "In this chapter: Paul's journeys. (1–6). Eutychus restored to life. (7–12). Paul travels towards Jerusalem. (13–16). Paul's discourse to the elders of Ephesus. (17–27). Their farewell. (28–38)."
 weight: 20
 ---
 
-# Chapter 20
+# Acts 20 
 
 ## Chapter Outline
 

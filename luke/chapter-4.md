@@ -1,8 +1,11 @@
 ---
+title: "Luke 4 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "4"
+description: "In this chapter: The temptation of Christ. (1–13). Christ in the synagogue of Nazareth. (14–30). He casts out an unclean spirit and heals the sick. (31–44)."
 weight: 4
 ---
 
-# Chapter 4
+# Luke 4 
 
 ## Chapter Outline
 

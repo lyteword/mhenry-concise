@@ -1,8 +1,11 @@
 ---
+title: "2 Samuel 15 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "15"
+description: "In this chapter: Absalom's ambition. (1–6). His conspiracy. (7–12). David leaves Jerusalem. (13–23). David sends back the ark. (24–30). He prays against Ahithophel's counsel. (31–37)."
 weight: 15
 ---
 
-# Chapter 15
+# 2 Samuel 15 
 
 ## Chapter Outline
 

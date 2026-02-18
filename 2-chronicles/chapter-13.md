@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 13 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "13"
+description: "In this chapter: Abijah overcomes Jeroboam. (1-22)."
 weight: 13
 ---
 
-# Chapter 13
+# 2 Chronicles 13 
 
 ## Chapter Outline
 

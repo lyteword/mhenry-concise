@@ -1,8 +1,11 @@
 ---
+title: "Judges 14 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "14"
+description: "In this chapter: Samson desires a wife of the Philistines. (1–4). Samson kills a lion. (5–9). Samson's riddle. (10–20)."
 weight: 14
 ---
 
-# Chapter 14
+# Judges 14 
 
 ## Chapter Outline
 

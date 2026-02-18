@@ -1,8 +1,11 @@
 ---
+title: "Mark 10 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "10"
+description: "In this chapter: The Pharisees' question concerning divorce. (1–12). Christ's love to little children. (13–16). Christ's discourse with the rich young man. (17–22). The hinderance of riches. (23–31). Christ foretells his sufferings. (32–45). Bartimeus healed. (46–52)."
 weight: 10
 ---
 
-# Chapter 10
+# Mark 10 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "Exodus 31 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "31"
+description: "In this chapter: Bezaleel and Aholiab are appointed and qualified for the work of the tabernacle. (1–11). The observance of the sabbath. (12–17). Moses receives the tables of the law. (18)."
 weight: 31
 ---
 
-# Chapter 31
+# Exodus 31 
 
 ## Chapter Outline
 

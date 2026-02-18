@@ -1,8 +1,11 @@
 ---
+title: "Esther 5 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "5"
+description: "In this chapter: Esther's application received. (1–8). Haman prepares to hang Mordecai. (9–14)."
 weight: 5
 ---
 
-# Chapter 5
+# Esther 5 
 
 ## Chapter Outline
 

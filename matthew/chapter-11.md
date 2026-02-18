@@ -1,8 +1,11 @@
 ---
+title: "Matthew 11 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "11"
+description: "In this chapter: Christ's preaching. (1). Christ's answer to John's disciples. (2–6). Christ's testimony to John the Baptist. (7–15). The perverseness of the Jews. (16–24). The gospel revealed to the simple. The heavy-laden invited. (25–30)."
 weight: 11
 ---
 
-# Chapter 11
+# Matthew 11 
 
 ## Chapter Outline
 

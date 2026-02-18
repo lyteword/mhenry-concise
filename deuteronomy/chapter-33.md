@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 33 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "33"
+description: "In this chapter: The glorious majesty of God. (1–5). The blessings of the twelve tribes. (6–23). Strength to believers. (24, 25). The excellency of Israel. (26–29)."
 weight: 33
 ---
 
-# Chapter 33
+# Deuteronomy 33 
 
 ## Chapter Outline
 

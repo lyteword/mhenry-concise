@@ -1,8 +1,11 @@
 ---
+title: "Mark 8 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "8"
+description: "In this chapter: Four thousand fed by a miracle. (1–10). Christ cautions against the Pharisees and Herodians. (11–21). A blind man healed. (22–26). Peter's testimony to Christ. (27–33). Christ must be followed. (34–38)."
 weight: 8
 ---
 
-# Chapter 8
+# Mark 8 
 
 ## Chapter Outline
 

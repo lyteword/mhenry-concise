@@ -1,8 +1,11 @@
 ---
+title: "Romans 16 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "16"
+description: "In this chapter: The apostle recommends Phebe to the church at Rome, and greets several friends there. (1–16). Cautions the church against such as made divisions. (17–20). Christian salutations. (21–24). The epistle concludes with ascribing glory to God. (25–27)."
 weight: 16
 ---
 
-# Chapter 16
+# Romans 16 
 
 ## Chapter Outline
 

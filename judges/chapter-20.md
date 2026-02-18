@@ -1,8 +1,11 @@
 ---
+title: "Judges 20 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "20"
+description: "In this chapter: The tribe of Benjamin nearly extirpated. (1-48)."
 weight: 20
 ---
 
-# Chapter 20
+# Judges 20 
 
 ## Chapter Outline
 

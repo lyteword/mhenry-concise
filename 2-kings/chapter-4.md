@@ -1,8 +1,11 @@
 ---
+title: "2 Kings 4 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "4"
+description: "In this chapter: Elisha multiplies the widow's oil. (1–7). The Shunammite obtains a son. (8–17). The Shunammite's son restored to life. (18–37). The miracle of healing the pottage, and of feeding the sons of the prophets. (38–44)."
 weight: 4
 ---
 
-# Chapter 4
+# 2 Kings 4 
 
 ## Chapter Outline
 

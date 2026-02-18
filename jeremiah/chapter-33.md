@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 33 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "33"
+description: "In this chapter: The restoration of the Jews. (1-13). The Messiah promised; happiness of his times. (14-26)."
 weight: 33
 ---
 
-# Chapter 33
+# Jeremiah 33 
 
 ## Chapter Outline
 

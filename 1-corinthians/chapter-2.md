@@ -1,8 +1,11 @@
 ---
+title: "1 Corinthians 2 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "2"
+description: "In this chapter: The plain manner in which the apostle preached Christ crucified. (1–5). The wisdom contained in this doctrine. (6–9). It cannot be duly known but by the Holy Spirit. (10–16)."
 weight: 2
 ---
 
-# Chapter 2
+# 1 Corinthians 2 
 
 ## Chapter Outline
 

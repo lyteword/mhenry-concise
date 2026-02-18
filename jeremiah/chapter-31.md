@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 31 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "31"
+description: "In this chapter: The restoration of Israel. (1-9). Promises of guidance and happiness; Rachel lamenting. (10-17). Ephraim laments his errors. (18-20). The promised Saviour. (21-26). God's care over the church. (27-34). Peace and prosperity in gospel time. (35-40)."
 weight: 31
 ---
 
-# Chapter 31
+# Jeremiah 31 
 
 ## Chapter Outline
 

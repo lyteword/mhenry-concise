@@ -1,8 +1,11 @@
 ---
+title: "Exodus 26 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "26"
+description: "In this chapter: The curtains of the tabernacle. (1–6). The curtains of goats' hair. (7–14). The boards, sockets, and bars. (15–30). The vail of the holy of holies, and for the entrance. (31–37)."
 weight: 26
 ---
 
-# Chapter 26
+# Exodus 26 
 
 ## Chapter Outline
 

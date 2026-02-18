@@ -1,8 +1,11 @@
 ---
+title: "Matthew 12 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "12"
+description: "In this chapter: Jesus defends his disciples for plucking corn on the sabbath day. (1–8). Jesus heals a man with a withered hand on the sabbath. (9–13). The malice of the Pharisees. (14–21). Jesus heals a demoniac. (22–30). Blasphemy of the Pharisees. (31, 32). Evil words proceed from an evil heart. (33–37). The scribes and Pharisees reproved for seeking a sign. (38–45). The disciples of Christ are his nearest relations. (46–50)."
 weight: 12
 ---
 
-# Chapter 12
+# Matthew 12 
 
 ## Chapter Outline
 

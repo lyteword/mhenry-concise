@@ -1,8 +1,11 @@
 ---
+title: "Micah 5 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "5"
+description: "In this chapter: The birth of Christ and conversion of the Gentiles. (1–6). The triumphs of Israel. (7–15)."
 weight: 5
 ---
 
-# Chapter 5
+# Micah 5 
 
 ## Chapter Outline
 

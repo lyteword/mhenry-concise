@@ -1,8 +1,11 @@
 ---
+title: "Exodus 17 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "17"
+description: "In this chapter: The Israelites murmur for water at Rephidim, God sendeth it out of the rock. (1–7). Amalek overcome, The prayers of Moses. (8–16)."
 weight: 17
 ---
 
-# Chapter 17
+# Exodus 17 
 
 ## Chapter Outline
 

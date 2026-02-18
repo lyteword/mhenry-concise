@@ -1,8 +1,11 @@
 ---
+title: "Genesis 23 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "23"
+description: "In this chapter: The death of Sarah, Abraham applies for a burying-place. (1–13). Sarah's burying-place. (14–20)."
 weight: 23
 ---
 
-# Chapter 23
+# Genesis 23 
 
 ## Chapter Outline
 

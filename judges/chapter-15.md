@@ -1,8 +1,11 @@
 ---
+title: "Judges 15 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "15"
+description: "In this chapter: Samson is denied his wife, He smites the Philistines. (1–8). Samson kills a thousand of the Philistines with a jaw-bone. (9–17). His distress from thirst. (18–20)."
 weight: 15
 ---
 
-# Chapter 15
+# Judges 15 
 
 ## Chapter Outline
 

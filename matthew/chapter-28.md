@@ -1,8 +1,11 @@
 ---
+title: "Matthew 28 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "28"
+description: "In this chapter: Christ's resurrection. (1–8). He appears to the women. (9, 10). Confession of the soldiers. (11–15). Christ's commission to his disciples. (16–20)."
 weight: 28
 ---
 
-# Chapter 28
+# Matthew 28 
 
 ## Chapter Outline
 

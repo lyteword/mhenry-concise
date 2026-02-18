@@ -1,8 +1,11 @@
 ---
+title: "Nehemiah 5 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "5"
+description: "In this chapter: The Jews complain of grievances. (1–5). Nehemiah redresses the grievances. (6–13). Nehemiah's forbearance. (14–19)."
 weight: 5
 ---
 
-# Chapter 5
+# Nehemiah 5 
 
 ## Chapter Outline
 

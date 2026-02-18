@@ -1,8 +1,11 @@
 ---
+title: "Daniel 3 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "3"
+description: "In this chapter: Nebuchadnezzar's golden image. (1-7). Shadrach and his companions refuse to worship it. (8-18). They are cast into a furnace, but are miraculously preserved. (19-27). Nebuchadnezzar gives glory to Jehovah. (28-30)."
 weight: 3
 ---
 
-# Chapter 3
+# Daniel 3 
 
 ## Chapter Outline
 

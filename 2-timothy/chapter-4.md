@@ -1,8 +1,11 @@
 ---
+title: "2 Timothy 4 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "4"
+description: "In this chapter: The apostle solemnly charges Timothy to be diligent, though many will not bear sound doctrine. (1–5). Enforces the charge from his own martyrdom, then at hand. (6–8). Desires him to come speedily. (9–13). He cautions, and complains of such as had deserted him; and expresses his faith as to his own preservation to the heavenly kingdom. (14–18). Friendly greetings and his usual blessing. (19–22)."
 weight: 4
 ---
 
-# Chapter 4
+# 2 Timothy 4 
 
 ## Chapter Outline
 

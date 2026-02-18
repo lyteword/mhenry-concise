@@ -1,8 +1,11 @@
 ---
+title: "2 Corinthians 10 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "10"
+description: "In this chapter: The apostle states his authority with meekness and humility. (1–6). Reasons with the Corinthians. (7–11). Seeks the glory of God, and to be approved of him. (12–18)."
 weight: 10
 ---
 
-# Chapter 10
+# 2 Corinthians 10 
 
 ## Chapter Outline
 

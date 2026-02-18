@@ -1,8 +1,11 @@
 ---
+title: "Leviticus 2 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "2"
+description: "In this chapter: The meat-offering of flour. (1–11). The offering of first-fruits. (12–16)."
 weight: 2
 ---
 
-# Chapter 2
+# Leviticus 2 
 
 ## Chapter Outline
 

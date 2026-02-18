@@ -1,8 +1,11 @@
 ---
+title: "John 13 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "13"
+description: "In this chapter: Christ washes the disciples' feet. (1–17). The treachery of Judas foretold. (18–30). Christ commands the disciples to love one another. (31–38)."
 weight: 13
 ---
 
-# Chapter 13
+# John 13 
 
 ## Chapter Outline
 

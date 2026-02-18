@@ -1,8 +1,11 @@
 ---
+title: "Romans 8 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "8"
+description: "In this chapter: The freedom of believers from condemnation. (1–9). Their privileges as being the children of God. (10–17). Their hopeful prospects under tribulations. (18–25). Their assistance from the Spirit in prayer. (26, 27). Their interest in the love of God. (28–31). Their final triumph, through Christ. (32–39)."
 weight: 8
 ---
 
-# Chapter 8
+# Romans 8 
 
 ## Chapter Outline
 

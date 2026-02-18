@@ -1,8 +1,11 @@
 ---
+title: "Zechariah 6 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "6"
+description: "In this chapter: The vision of the chariots. (1–8). Joshua, the high priest, crowned as a type of Christ. (9–15)."
 weight: 6
 ---
 
-# Chapter 6
+# Zechariah 6 
 
 ## Chapter Outline
 

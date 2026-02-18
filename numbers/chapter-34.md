@@ -1,8 +1,11 @@
 ---
+title: "Numbers 34 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "34"
+description: "In this chapter: The bounds of the promised land. (1–15). Those appointed to divide the land. (16–29)."
 weight: 34
 ---
 
-# Chapter 34
+# Numbers 34 
 
 ## Chapter Outline
 

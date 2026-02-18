@@ -1,8 +1,11 @@
 ---
+title: "1 Chronicles 1 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "1"
+description: "In this chapter: Genealogies, Adam to Abraham. (1–27). The descendants of Abraham. (28–54)."
 weight: 1
 ---
 
-# Chapter 1
+# 1 Chronicles 1 
 
 ## Chapter Outline
 

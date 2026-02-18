@@ -1,8 +1,11 @@
 ---
+title: "Job 15 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "15"
+description: "In this chapter: Eliphaz reproves Job. (1–16). The unquietness of wicked men. (17–35)."
 weight: 15
 ---
 
-# Chapter 15
+# Job 15 
 
 ## Chapter Outline
 

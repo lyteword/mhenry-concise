@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 4 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "4"
+description: "In this chapter: The siege of Jerusalem. (1-8). The famine the inhabitants would suffer. (9-17)."
 weight: 4
 ---
 
-# Chapter 4
+# Ezekiel 4 
 
 ## Chapter Outline
 

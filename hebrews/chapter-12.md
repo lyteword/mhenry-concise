@@ -1,8 +1,11 @@
 ---
+title: "Hebrews 12 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "12"
+description: "In this chapter: An exhortation to be constant and persevere, The example of Christ is set forth, and the gracious design of God in all the sufferings believers endured. (1–11). Peace and holiness are recommended, with cautions against despising spiritual blessings. (12–17). The New Testament dispensation shown to be much more excellent than the Old. (18–29)."
 weight: 12
 ---
 
-# Chapter 12
+# Hebrews 12 
 
 ## Chapter Outline
 

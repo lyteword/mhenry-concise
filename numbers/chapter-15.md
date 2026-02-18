@@ -1,8 +1,11 @@
 ---
+title: "Numbers 15 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "15"
+description: "In this chapter: The law of the meat-offering and the drink-offering, The stranger under the same law. (1–21). The sacrifice for the sin of ignorance. (22–29). The punishment of presumption, The sabbath-breaker stoned. (30–36). The law for fringes on garment. (37–41)."
 weight: 15
 ---
 
-# Chapter 15
+# Numbers 15 
 
 ## Chapter Outline
 

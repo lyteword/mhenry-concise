@@ -1,8 +1,11 @@
 ---
+title: "Acts 21 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "21"
+description: "In this chapter: Paul's voyage towards Jerusalem. (1–7). Paul at Cesarea. The prophecy of Agabus, Paul at Jerusalem. (8–18). He is persuaded to join in ceremonial observances. (19–26). Being in danger from the Jews, he is rescued by the Romans. (27–40)."
 weight: 21
 ---
 
-# Chapter 21
+# Acts 21 
 
 ## Chapter Outline
 

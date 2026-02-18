@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 9 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "9"
+description: "In this chapter: The Israelites not to think their success came by their own worthiness. (1–6). Moses reminds the Israelites of their rebellions. (7–29)."
 weight: 9
 ---
 
-# Chapter 9
+# Deuteronomy 9 
 
 ## Chapter Outline
 

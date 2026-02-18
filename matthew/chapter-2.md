@@ -1,8 +1,11 @@
 ---
+title: "Matthew 2 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "2"
+description: "In this chapter: The wise men's search after Christ. (1–8). The wise men worship Jesus. (9–12). Jesus carried into Egypt. (13–15). Herod causes the infants of Bethlehem to be massacred. (16–18). Death of Herod, Jesus brought to Nazareth. (19–23)."
 weight: 2
 ---
 
-# Chapter 2
+# Matthew 2 
 
 ## Chapter Outline
 

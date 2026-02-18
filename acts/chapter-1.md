@@ -1,8 +1,11 @@
 ---
+title: "Acts 1 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "1"
+description: "In this chapter: Proofs of Christ's resurrection. (1–5). Christ's ascension. (6–11). The apostles unite in prayer. (12–14). Matthias chosen in the place of Judas. (15–26)."
 weight: 1
 ---
 
-# Chapter 1
+# Acts 1 
 
 ## Chapter Outline
 

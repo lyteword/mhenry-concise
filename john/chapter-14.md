@@ -1,8 +1,11 @@
 ---
+title: "John 14 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "14"
+description: "In this chapter: Christ comforts his disciples. (1–11). He further comforts his disciples. (12–17). He still further comforts his disciples. (18–31)."
 weight: 14
 ---
 
-# Chapter 14
+# John 14 
 
 ## Chapter Outline
 

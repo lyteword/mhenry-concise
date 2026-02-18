@@ -1,8 +1,11 @@
 ---
+title: "Genesis 9 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "9"
+description: "In this chapter: God blesses Noah, and grants flesh for food. (1–3). Blood, and murder forbidden. (4–7). God's covenant by the rainbow. (8–17). Noah plants a vineyard, is drunken and mocked by Ham. (18–23). Noah curses Canaan, blesses Shem, prays for Japheth, His death. (24–29)."
 weight: 9
 ---
 
-# Chapter 9
+# Genesis 9 
 
 ## Chapter Outline
 

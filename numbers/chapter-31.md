@@ -1,8 +1,11 @@
 ---
+title: "Numbers 31 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "31"
+description: "In this chapter: War with Midian. (1–6). Balaam slain. (7–12). Those slain who caused sin. (13–38). Purification of the Israelites. (39–24). Division of the spoil. (25–47). Offerings. (48–54)."
 weight: 31
 ---
 
-# Chapter 31
+# Numbers 31 
 
 ## Chapter Outline
 

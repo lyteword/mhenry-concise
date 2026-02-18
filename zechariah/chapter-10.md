@@ -1,8 +1,11 @@
 ---
+title: "Zechariah 10 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "10"
+description: "In this chapter: Blessings to be sought from the Lord. (1–5). God will restore his people. (6–12)."
 weight: 10
 ---
 
-# Chapter 10
+# Zechariah 10 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 44 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "44"
+description: "In this chapter: Here are promises of the influences of the Holy Spirit. (1-8). An exposure of the folly of idolatry. (9-20). Also the deliverance of God's people. (21-28)."
 weight: 44
 ---
 
-# Chapter 44
+# Isaiah 44 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 11 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "11"
+description: "In this chapter: Jabesh-gilead delivered. (1–11). Saul confirmed in his kingdom. (12–15)."
 weight: 11
 ---
 
-# Chapter 11
+# 1 Samuel 11 
 
 ## Chapter Outline
 

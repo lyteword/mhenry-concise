@@ -1,8 +1,11 @@
 ---
+title: "Genesis 5 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "5"
+description: "In this chapter: Adam and Seth. (1–5). The patriarchs from Seth to Enoch. (6–20). Enoch. (21–24). Methuselah to Noah. (25–32)."
 weight: 5
 ---
 
-# Chapter 5
+# Genesis 5 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 64 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "64"
+description: "In this chapter: The church prays that God's power may be manifested. (1-5). A confession of sin, and afflictions bewailed. (6-12)."
 weight: 64
 ---
 
-# Chapter 64
+# Isaiah 64 
 
 ## Chapter Outline
 

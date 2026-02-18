@@ -1,8 +1,11 @@
 ---
+title: "Hebrews 1 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "1"
+description: "In this chapter: The surpassing dignity of the Son of God in his Divine person, and in his creating and mediatorial work. (1–3). And in his superiority to all the holy angels. (4–14)."
 weight: 1
 ---
 
-# Chapter 1
+# Hebrews 1 
 
 ## Chapter Outline
 

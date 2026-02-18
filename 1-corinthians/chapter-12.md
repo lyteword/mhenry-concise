@@ -1,8 +1,11 @@
 ---
+title: "1 Corinthians 12 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "12"
+description: "In this chapter: The variety of use of spiritual gifts are shown. (1–11). In the human body every member has its place and use. (12–26). This is applied to the church of Christ. (27–30). And there is something more excellent than spiritual gifts. (31)."
 weight: 12
 ---
 
-# Chapter 12
+# 1 Corinthians 12 
 
 ## Chapter Outline
 

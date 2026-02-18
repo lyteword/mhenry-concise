@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 50 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "50"
+description: "In this chapter: The rejection of the Jews. (1-3). The sufferings and exaltation of the Messiah. (4-9). Consolation to the believer, and warning to the unbeliever. (10,11)."
 weight: 50
 ---
 
-# Chapter 50
+# Isaiah 50 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "2 Kings 13 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "13"
+description: "In this chapter: Reign of Jehoahaz. (1–9). Jehoash, king of Israel, Elisha dying. (10–19). Elisha's death, The victories of Jehoash. (20–25)."
 weight: 13
 ---
 
-# Chapter 13
+# 2 Kings 13 
 
 ## Chapter Outline
 

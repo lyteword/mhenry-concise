@@ -1,8 +1,11 @@
 ---
+title: "Matthew 15 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "15"
+description: "In this chapter: Jesus discourses about human traditions. (1–9). He warns against things which really defile. (10–20). He heals the daughter of a Syrophenician woman. (21–28). Jesus heals the sick, and miraculously feeds four thousand. (29–39)."
 weight: 15
 ---
 
-# Chapter 15
+# Matthew 15 
 
 ## Chapter Outline
 

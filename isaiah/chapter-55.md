@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 55 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "55"
+description: "In this chapter: An invitation to receive freely the blessings of the Saviour. (1-5). Gracious offers of pardon and peace. (6-13)."
 weight: 55
 ---
 
-# Chapter 55
+# Isaiah 55 
 
 ## Chapter Outline
 

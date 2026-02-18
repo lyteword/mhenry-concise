@@ -1,8 +1,11 @@
 ---
+title: "1 Kings 12 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "12"
+description: "In this chapter: Rehoboam's accession, The people's petition, His rough answer. (1–15). Ten tribes revolt. (16–24). Jeroboam's idolatry. (25–33)."
 weight: 12
 ---
 
-# Chapter 12
+# 1 Kings 12 
 
 ## Chapter Outline
 

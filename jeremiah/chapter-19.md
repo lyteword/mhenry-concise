@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 19 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "19"
+description: "In this chapter: By the type of breaking an earthen vessel, Jeremiah is to predict the destruction of Judah. (1-15)."
 weight: 19
 ---
 
-# Chapter 19
+# Jeremiah 19 
 
 ## Chapter Outline
 

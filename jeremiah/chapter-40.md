@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 40 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "40"
+description: "In this chapter: Jeremiah is directed to go to Gedaliah. (1-6). A conspiracy against Gedaliah. (7-16)."
 weight: 40
 ---
 
-# Chapter 40
+# Jeremiah 40 
 
 ## Chapter Outline
 

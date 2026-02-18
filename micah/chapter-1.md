@@ -1,8 +1,11 @@
 ---
+title: "Micah 1 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "1"
+description: "In this chapter: The wrath of God against Israel. (1–7). Also against Jerusalem and other cities, Their precautions vain. (8–16)."
 weight: 1
 ---
 
-# Chapter 1
+# Micah 1 
 
 ## Chapter Outline
 

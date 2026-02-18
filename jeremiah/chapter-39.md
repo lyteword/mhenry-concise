@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 39 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "39"
+description: "In this chapter: The taking of Jerusalem. (1-10). Jeremiah used well. (11-14). Promises of safety to Ebed-melech. (15-18)."
 weight: 39
 ---
 
-# Chapter 39
+# Jeremiah 39 
 
 ## Chapter Outline
 

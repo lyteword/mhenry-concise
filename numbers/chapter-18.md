@@ -1,8 +1,11 @@
 ---
+title: "Numbers 18 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "18"
+description: "In this chapter: The charge of the priests and Levites. (1–7). The priests' portion. (8–19). The Levites' portion. (20–32)."
 weight: 18
 ---
 
-# Chapter 18
+# Numbers 18 
 
 ## Chapter Outline
 

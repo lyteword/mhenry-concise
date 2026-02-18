@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 63 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "63"
+description: "In this chapter: Christ's victory over his enemies. (1-6). His mercy toward his church. (7-14). The prayer of the church. (15-19)."
 weight: 63
 ---
 
-# Chapter 63
+# Isaiah 63 
 
 ## Chapter Outline
 

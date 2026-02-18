@@ -1,8 +1,11 @@
 ---
+title: "Joshua 10 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "10"
+description: "In this chapter: Five kings war against Gibeon. (1–6). Joshua succours Gibeon, The sun and moon stand still. (7–14). The kings are taken, their armies defeated, and they are put to death. (15–27). Seven other kings defeated and slain. (28–43)."
 weight: 10
 ---
 
-# Chapter 10
+# Joshua 10 
 
 ## Chapter Outline
 

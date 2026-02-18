@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 14 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "14"
+description: "In this chapter: Jonathan smites the Philistines. (1–15). Their defeat. (16–23). Saul forbids the people to eat till evening. (24–35). Jonathan pointed out by lot. (36–46). Saul's family. (47–52)."
 weight: 14
 ---
 
-# Chapter 14
+# 1 Samuel 14 
 
 ## Chapter Outline
 

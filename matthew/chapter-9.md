@@ -1,8 +1,11 @@
 ---
+title: "Matthew 9 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "9"
+description: "In this chapter: Jesus returns to Capernaum, and heals a paralytic. (1–8). Matthew called. (9). Matthew, or Levi's feast. (10–13). Objections of John's disciples. (14–17). Christ raises the daughter of Jairus, He heals the issue of blood. (18–26). He heals two blind men. (27–31). Christ casts out a dumb spirit. (32–34). He sends forth the apostles. (35–38)."
 weight: 9
 ---
 
-# Chapter 9
+# Matthew 9 
 
 ## Chapter Outline
 

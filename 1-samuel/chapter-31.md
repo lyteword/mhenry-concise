@@ -1,8 +1,11 @@
 ---
+title: "1 Samuel 31 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "31"
+description: "In this chapter: Saul's defeat and death. (1–7). Saul's body rescued by the men of Jabesh-gilead. (8–13)."
 weight: 31
 ---
 
-# Chapter 31
+# 1 Samuel 31 
 
 ## Chapter Outline
 

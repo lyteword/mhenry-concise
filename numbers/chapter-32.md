@@ -1,8 +1,11 @@
 ---
+title: "Numbers 32 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "32"
+description: "In this chapter: The tribes of Reuben and Gad request an inheritance on the east of Jordan. (1–5). Moses reproves the Reubenites and Gadites. (6–15). They explain their views, Moses consents. (16–27). They take possession of the land to the east of Jordan. (28–42)."
 weight: 32
 ---
 
-# Chapter 32
+# Numbers 32 
 
 ## Chapter Outline
 

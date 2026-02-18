@@ -1,8 +1,11 @@
 ---
+title: "Galatians 1 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "1"
+description: "In this chapter: The apostle Paul asserts his apostolic character against such as lessened it. (1–5). He reproves the Galatians for revolting from the gospel of Christ under the influence of evil teachers. (6–9). He proves the Divine authority of his doctrine and mission; and declares what he was before his conversion and calling. (10–14). And how he proceeded after it. (15–24)."
 weight: 1
 ---
 
-# Chapter 1
+# Galatians 1 
 
 ## Chapter Outline
 

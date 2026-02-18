@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 24 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "24"
+description: "In this chapter: Of divorce. (1–4). Of new-married persons, Of man-stealers, Of pledges. (5–13). Of justice and generosity. (14–22)."
 weight: 24
 ---
 
-# Chapter 24
+# Deuteronomy 24 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "1 Chronicles 9 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "9"
+description: "In this chapter: Genealogies. (1-44)."
 weight: 9
 ---
 
-# Chapter 9
+# 1 Chronicles 9 
 
 ## Chapter Outline
 

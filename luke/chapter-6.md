@@ -1,8 +1,11 @@
 ---
+title: "Luke 6 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "6"
+description: "In this chapter: The disciples pluck corn on the sabbath. (1–5). Works of mercy suitable to the sabbath day. (6–11). The apostles chosen. (12–19). Blessings and woes declared. (20–26). Christ exhorts to mercy. (27–36). And to justice and sincerity. (37–49)."
 weight: 6
 ---
 
-# Chapter 6
+# Luke 6 
 
 ## Chapter Outline
 

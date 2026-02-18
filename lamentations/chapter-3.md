@@ -1,8 +1,11 @@
 ---
+title: "Lamentations 3 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "3"
+description: "In this chapter: The faithful lament their calamities, and hope in God's mercies. (1-41)."
 weight: 3
 ---
 
-# Chapter 3
+# Lamentations 3 
 
 ## Chapter Outline
 

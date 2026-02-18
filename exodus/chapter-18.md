@@ -1,8 +1,11 @@
 ---
+title: "Exodus 18 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "18"
+description: "In this chapter: Jethro brings to Moses his wife and two sons. (1–6). Moses entertains Jethro. (7–12). Jethro's counsel to Moses. (13–27)."
 weight: 18
 ---
 
-# Chapter 18
+# Exodus 18 
 
 ## Chapter Outline
 

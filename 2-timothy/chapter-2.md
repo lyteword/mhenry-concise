@@ -1,8 +1,11 @@
 ---
+title: "2 Timothy 2 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "2"
+description: "In this chapter: The apostle exhorts Timothy to persevere with diligence, like a soldier, a combatant, and a husbandman. (1–7). Encouraging him by assurances of a happy end of his faithfulness. (8–13). Warnings to shun vain babblings and dangerous errors. (14–21). Charges to flee youthful lusts, and to minister with zeal against error, but with meekness of spirit. (22–26)."
 weight: 2
 ---
 
-# Chapter 2
+# 2 Timothy 2 
 
 ## Chapter Outline
 

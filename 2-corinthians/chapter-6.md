@@ -1,8 +1,11 @@
 ---
+title: "2 Corinthians 6 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "6"
+description: "In this chapter: The apostle, with others, proved themselves faithful ministers of Christ, by their unblamable life and behaviour. (1–10). By affection for them, And by earnest concern, that they might have no fellowship with unbelievers and idolaters. (11–18)."
 weight: 6
 ---
 
-# Chapter 6
+# 2 Corinthians 6 
 
 ## Chapter Outline
 

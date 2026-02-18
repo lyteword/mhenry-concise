@@ -1,8 +1,11 @@
 ---
+title: "1 Chronicles 28 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "28"
+description: "In this chapter: David exhorts the people to the fear of the Lord. (1–10). He gives instructions for the temple. (11–21)."
 weight: 28
 ---
 
-# Chapter 28
+# 1 Chronicles 28 
 
 ## Chapter Outline
 

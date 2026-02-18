@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 24 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "24"
+description: "In this chapter: The fate of Jerusalem. (1-14). The extent of the sufferings of the Jews. (15-27)."
 weight: 24
 ---
 
-# Chapter 24
+# Ezekiel 24 
 
 ## Chapter Outline
 

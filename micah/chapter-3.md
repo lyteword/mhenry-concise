@@ -1,8 +1,11 @@
 ---
+title: "Micah 3 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "3"
+description: "In this chapter: The cruelty of the princes, and the falsehood of the prophets. (1–8). Their false security. (9–12)."
 weight: 3
 ---
 
-# Chapter 3
+# Micah 3 
 
 ## Chapter Outline
 

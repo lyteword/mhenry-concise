@@ -1,8 +1,11 @@
 ---
+title: "Hebrews 11 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "11"
+description: "In this chapter: The nature and power of faith described. (1–3). It is set forth by instances from Abel to Noah. (4–7). By Abraham and his descendants. (8–19). By Jacob, Joseph, Moses, the Israelites, and Rahab. (20–31). By other Old Testament believers. (32–38). The better state of believers under the gospel. (39, 40)."
 weight: 11
 ---
 
-# Chapter 11
+# Hebrews 11 
 
 ## Chapter Outline
 

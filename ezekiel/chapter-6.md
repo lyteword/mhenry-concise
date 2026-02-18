@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 6 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "6"
+description: "In this chapter: The Divine judgments for idolatry. (1-7). A remnant shall be saved. (8-10). The calamities are to be lamented. (11-14)."
 weight: 6
 ---
 
-# Chapter 6
+# Ezekiel 6 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 35 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "35"
+description: "In this chapter: The passover kept by Josiah. (1–19). Josiah slain in battle. (20–27)."
 weight: 35
 ---
 
-# Chapter 35
+# 2 Chronicles 35 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "Hebrews 9 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "9"
+description: "In this chapter: The Jewish tabernacle and its utensils. (1–5). Their use and meaning. (6–10). These fulfilled in Christ. (11–22). The necessity, superior dignity, and power of his priesthood and sacrifice. (23–28)."
 weight: 9
 ---
 
-# Chapter 9
+# Hebrews 9 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "1 Timothy 3 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "3"
+description: "In this chapter: The qualifications and behaviour of gospel bishops. (1–7). And of deacons and their wives. (8–13). The reason of writing about these, and other church affairs. (14–16)."
 weight: 3
 ---
 
-# Chapter 3
+# 1 Timothy 3 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "Numbers 8 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "8"
+description: "In this chapter: The lamps of the sanctuary. (1–4). Consecration of the Levites, and their service. (5–26)."
 weight: 8
 ---
 
-# Chapter 8
+# Numbers 8 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "Acts 13 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "13"
+description: "In this chapter: The mission of Paul and Barnabas. (1–3). Elymas the sorcerer. (4–13). Paul's discourse at Antioch. (14–41). He preaches to the Gentiles, and is persecuted by the Jews. (42–52)."
 weight: 13
 ---
 
-# Chapter 13
+# Acts 13 
 
 ## Chapter Outline
 

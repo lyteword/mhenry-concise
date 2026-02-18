@@ -1,8 +1,11 @@
 ---
+title: "1 Chronicles 7 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "7"
+description: "In this chapter: Genealogies. (1-40)."
 weight: 7
 ---
 
-# Chapter 7
+# 1 Chronicles 7 
 
 ## Chapter Outline
 

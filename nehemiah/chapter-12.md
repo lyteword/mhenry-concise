@@ -1,8 +1,11 @@
 ---
+title: "Nehemiah 12 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "12"
+description: "In this chapter: The priests and Levites that returned. (1–26). The dedication of the wall. (27–43). The officers of the temple settled. (44–47)."
 weight: 12
 ---
 
-# Chapter 12
+# Nehemiah 12 
 
 ## Chapter Outline
 

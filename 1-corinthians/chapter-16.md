@@ -1,8 +1,11 @@
 ---
+title: "1 Corinthians 16 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "16"
+description: "In this chapter: A collection for the poor at Jerusalem. (1–9). Timothy and Apollos commended. (10–12). Exhortation to watchfulness in faith and love. (13–18). Christian salutations. (19–24)."
 weight: 16
 ---
 
-# Chapter 16
+# 1 Corinthians 16 
 
 ## Chapter Outline
 

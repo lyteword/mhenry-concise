@@ -1,8 +1,11 @@
 ---
+title: "Job 5 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "5"
+description: "In this chapter: Eliphaz urges that the sin of sinners in their ruin. (1–5). God is to be regarded in affliction. (6–16). The happy end of God's correction. (17–27)."
 weight: 5
 ---
 
-# Chapter 5
+# Job 5 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "Revelation 7 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "7"
+description: "In this chapter: A pause between two great periods. (1–3). The peace, happiness, and safety of the saints, as signified by an angel's sealing 144,000. (4–8). A song of praise. (9–12). The blessedness and glory of those that suffered martyrdom for Christ. (13–17)."
 weight: 7
 ---
 
-# Chapter 7
+# Revelation 7 
 
 ## Chapter Outline
 

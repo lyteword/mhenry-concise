@@ -1,8 +1,11 @@
 ---
+title: "Zechariah 8 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "8"
+description: "In this chapter: The restoration of Jerusalem. (1–8). The people encouraged by promises of God's favour, and exhorted to holiness. (9–17). The Jews in the latter days. (18–23)."
 weight: 8
 ---
 
-# Chapter 8
+# Zechariah 8 
 
 ## Chapter Outline
 

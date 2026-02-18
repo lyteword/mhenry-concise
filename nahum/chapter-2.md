@@ -1,8 +1,11 @@
 ---
+title: "Nahum 2 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "2"
+description: "In this chapter: Nineveh's destruction foretold. (1–10). The true cause, their sinning against God, and his appearing against them. (11–13)."
 weight: 2
 ---
 
-# Chapter 2
+# Nahum 2 
 
 ## Chapter Outline
 

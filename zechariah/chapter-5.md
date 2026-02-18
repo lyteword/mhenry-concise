@@ -1,8 +1,11 @@
 ---
+title: "Zechariah 5 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "5"
+description: "In this chapter: The vision of a flying roll. (1–4). The vision of a woman and an ephah. (5–11)."
 weight: 5
 ---
 
-# Chapter 5
+# Zechariah 5 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 10 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "10"
+description: "In this chapter: God's mercies to Israel after their rebellion. (1–11). An exhortation to obedience. (12–22)."
 weight: 10
 ---
 
-# Chapter 10
+# Deuteronomy 10 
 
 ## Chapter Outline
 

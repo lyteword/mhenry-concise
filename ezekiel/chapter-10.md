@@ -1,8 +1,11 @@
 ---
+title: "Ezekiel 10 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "10"
+description: "In this chapter: A vision of the burning of the city. (1-7). The Divine glory departing from the temple. (8-22)."
 weight: 10
 ---
 
-# Chapter 10
+# Ezekiel 10 
 
 ## Chapter Outline
 

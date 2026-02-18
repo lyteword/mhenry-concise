@@ -1,8 +1,11 @@
 ---
+title: "Song Of Solomon 1 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "1"
+description: "In this chapter: The title. (1) . The church confesses her deformity. (2-6) . The church beseeches Christ to lead her to the resting-place of his people. (7,8) . Christ's commendation of the church, Her esteem for Him. (9-17)."
 weight: 1
 ---
 
-# Chapter 1
+# Song Of Solomon 1 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "1 Timothy 6 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "6"
+description: "In this chapter: The duty of Christians towards believing, as well as other masters. (1–5). The advantage of godliness with contentment. (6–10). A solemn charge to Timothy to be faithful. (11–16). The apostle repeats his warning to the rich, and closes with a blessing. (17–21)."
 weight: 6
 ---
 
-# Chapter 6
+# 1 Timothy 6 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "Isaiah 47 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "47"
+description: "In this chapter: God's judgments on Babylon. (1-6). Carelessness and confidence shall not prevent the evil. (7-15)."
 weight: 47
 ---
 
-# Chapter 47
+# Isaiah 47 
 
 ## Chapter Outline
 

@@ -1,8 +1,11 @@
 ---
+title: "Jeremiah 21 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "21"
+description: "In this chapter: The only way of deliverance is to be surrendering to the Babylonians. (1-10). The wickedness of the king and his household. (11-14)."
 weight: 21
 ---
 
-# Chapter 21
+# Jeremiah 21 
 
 ## Chapter Outline
 

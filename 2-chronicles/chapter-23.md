@@ -1,8 +1,11 @@
 ---
+title: "2 Chronicles 23 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "23"
+description: "In this chapter: Joash crowned, and Athaliah slain. (1-21)."
 weight: 23
 ---
 
-# Chapter 23
+# 2 Chronicles 23 
 
 ## Chapter Outline
 

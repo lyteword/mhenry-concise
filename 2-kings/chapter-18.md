@@ -1,8 +1,11 @@
 ---
+title: "2 Kings 18 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "18"
+description: "In this chapter: Good reign of Hezekiah in Judah, Idolatry. (1–8). Sennacherib invades Judah. (9–16). Rabshakeh's blasphemies. (17–37)."
 weight: 18
 ---
 
-# Chapter 18
+# 2 Kings 18 
 
 ## Chapter Outline
 

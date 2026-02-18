@@ -1,8 +1,11 @@
 ---
+title: "Nehemiah 13 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "13"
+description: "In this chapter: Nehemiah turns out the mixed multitude. (1–9). Nehemiah's reform in the house of God. (10–14). Sabbath-breaking restrained. (15–22). The dismissal of strange wives. (23–31)."
 weight: 13
 ---
 
-# Chapter 13
+# Nehemiah 13 
 
 ## Chapter Outline
 

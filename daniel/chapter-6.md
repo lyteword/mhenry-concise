@@ -1,8 +1,11 @@
 ---
+title: "Daniel 6 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "6"
+description: "In this chapter: The malice of Daniel's enemies. (1-5). His constancy in prayer. (6-10). He is cast into the lion's den. (11-17). His miraculous preservation. (18-24). The decree of Darius. (25-28)."
 weight: 6
 ---
 
-# Chapter 6
+# Daniel 6 
 
 ## Chapter Outline
 

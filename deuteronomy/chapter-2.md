@@ -1,8 +1,11 @@
 ---
+title: "Deuteronomy 2 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "2"
+description: "In this chapter: The Edomites to be spared. (1–7). The Moabites and Ammonites to be spared. (8–23). The Amorites to be destroyed. (24–37)."
 weight: 2
 ---
 
-# Chapter 2
+# Deuteronomy 2 
 
 ## Chapter Outline
 

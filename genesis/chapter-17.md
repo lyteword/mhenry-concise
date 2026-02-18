@@ -1,8 +1,11 @@
 ---
+title: "Genesis 17 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "17"
+description: "In this chapter: God renews the covenant with Abram. (1–6). Circumcision instituted. (7–14). Sarai's name changed, Isaac promised. (15–22). Abraham and his family are circumcised. (23–27)."
 weight: 17
 ---
 
-# Chapter 17
+# Genesis 17 
 
 ## Chapter Outline
 

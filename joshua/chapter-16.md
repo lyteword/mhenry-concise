@@ -1,8 +1,11 @@
 ---
+title: "Joshua 16 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "16"
+description: "In this chapter: The sons of Joseph. (1-31)."
 weight: 16
 ---
 
-# Chapter 16
+# Joshua 16 
 
 ## Chapter Outline
 
