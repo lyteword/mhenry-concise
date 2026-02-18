@@ -1,4 +1,7 @@
 ---
+title: "Psalms 101 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "101"
+description: "In this chapter: David's vow and profession of godliness. (1-8)."
 weight: 101
 ---
 

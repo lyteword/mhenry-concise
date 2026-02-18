@@ -1,4 +1,7 @@
 ---
+title: "Psalms 117 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "117"
+description: "In this chapter: All people called upon to praise God. (1-2)."
 weight: 117
 ---
 

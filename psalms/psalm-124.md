@@ -1,4 +1,7 @@
 ---
+title: "Psalms 124 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "124"
+description: "In this chapter: The deliverance of the church. (1–5). Thankfulness for the deliverance. (6–8)."
 weight: 124
 ---
 

@@ -1,4 +1,7 @@
 ---
+title: "Psalms 22 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "22"
+description: "In this chapter: Complaints of discouragement. (1–10). With prayer for deliverance. (11–21). Praises for mercies and redemption. (22–31)."
 weight: 22
 ---
 

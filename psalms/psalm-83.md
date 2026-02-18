@@ -1,4 +1,7 @@
 ---
+title: "Psalms 83 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "83"
+description: "In this chapter: The designs of the enemies of Israel. (1–8). Earnest prayer for their defeat. (9–18)."
 weight: 83
 ---
 

@@ -1,4 +1,7 @@
 ---
+title: "Psalms 53 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "53"
+description: "In this chapter: The corruption of man by nature. (1-6)."
 weight: 53
 ---
 

@@ -1,4 +1,7 @@
 ---
+title: "Psalms 96 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "96"
+description: "In this chapter: A call to all people to praise God. (1–9). God's government and judgment. (10–13)."
 weight: 96
 ---
 

@@ -1,4 +1,7 @@
 ---
+title: "Psalms 40 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "40"
+description: "In this chapter: Confidence for deliverance. (1–5). Christ's work of redemption. (6–10). Prayer for mercy and grace. (11–17)."
 weight: 40
 ---
 

@@ -1,4 +1,7 @@
 ---
+title: "Psalms 127 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "127"
+description: "In this chapter: The value of the Divine blessing. (1-5)."
 weight: 127
 ---
 

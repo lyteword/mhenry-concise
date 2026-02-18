@@ -1,4 +1,7 @@
 ---
+title: "Psalms 71 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "71"
+description: "In this chapter: Prayers that God would deliver and save. (1–13). Believing praises. (14–24)."
 weight: 71
 ---
 

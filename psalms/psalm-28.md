@@ -1,4 +1,7 @@
 ---
+title: "Psalms 28 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "28"
+description: "In this chapter: A prayer in distress. (1–5). Thanksgiving for deliverance. (6–9)."
 weight: 28
 ---
 

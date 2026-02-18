@@ -1,4 +1,7 @@
 ---
+title: "Psalms 19 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "19"
+description: "In this chapter: The glory of God's works. (1–6). His holiness and grace as shown in his word. (7–10). Prayer for the benefit of them. (11–14)."
 weight: 19
 ---
 

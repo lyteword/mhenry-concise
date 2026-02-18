@@ -1,4 +1,7 @@
 ---
+title: "Psalms 26 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "26"
+description: "In this chapter: David, in this psalm, appeals to God touching his integrity. (1-12)."
 weight: 26
 ---
 

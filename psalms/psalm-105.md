@@ -1,4 +1,7 @@
 ---
+title: "Psalms 105 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "105"
+description: "In this chapter: A solemn call to praise and serve the Lord. (1–7). His gracious dealings with Israel. (8–23). Their deliverance from Egypt, and their settlement in Canaan. (24–45)."
 weight: 105
 ---
 

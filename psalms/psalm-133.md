@@ -1,4 +1,7 @@
 ---
+title: "Psalms 133 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "133"
+description: "In this chapter: The excellency of brotherly love. (1-3)."
 weight: 133
 ---
 

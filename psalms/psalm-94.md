@@ -1,4 +1,7 @@
 ---
+title: "Psalms 94 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "94"
+description: "In this chapter: The danger and folly of persecutors. (1–11). Comfort and peace to the persecuted. (12–23)."
 weight: 94
 ---
 

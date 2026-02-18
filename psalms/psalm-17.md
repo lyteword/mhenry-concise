@@ -1,4 +1,7 @@
 ---
+title: "Psalms 17 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "17"
+description: "In this chapter: David's integrity. (1–7). The character of his enemies. His hope of happiness. (8–15)."
 weight: 17
 ---
 

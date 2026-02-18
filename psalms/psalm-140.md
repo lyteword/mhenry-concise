@@ -1,4 +1,7 @@
 ---
+title: "Psalms 140 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "140"
+description: "In this chapter: David encourages himself in God. (1–7). He prays for, and prophesies the destruction of, his persecutors. (8–13)."
 weight: 140
 ---
 

@@ -1,4 +1,7 @@
 ---
+title: "Psalms 59 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "59"
+description: "In this chapter: David prays for deliverance from his enemies. (1–7). He foresees their destruction. (8–17)."
 weight: 59
 ---
 

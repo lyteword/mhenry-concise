@@ -1,4 +1,7 @@
 ---
+title: "Psalms 116 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "116"
+description: "In this chapter: The psalmist declares his love to the Lord. (1–9). His desire to be thankful. (10–19)."
 weight: 116
 ---
 

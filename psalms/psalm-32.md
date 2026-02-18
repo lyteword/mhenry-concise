@@ -1,4 +1,7 @@
 ---
+title: "Psalms 32 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "32"
+description: "In this chapter: The happiness of a pardoned sinner. (1, 2). The misery that went before, and the comfort that followed the confession of sins. (3–7). Sinners instructed, believers encouraged. (8–11)."
 weight: 32
 ---
 

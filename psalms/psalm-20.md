@@ -1,4 +1,7 @@
 ---
+title: "Psalms 20 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "20"
+description: "In this chapter: This psalm is a prayer for the kings of Israel, but with relation to Christ. (1-9)."
 weight: 20
 ---
 

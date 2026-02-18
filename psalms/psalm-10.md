@@ -1,4 +1,7 @@
 ---
+title: "Psalms 10 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "10"
+description: "In this chapter: The psalmist complains of the wickedness of the wicked. (1–11). He prays to God to appear for the relief of his people. (12–18)."
 weight: 10
 ---
 

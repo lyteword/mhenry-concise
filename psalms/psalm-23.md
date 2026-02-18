@@ -1,4 +1,7 @@
 ---
+title: "Psalms 23 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "23"
+description: "In this chapter: Confidence in God's grace and care. (1-6)."
 weight: 23
 ---
 

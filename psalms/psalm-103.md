@@ -1,4 +1,7 @@
 ---
+title: "Psalms 103 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "103"
+description: "In this chapter: An exhortation to bless God for his mercy. (1–5). And to the church and to all men. (6–14). For the constancy of his mercy. (15–18). For the government of the world. (19–22)."
 weight: 103
 ---
 

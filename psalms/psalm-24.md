@@ -1,4 +1,7 @@
 ---
+title: "Psalms 24 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "24"
+description: "In this chapter: Concerning the kingdom of Christ, and the subjects of that kingdom. (1–6). Concerning the King of that kingdom. (7–10)."
 weight: 24
 ---
 

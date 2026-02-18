@@ -1,4 +1,7 @@
 ---
+title: "Psalms 119 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "119"
+description: "In this chapter: "
 weight: 119
 ---
 

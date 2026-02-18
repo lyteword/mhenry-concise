@@ -1,4 +1,7 @@
 ---
+title: "Psalms 97 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "97"
+description: "In this chapter: The Lord Jesus reigns in power that cannot be resisted. (1–7). His care of his people, and his provision for them. (8–12)."
 weight: 97
 ---
 

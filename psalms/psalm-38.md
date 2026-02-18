@@ -1,4 +1,7 @@
 ---
+title: "Psalms 38 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "38"
+description: "In this chapter: God's displeasure at sin. (1–11). The psalmist's sufferings and prayers. (12–22)."
 weight: 38
 ---
 

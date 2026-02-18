@@ -1,4 +1,7 @@
 ---
+title: "Psalms 30 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "30"
+description: "In this chapter: Praise to God for deliverance. (1–5). Others encouraged by his example. (6–12)."
 weight: 30
 ---
 

@@ -1,4 +1,7 @@
 ---
+title: "Psalms 89 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "89"
+description: "In this chapter: God's mercy and truth, and his covenant. (1–4). The glory and perfection of God. (5–14). The happiness of those in communion with him. (15–18). God's covenant with David, as a type of Christ. (19–37). A calamitous state lamented, Prayer for redress. (38–52)."
 weight: 89
 ---
 

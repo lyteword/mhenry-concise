@@ -1,4 +1,7 @@
 ---
+title: "Psalms 27 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "27"
+description: "In this chapter: The psalmist's faith. (1–6). His desire toward God, and expectation from him. (7–14)."
 weight: 27
 ---
 

@@ -1,4 +1,7 @@
 ---
+title: "Psalms 78 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "78"
+description: "In this chapter: Attention called for. (1–8). The history of Israel. (9–39). Their settlement in Canaan. (40–55). The mercies of God to Israel contrasted with their ingratitude. (56–72)."
 weight: 78
 ---
 

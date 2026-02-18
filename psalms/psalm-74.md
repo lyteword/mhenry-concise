@@ -1,4 +1,7 @@
 ---
+title: "Psalms 74 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "74"
+description: "In this chapter: The desolations of the sanctuary. (1–11). Pleas for encouraging faith. (12–17). Petitions for deliverances. (18–23)."
 weight: 74
 ---
 

@@ -1,4 +1,7 @@
 ---
+title: "Psalms 39 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "39"
+description: "In this chapter: David meditates on man's frailty. (1–6). He applies for pardon and deliverance. (7–13)."
 weight: 39
 ---
 

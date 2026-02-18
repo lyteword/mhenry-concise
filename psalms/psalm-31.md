@@ -1,4 +1,7 @@
 ---
+title: "Psalms 31 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "31"
+description: "In this chapter: Confidence in God. (1–8). Prayer in trouble. (9–18). Praise for God's goodness. (19–24)."
 weight: 31
 ---
 

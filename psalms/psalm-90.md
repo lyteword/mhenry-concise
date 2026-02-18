@@ -1,4 +1,7 @@
 ---
+title: "Psalms 90 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "90"
+description: "In this chapter: The eternity of God, the frailty of man. (1–6). Submission to Divine chastisements. (7–11). Prayer for mercy and grace. (12–17)."
 weight: 90
 ---
 

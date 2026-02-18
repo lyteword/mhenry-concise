@@ -1,4 +1,7 @@
 ---
+title: "Psalms 131 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "131"
+description: "In this chapter: The psalmist's humility. Believers encouraged to trust in God. (1-3)."
 weight: 131
 ---
 

@@ -1,4 +1,7 @@
 ---
+title: "Psalms 134 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "134"
+description: "In this chapter: An exhortation to bless the Lord. (1-3)."
 weight: 134
 ---
 

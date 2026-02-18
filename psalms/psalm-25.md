@@ -1,4 +1,7 @@
 ---
+title: "Psalms 25 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "25"
+description: "In this chapter: Confidence in prayer. (1–7). Prayer for remission of sins. (8–14). For help in affliction. (15–22)."
 weight: 25
 ---
 

@@ -1,4 +1,7 @@
 ---
+title: "Psalms 3 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "3"
+description: "In this chapter: David complains to God of his enemies, and confides in God. (1–3). He triumphs over his fears, and gives God the glory, and takes to himself the comfort. (4–8)."
 weight: 3
 ---
 

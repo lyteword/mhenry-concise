@@ -1,4 +1,7 @@
 ---
+title: "Psalms 9 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "9"
+description: "In this chapter: David praises God for protecting his people. (1–10). And for cause to praise him. (11–20)."
 weight: 9
 ---
 

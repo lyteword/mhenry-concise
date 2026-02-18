@@ -1,4 +1,7 @@
 ---
+title: "Psalms 142 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "142"
+description: "In this chapter: David's comfort in prayer. (1-7)."
 weight: 142
 ---
 

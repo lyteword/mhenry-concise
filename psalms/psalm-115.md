@@ -1,4 +1,7 @@
 ---
+title: "Psalms 115 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "115"
+description: "In this chapter: Glory to be ascribed to God. (1–8). by trusting in him and praising him. (9–18)."
 weight: 115
 ---
 

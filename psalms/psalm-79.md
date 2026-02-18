@@ -1,4 +1,7 @@
 ---
+title: "Psalms 79 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "79"
+description: "In this chapter: The deplorable condition of the people of God. (1–5). A petition for relief. (6–13)."
 weight: 79
 ---
 

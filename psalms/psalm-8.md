@@ -1,4 +1,7 @@
 ---
+title: "Psalms 8 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "8"
+description: "In this chapter: God is to be glorified, for making known himself to us. (1, 2). And for making even the heavenly bodies useful to man, thereby placing him but little lower than the angels. (3–9)."
 weight: 8
 ---
 

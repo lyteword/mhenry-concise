@@ -1,4 +1,7 @@
 ---
+title: "Psalms 36 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "36"
+description: "In this chapter: The bad state of the wicked. (1–4). The goodness of God. (5–12)."
 weight: 36
 ---
 

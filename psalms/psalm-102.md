@@ -1,4 +1,7 @@
 ---
+title: "Psalms 102 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "102"
+description: "In this chapter: A sorrowful complaint of great afflictions. (1–11). Encouragement by expecting the performances of God's promises to his church. (12–22). The unchangeableness of God. (23–28)."
 weight: 102
 ---
 

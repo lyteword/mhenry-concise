@@ -1,4 +1,7 @@
 ---
+title: "Psalms 76 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "76"
+description: "In this chapter: The psalmist speaks of God's power. (1–6). All have to fear and to trust in him. (7–12)."
 weight: 76
 ---
 

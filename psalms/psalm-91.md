@@ -1,4 +1,7 @@
 ---
+title: "Psalms 91 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "91"
+description: "In this chapter: The safety of those who have God for their refuge. (1–8). Their favour with Him. (9–16)."
 weight: 91
 ---
 

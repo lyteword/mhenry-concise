@@ -1,4 +1,7 @@
 ---
+title: "Psalms 129 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "129"
+description: "In this chapter: Thankfulness for former deliverances. (1–4). A believing prospect of the destruction of the enemies of Zion. (5–8)."
 weight: 129
 ---
 

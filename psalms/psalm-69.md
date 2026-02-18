@@ -1,4 +1,7 @@
 ---
+title: "Psalms 69 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "69"
+description: "In this chapter: David complains of great distress. (1–12). And begs for succour. (13–21). He declares the judgments of God. (22–29). He concludes with joy and praise. (30–36)."
 weight: 69
 ---
 

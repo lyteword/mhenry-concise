@@ -1,4 +1,7 @@
 ---
+title: "Psalms 61 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "61"
+description: "In this chapter: David seeks God upon former experience. (1–4). He vows to serve God. (5–8)."
 weight: 61
 ---
 

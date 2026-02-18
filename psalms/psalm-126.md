@@ -1,4 +1,7 @@
 ---
+title: "Psalms 126 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "126"
+description: "In this chapter: Those returned out of captivity are to be thankful. (1–3). Those yet in captivity are encouraged. (4–6)."
 weight: 126
 ---
 

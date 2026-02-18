@@ -1,4 +1,7 @@
 ---
+title: "Psalms 121 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "121"
+description: "In this chapter: The safety of the godly. (1-8)."
 weight: 121
 ---
 

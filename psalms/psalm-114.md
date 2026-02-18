@@ -1,4 +1,7 @@
 ---
+title: "Psalms 114 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "114"
+description: "In this chapter: An exhortation to fear God. (1-8)."
 weight: 114
 ---
 

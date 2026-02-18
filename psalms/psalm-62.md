@@ -1,4 +1,7 @@
 ---
+title: "Psalms 62 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "62"
+description: "In this chapter: David's confidence in God. (1–7). No trust to be put in worldly things. (8–12)."
 weight: 62
 ---
 

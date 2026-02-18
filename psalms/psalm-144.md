@@ -1,4 +1,7 @@
 ---
+title: "Psalms 144 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "144"
+description: "In this chapter: David acknowledges the great goodness of God, and prays for help. (1–8). He prays for the prosperity of his kingdom. (9–15)."
 weight: 144
 ---
 

@@ -1,4 +1,7 @@
 ---
+title: "Psalms 84 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "84"
+description: "In this chapter: The psalmist expresses his affection to the ordinances of God. (1–7). His desire towards the God of the ordinances. (8–12)."
 weight: 84
 ---
 

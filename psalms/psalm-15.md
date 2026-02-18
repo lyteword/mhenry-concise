@@ -1,4 +1,7 @@
 ---
+title: "Psalms 15 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "15"
+description: "In this chapter: The way to heaven, if we would be happy, we must be holy. We are encouraged to walk in that way. (1-5)."
 weight: 15
 ---
 

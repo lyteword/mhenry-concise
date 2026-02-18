@@ -1,4 +1,7 @@
 ---
+title: "Psalms 100 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "100"
+description: "In this chapter: An exhortation to praise God, and rejoice in him. (1-5)."
 weight: 100
 ---
 

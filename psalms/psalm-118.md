@@ -1,4 +1,7 @@
 ---
+title: "Psalms 118 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "118"
+description: "In this chapter: It is good to trust in the Lord. (1–18). The coming of Christ in his kingdom. (19–29)."
 weight: 118
 ---
 

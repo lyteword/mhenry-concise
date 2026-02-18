@@ -1,4 +1,7 @@
 ---
+title: "Psalms 80 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "80"
+description: "In this chapter: The psalmist complains of the miseries of the church. (1–7). Its former prosperity and present desolation. (8–16). A prayer for mercy. (17–19)."
 weight: 80
 ---
 

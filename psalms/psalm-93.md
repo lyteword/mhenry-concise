@@ -1,4 +1,7 @@
 ---
+title: "Psalms 93 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "93"
+description: "In this chapter: The majesty, power, and holiness of Christ's kingdom. (1-5)."
 weight: 93
 ---
 

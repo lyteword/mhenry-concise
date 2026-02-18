@@ -1,4 +1,7 @@
 ---
+title: "Psalms 35 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "35"
+description: "In this chapter: David prays for safety. (1–10). He complains of his enemies. (11–16). And calls upon God to support him. (17–28)."
 weight: 35
 ---
 

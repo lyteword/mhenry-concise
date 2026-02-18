@@ -1,4 +1,7 @@
 ---
+title: "Psalms 82 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "82"
+description: "In this chapter: An exhortation to judges. (1–5). The doom of evil rulers. (6–8)."
 weight: 82
 ---
 

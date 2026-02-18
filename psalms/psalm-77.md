@@ -1,4 +1,7 @@
 ---
+title: "Psalms 77 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "77"
+description: "In this chapter: The psalmist's troubles and temptation. (1–10). He encourages himself by the remembrance of God's help of his people. (11–20)."
 weight: 77
 ---
 

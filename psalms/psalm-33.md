@@ -1,4 +1,7 @@
 ---
+title: "Psalms 33 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "33"
+description: "In this chapter: God to be praised. (1–11). His people encouraged by his power. (12–22)."
 weight: 33
 ---
 

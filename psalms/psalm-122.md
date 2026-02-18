@@ -1,4 +1,7 @@
 ---
+title: "Psalms 122 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "122"
+description: "In this chapter: Esteem for Jerusalem. (1–5). Concern for its welfare. (6–9)."
 weight: 122
 ---
 

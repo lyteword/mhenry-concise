@@ -1,4 +1,7 @@
 ---
+title: "Psalms 104 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "104"
+description: "In this chapter: God's majesty in the heavens, The creation of the sea, and the dry land. (1–9). His provision for all creatures. (10–18). The regular course of day and night, and God's sovereign power over all the creatures. (19–30). A resolution to continue praising God. (31–35)."
 weight: 104
 ---
 

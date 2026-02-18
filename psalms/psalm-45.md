@@ -1,4 +1,7 @@
 ---
+title: "Psalms 45 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "45"
+description: "In this chapter: This psalm is a prophecy of Messiah the Prince, and points to him as a Bridegroom espousing the church to himself, and as a King ruling in it, and for it.."
 weight: 45
 ---
 
@@ -6,7 +9,7 @@ weight: 45
 
 ## Psalm Outline
 
-- This psalm is a prophecy of Messiah the Prince, and points to him as a Bridegroom espousing the church to himself, and as a King ruling in it, and for it.
+- This psalm is a prophecy of Messiah the Prince, and points to him as a Bridegroom espousing the church to himself, and as a King ruling in it, and for it. (1-17)
 
 ## Verses 1–5
 

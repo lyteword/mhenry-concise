@@ -1,4 +1,7 @@
 ---
+title: "Psalms 138 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "138"
+description: "In this chapter: The psalmist praises God for answering prayer. (1–5). The Lord's dealing with the humble and the proud. (6–8)."
 weight: 138
 ---
 

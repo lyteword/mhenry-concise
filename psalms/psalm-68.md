@@ -1,4 +1,7 @@
 ---
+title: "Psalms 68 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "68"
+description: "In this chapter: A prayer—The greatness and goodness of God. (1–6). The wonderful works God wrought for his people. (7–14). The presence of God in his church. (15–21). The victories of Christ. (22–28). Enlargement of the church. (29–31). The glory and grace of God. (32–35)."
 weight: 68
 ---
 

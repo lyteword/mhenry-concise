@@ -1,4 +1,7 @@
 ---
+title: "Psalms 50 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "50"
+description: "In this chapter: The glory of God. (1–6). Sacrifices to be changed for prayers. (7–15). Sincere obedience required. (16–23)."
 weight: 50
 ---
 

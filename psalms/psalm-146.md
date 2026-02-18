@@ -1,4 +1,7 @@
 ---
+title: "Psalms 146 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "146"
+description: "In this chapter: Why we should not trust in men. (1–4). Why we should trust in God. (5–10)."
 weight: 146
 ---
 

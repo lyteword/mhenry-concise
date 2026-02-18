@@ -1,4 +1,7 @@
 ---
+title: "Psalms 2 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "2"
+description: "In this chapter: Threatenings against the enemies of Christ's kingdom. (1–6). Promise to Christ as the Head of this kingdom. (7–9). Counsel to all, to espouse its interests. (10–12)."
 weight: 2
 ---
 

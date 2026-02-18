@@ -1,4 +1,7 @@
 ---
+title: "Psalms 44 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "44"
+description: "In this chapter: A petition for succour and relief.."
 weight: 44
 ---
 
@@ -6,7 +9,7 @@ weight: 44
 
 ## Psalm Outline
 
-- A petition for succour and relief.
+- A petition for succour and relief. (1-26)
 
 ## Verses 1–8
 

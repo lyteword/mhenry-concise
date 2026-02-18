@@ -1,4 +1,7 @@
 ---
+title: "Psalms 18 | Read the Matthew Henry Concise Bible Commentary Online"
+linkTitle: "18"
+description: "In this chapter: David rejoices in the deliverances God wrought for him. (1–19). He takes the comfort of his integrity, which God had cleared up. (20–28). He gives to God the glory of all his mighty deeds. (29–50)."
 weight: 18
 ---
 
