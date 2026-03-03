@@ -12,7 +12,7 @@ This project preserves the entire original concise commentary while converting t
 
 ## Project Features
 
-- **Complete Content:** All original commentary and prefaces included
+- **Complete Content:** All original concise commentary notes
 - **Clean Markdown Formatting:** Headings, lists, and emphasis for improved structure and legibility
 - **No Content Changes:** Only the formatting is updated; the original text remains unchanged
 - **Open and Flexible:** Easily copy, search, and annotate in your favorite Markdown-compatible tools
