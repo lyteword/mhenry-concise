@@ -1,12 +1,18 @@
 ---
-title: "Matthew Henry Concise | Read Bible Commentaries Online"
-description: "Dive deep into Scripture with Matthew Henry's Concise Commentary on the Bible. This commentary provides a verse-by-verse explanation of every book in the Bible, making it perfect for Bible study and understanding."
+title: "Matthew Henry Concise Commentary | Read Bible Commentaries Online"
 linkTitle: "MH Concise"
+description: >
+  Dive deep into Scripture with Matthew Henry's Concise Commentary on the Bible. This one-volume commentary provides detailed explanations through every book in the Bible, making it perfect for Bible study and understanding.
 sidebar:
   exclude: true
 cascade:
   toc: true
+layout: single-section
 ---
+
+# The Concise Matthew Henry Commentary on the Bible
+
+Dive deep into Scripture with Matthew Henry's Concise Commentary on the Bible. This one-volume commentary provides detailed explanations through every book in the Bible, making it perfect for Bible study and understanding.
 
 ## Table of Contents
 
