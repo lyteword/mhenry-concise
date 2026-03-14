@@ -1,7 +1,13 @@
 ---
-title: Zephaniah
+title: "Zephaniah | Matthew Henry Concise Commentary"
+linkTitle: "Zephaniah"
 weight: 36
+description: >
+  Read commentary notes on Zephaniah from Matthew Henry's Concise Commentary on the Bible online.
+layout: single-section
 ---
+
+# Zephaniah
 
 Zephaniah excites to repentance, foretells the destruction of the enemies of the Jews, and comforts the pious among them with promises of future blessings, the restoration of their nation, and the prosperity of the church in the latter days.
 

@@ -1,7 +1,13 @@
 ---
-title: Habakkuk
+title: "Habakkuk | Matthew Henry Concise Commentary"
+linkTitle: "Habakkuk"
 weight: 35
+description: >
+  Read commentary notes on Habakkuk from Matthew Henry's Concise Commentary on the Bible online.
+layout: single-section
 ---
+
+# Habakkuk
 
 The subject of this prophecy is the destruction of Judea and Jerusalem for the sins of the people, and the consolation of the faithful under national calamities.
 

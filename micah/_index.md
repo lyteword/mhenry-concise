@@ -1,7 +1,13 @@
 ---
-title: Micah
+title: "Micah | Matthew Henry Concise Commentary"
+linkTitle: "Micah"
 weight: 33
+description: >
+  Read commentary notes on Micah from Matthew Henry's Concise Commentary on the Bible online.
+layout: single-section
 ---
+
+# Micah
 
 Micah was raised up to support Isaiah, and to confirm his predictions, while he invited to repentance, both by threatened judgments and promised mercies. A very remarkable passage, Mic 5 contains a summary of prophecies concerning the Messiah.
 

@@ -1,7 +1,13 @@
 ---
-title: Nehemiah
+title: "Nehemiah | Matthew Henry Concise Commentary"
+linkTitle: "Nehemiah"
 weight: 16
+description: >
+  Read commentary notes on Nehemiah from Matthew Henry's Concise Commentary on the Bible online.
+layout: single-section
 ---
+
+# Nehemiah
 
 The Old Testament history closes with the book of Nehemiah, wherein is recorded the workings of his heart, in the management of public affairs; with many devout reflections.
 
