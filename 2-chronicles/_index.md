@@ -1,8 +1,13 @@
 ---
-title: 2 Chronicles
+title: "2 Chronicles | Matthew Henry Concise Commentary"
+linkTitle: "2 Chronicles"
 weight: 14
+description: >
+  Read commentary notes on 2 Chronicles from Matthew Henry's Concise Commentary on the Bible online.
+layout: single-section
 ---
 
+# 2 Chronicles
 
 {{< cards >}}
 {{< card link="./chapter-1" title="Chapter 1" icon="book-open" >}}

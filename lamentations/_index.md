@@ -1,7 +1,13 @@
 ---
-title: Lamentations
+title: "Lamentations | Matthew Henry Concise Commentary"
+linkTitle: "Lamentations"
 weight: 25
+description: >
+  Read commentary notes on Lamentations from Matthew Henry's Concise Commentary on the Bible online.
+layout: single-section
 ---
+
+# Lamentations
 
 It is evident that Jeremiah was the author of the Lamentations which bear his name. The book was not written till after the destruction of Jerusalem by the Chaldeans. May we be led to consider sin as the cause of all our calamities, and under trials exercise submission, repentance, faith, and prayer, with the hope of promised deliverance through God's mercy.
 

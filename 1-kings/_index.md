@@ -1,7 +1,13 @@
 ---
-title: 1 Kings
+title: "1 Kings | Matthew Henry Concise Commentary"
+linkTitle: "1 Kings"
 weight: 11
+description: >
+  Read commentary notes on 1 Kings from Matthew Henry's Concise Commentary on the Bible online.
+layout: single-section
 ---
+
+# 1 Kings
 
 The history now before us accounts for the affairs of the kingdoms of Judah and Israel, yet with special regard to the kingdom of God among them; for it is a sacred history. It is earlier as to time, teaches much more, and is more interesting than any common histories.
 

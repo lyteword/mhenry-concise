@@ -1,7 +1,13 @@
 ---
-title: 2 Kings
+title: "2 Kings | Matthew Henry Concise Commentary"
+linkTitle: "2 Kings"
 weight: 12
+description: >
+  Read commentary notes on 2 Kings from Matthew Henry's Concise Commentary on the Bible online.
+layout: single-section
 ---
+
+# 2 Kings
 
 {{< cards >}}
 {{< card link="./chapter-1" title="Chapter 1" icon="book-open" >}}
