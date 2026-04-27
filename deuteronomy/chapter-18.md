@@ -19,7 +19,7 @@ Care is taken that the priests entangle not themselves with the affairs of this 
 
 ## Verses 9–14
 
-Was it possible that a people so blessed with Divine institutions, should ever be in any danger of making those their teachers whom God had made their captives? They were in danger; therefore, after many like cautions, they are charged not to do after the abominations of the nations of Canaan. All reckoning of lucky or unlucky days, all charms for diseases, all amulets or spells to prevent evil, fortune-telling, &c. are here forbidden. These are so wicked as to be a chief cause of the rooting out of the Canaanites. It is amazing to think that there should be any pretenders of this kind in such a land, and day of light, as we live in. They are mere impostors who blind and cheat their followers.
+Was it possible that a people so blessed with Divine institutions, should ever be in any danger of making those their teachers whom God had made their captives? They were in danger; therefore, after many like cautions, they are charged not to do after the abominations of the nations of Canaan. All reckoning of lucky or unlucky days, all charms for diseases, all amulets or spells to prevent evil, fortune-telling, etc. are here forbidden. These are so wicked as to be a chief cause of the rooting out of the Canaanites. It is amazing to think that there should be any pretenders of this kind in such a land, and day of light, as we live in. They are mere impostors who blind and cheat their followers.
 
 ## Verses 15–22
 
